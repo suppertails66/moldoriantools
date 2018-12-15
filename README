@@ -1,0 +1,51 @@
+********************************************************************************
+*                Moldorian ~ The Sisters of Light and Darkness ~               *
+*                     English Translation Patch Materials                      *
+********************************************************************************
+
+This package contains the source materials (code/art/script) for the English
+translation project for the Game Gear game Moldorian: Hikari to Yami no Sister.
+
+                    ****************************************
+                    *          Build Instructions          *
+                    ****************************************
+                    
+The build system is only set up for Unix-like systems, though none of the code
+is fundamentally dependent on this and could be ported with a bit of effort.
+You'll need GCC and libpng.
+
+Get a ROM image of the original game. This should be the No-Intro verified dump.
+Specifications:
+
+  No-Intro filename: Moldorian - Hikari to Yami no Sister (Japan).gg
+  CRC32:             4D5D15FB
+  MD5:               95FB42E84A2B08ACCE481B0894EA3CEA
+  SHA-1:             0DAD260B5357B2F61D1452BB73D8321CA53D7262
+
+Rename it "moldorian.gg" and place it in the "moldorian" folder. Then:
+
+$ cd moldorian
+$ ./build.sh
+
+build.sh should then build all the necessary tools and output the translated
+ROM as moldorian_en.gg.
+
+If you want to modify the project, check build.sh to see where the resources
+that get inserted into the game are coming from.
+
+                    ****************************************
+                    *              Licensing               *
+                    ****************************************
+
+See COPYING. Basically, everything by me (Supper) is GPLv3, and everything else
+is under the terms of whoever wrote it.
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                        TheMajinZenki -- Translation
+                               Supper -- Hacking
+                               cccmar -- Editing & Testing
+                             Xanathis -- Testing & Editing
+                               Filler -- Special Thanks
