@@ -1,0 +1,620 @@
+
+//===================================================
+// label used on main menu
+//===================================================
+
+User Manual[end]
+#ENDMSG()
+
+#BREAK()
+
+//===================================================
+// table of contents (this is turned into a menu)
+//===================================================
+
+1. Prologue[end]
+#ENDMSG()
+2. Main Characters[end]
+#ENDMSG()
+3. Game Controls[end]
+#ENDMSG()
+4. How to Start[end]
+#ENDMSG()
+5. Overview and Commands[end]
+#ENDMSG()
+6. Town Facilities[end]
+#ENDMSG()
+7. Adventure Tips[end]
+#ENDMSG()
+8. Safety Warnings[end]
+#ENDMSG()
+
+#BREAK()
+
+//===================================================
+// intro
+//===================================================
+
+#SETSIZE(128, 8)
+#SETCLEARMODE(MESSAGESPLIT)
+
+Thank you for buying {Moldorian: The Sisters of Light and Darkness} for Game Gear. To fully enjoy this game, we recommend reading this instruction manual.[end]
+#ENDMSG()
+
+#BREAK()
+
+//===================================================
+// prologue
+//===================================================
+
+           Prologue[br]
+
+Once upon a time, Humans and Magi were the same race.
+[end]
+#ENDMSG()
+
+One day, a pair of twins were born into the Royal Family of Highlandia, which was known to possess incredible magical powers.
+[end]
+#ENDMSG()
+
+The elder twin was blessed with a natural talent for magic; however, the younger twin had no magical capacity at all.
+[end]
+#ENDMSG()
+
+As they both reached the age of adulthood, the younger prince left on a journey, aiming to discover the meaning to what felt like a curse. His brother thus inherited the throne.
+[end]
+#ENDMSG()
+
+Time passed. The young prince made his way to the outside world and built a castle in Emaroy, becoming its king.
+[end]
+#ENDMSG()
+
+Though they may have lived apart, the two brothers remained on good terms. As both kingdoms prospered, people praised them as the {Two Wise Kings}. This era lasted for seven hundred years...
+[end]
+#ENDMSG()
+
+Then, for reasons unknown, those born in the outside world became known as {Humans}, while those born in Highlandia became known as {Magi}.
+[end]
+#ENDMSG()
+
+Nobody knows why such a change happened. Everything about this period has vanished, just like the legend of the Two Wise Kings.
+[end]
+#ENDMSG()
+
+Moldoria is a world split into two major realms: the {Human Realm} and the {Magic Realm}.
+[end]
+#ENDMSG()
+
+As the name implies, the Magi, inhabitants of the Magic Realm, possess great magical powers, and are capable of controlling monsters at will.
+[end]
+#ENDMSG()
+
+Even though they possess such incredible power, Humans have never had a reason to fear them. Throughout Moldoria's long history, the Magi have done nothing that would threaten the Humans' wellbeing.
+[end]
+#ENDMSG()
+
+Most Humans considered the Magi some kind of ascetic monks enduring harsh daily training. As they lived in two different realms, they could coexist without bothering each other.
+[end]
+#ENDMSG()
+
+The Magi shared a similar sentiment: they were unconcerned with the Humans' existence.
+[end]
+#ENDMSG()
+
+That is not to say there were no relationships at all between the two realms. Throughout history, there had been Human merchants of indomitable commercial spirit who traveled to the Magic Realm, and there had been Magi who had traveled to the Human Realm to learn their culture, though that was no longer necessary after years of what was referred to as the {Magi's movement}.
+[end]
+#ENDMSG()
+
+However...[br]
+One day, something happened. A young girl from the village of Keuzon was taken away by a monster while she was out in the forest.
+[end]
+#ENDMSG()
+
+Humans were shocked and dismayed by this incident, unable to understand why such a tragedy had happened.
+[end]
+#ENDMSG()
+
+At that moment, nobody knew that it was not merely an isolated case, but the beginning of something much darker.
+[end]
+#ENDMSG()
+
+Before long, the ambitions of an evil Magus would bring great peril to all of Moldoria...
+[end]
+#ENDMSG()
+
+
+#BREAK()
+
+//===================================================
+// main characters
+//===================================================
+
+      Main Protagonists[br]
+
+You'll meet many different characters over the course of the game. In these pages, we'll introduce the main protagonists.[end]
+
+#ENDMSG()
+
+  Main Character (Navarre)[br]
+
+The main protagonist of the story. Timid and halfhearted, he always relies on Miria to help him get out of trouble.[end]
+
+#ENDMSG()
+
+             Miria[br]
+
+The main protagonist's childhood friend. Bright and kind, she's liked by everyone in the village.[end]
+
+#ENDMSG()
+
+            Hannes[br]
+
+The main protagonist's father. He was a castle knight in his youth, though he now acts as an advisor for the village.[end]
+
+#ENDMSG()
+
+In his free time, he practices the art of the sword with his weakling of a son.[end]
+
+#ENDMSG()
+
+             Vado[br]
+
+Miria's brother. He's a castle knight with a great sense of justice. His major flaw is getting angry very easily.[end]
+
+#ENDMSG()
+
+            Bucalli[br]
+
+The Magi Prime Minister, counterpart to the Human one. It's rumored that his influence is second only to the King...[end]
+
+#ENDMSG()
+
+You'll meet many comrades. As Navarre travels forth, he'll meet different people, some of whom will join his party and become great comrades and irreplaceable friends.[end]
+
+//Tesko[br]
+
+//Torle[end]
+
+#ENDMSG()
+
+         Main Enemies[br]
+
+Navarre and his comrades will face powerful monsters during their journey. In these pages, we'll introduce some of them.
+
+[end]
+#ENDMSG()
+
+
+           Woodman[br]
+
+A spirit of the forest transformed into a monster. It'll be a formidable opponent in the early stages of the game.
+
+
+[end]
+#ENDMSG()
+
+
+             Fret[br]
+
+While low on HP and attack power, this monster may cause you trouble because it attacks in groups.
+
+
+[end]
+#ENDMSG()
+
+
+            Shaman[br]
+
+While their physical strength is low, they're capable of using magic. Be careful.
+
+
+[end]
+#ENDMSG()
+
+
+          Skull Bat[br]
+
+Large, undead bats. They lurk in towers.
+
+
+[end]
+#ENDMSG()
+
+
+            Gilliam[br]
+
+The monster who kidnapped the King from Castle Emaroy... but why?
+
+
+[end]
+#ENDMSG()
+
+#BREAK()
+
+//===================================================
+// section 3
+//===================================================
+
+        Game Controls[br]
+
+This game can be separated into four different types of screens, each with its own controls. In these pages, we'll individually explain the controls for each screen.
+
+[end]
+#ENDMSG()
+
+      Name Input Screen[br]
+
+D-Pad:[tilebr][tilebr][tilebr]Moves cursor.[br]
+Button 1:[tilebr]Deletes one[br]
+[tilebr][tilebr][tilebr][tilebr][tilebr][tilebr]letter.[br]
+Button 2:[tilebr]Confirms.
+
+[end]
+#ENDMSG()
+
+         Menu Screen[br]
+
+D-Pad:[tilebr][tilebr][tilebr]Moves cursor.[br]
+Start:[tilebr][tilebr][tilebr]Goes back to[br]
+[tilebr][tilebr][tilebr][tilebr][tilebr][tilebr]previous menu.[br]
+Button 1:[tilebr]Confirms.[br]
+Button 2:[tilebr]Cancels.
+
+[end]
+#ENDMSG()
+
+          Map Screen[br]
+
+D-Pad:[tilebr][tilebr][tilebr]Moves cursor.[br]
+Button 1:[tilebr]Opens menu.[br]
+Button 2:[tilebr]Talks to the[br]
+[tilebr]person in front of you;[br]
+[tilebr]inspects the object in[br]
+[tilebr]front of you.
+
+
+[end]
+#ENDMSG()
+
+        Battle Screen[br]
+
+D-Pad/Buttons 1 and 2:[br]
+[tilebr]Input commands.[br]
+[tilebr](Refer to {Overview and[br]
+[tilebr]Commands}.)[br]
+Start: Displays help. Press[br]
+[tilebr]any other button(s) to[br]
+[tilebr]display their command(s).
+
+[end]
+#ENDMSG()
+
+#BREAK()
+//===================================================
+// section 4
+//===================================================
+
+        How to Start[br]
+
+Insert your game cartridge into your Game Gear and turn on the power. After the Sega logo, the game story will scroll. Press Button 1 or 2 to skip to the Title screen, and press Start to open the menu.
+
+[end]
+#ENDMSG()
+
+* New Game[br]
+Select this option to start a new game. Press Button 2 and you will be brought to the name input screen. Use the D-Pad to move your cursor, and press Button 2 to input the letters. Once you're done, highlight {Done} and press Button 2 to continue with the game.
+
+[end]
+#ENDMSG()
+
+* Copy[br]
+This option will allow you to copy an existing save file to another slot. First select the file you wish to copy, then select its destination. Please note that you cannot copy a file over a slot with existing save data.
+
+[end]
+#ENDMSG()
+
+* Continue[br]
+This option will allow you to continue your game from your saved position(s). Select your file with the D-Pad and press Button 2 to confirm.
+
+[end]
+#ENDMSG()
+
+* Delete[br]
+This option will allow you to delete an existing save file. Before the file is definitely deleted, a message reading {Your previous data will be deleted. Are you sure?} will be displayed on screen, and you will be able to confirm whether to proceed or not. Please note that once a save file has been deleted, it can no longer be restored.
+
+[end]
+#ENDMSG()
+
+#BREAK()
+//===================================================
+// section 5
+//===================================================
+   Overview and Commands[br]
+
+         Menu Screen[br]
+
+Press Button 1 on the Map screen to open the menu. In these pages, we will explain the functions of each option.
+
+[end]
+#ENDMSG()
+
+* Items[br]
+
+This option will allow you to use or drop items. Select an item and press Button 2: you will be able to select whether to {Use} or {Drop} it. When a {[cursor_right]} symbol is displayed in the lower right corner of the item list, it means you can press Right on the D-Pad to switch to the next page.
+
+[end]
+#ENDMSG()
+
+* Equip[br]
+
+This option will allow you to change your characters' equipment. After selecting a character, press Left and Right on the D-Pad to select the Equip List. There are three types of lists: Equipment, Items and Spells.[br]
+
+After that, select the part you wish to alter and press Button 2. You will now be asked to choose whether to {Equip} a new item or {Remove} the highlighted one.
+
+[end]
+#ENDMSG()
+
+Select {Equip} to open a list of equippable items. Select your preferred item with the D-Pad and press Button 2 to confirm.[br]
+
+Select {Remove} to simply remove the highlighted item.
+
+[end]
+#ENDMSG()
+
+NOTE: Items and spells must be equipped before they can be used in battle.
+
+[end]
+#ENDMSG()
+
+* Magic[br]
+
+This option will allow you to use one of the spells you currently know. First, select the character who will cast the spell, then select the spell you wish to use. Finally, select the target character and confirm.
+
+[end]
+#ENDMSG()
+
+* System[br]
+
+Save: This will let you save your progress.[br]
+First, select a file, then confirm. A message reading {Your previous data will be deleted. Are you sure?} will be displayed on screen, and you will be able to confirm whether to proceed or not.
+
+[end]
+#ENDMSG()
+
+Display: This will let you alter the messages' speed. Highlight your preferred speed and confirm. The lower the number, the slower the display speed, and vice versa.
+
+[end]
+#ENDMSG()
+
+* Data[br]
+
+This option will let you check your characters' status. Press Button 2 to see the party's general data; press Button 2 again to see more details of the individual members.
+
+[end]
+#ENDMSG()
+
+        Battle Screen[br]
+
+When you meet enemies on the field, battle will begin. Your characters will step forward in order, waiting for a command to be selected. (The arrow symbols refer to which direction you should press on the D-Pad).
+
+[end]
+#ENDMSG()
+
+* Attack[br]
+
+[button_right] [arrow_right] Pick enemy [arrow_right] Button 2[br]
+
+This command lets you attack an enemy directly with your equipped weapon. By pressing Right on the D-Pad, the command {Attack} will be displayed on screen. Next, select an enemy with Up and Down on the D-Pad and press 2 to confirm.
+
+[end]
+#ENDMSG()
+
+* Defend[br]
+
+[button_left][br]
+
+This command reduces damage from enemy attacks. By pressing Left on the D-Pad, the command {Defend} will be displayed on screen.
+
+[end]
+#ENDMSG()
+
+* Run[br]
+
+Button 2 + [button_left][br]
+
+This command lets you run from an enemy battle. While holding Button 2, press Left on the D-Pad to display the command {Run} on screen. Please note that running from battles is not guaranteed to work without fail.
+
+[end]
+#ENDMSG()
+
+* Item[br]
+
+Button 2 + [button_up]/[button_right]/[button_down][br]
+[tilebr][arrow_right] Pick target[br]
+
+This command allows you to use an item. Hold Button 2 and press either Up, Right or Down on the D-Pad to display the names of the items you have equipped. Then press Up and Down on the D-Pad to select a target and press Button 2 to confirm.
+
+[end]
+#ENDMSG()
+
+* Spells[br]
+
+Button 1 + [button_up]/[button_right]/[button_down]/[button_left][br]
+[tilebr][arrow_right] Select target[br]
+
+This command allows you to cast a spell. Hold Button 1 and press either Up, Down, Left or Right on the D-Pad to display the names of the spells you have equipped. Next, press Up and Down on the D-Pad to select a target and press Button 2 to confirm.
+
+[end]
+#ENDMSG()
+
+#BREAK()
+//===================================================
+// section 6
+//===================================================
+        Town Facilities[br]
+
+There are various facilities in towns and villages you will visit during your journey. In these pages, we will explain their functions and their related commands.
+
+[end]
+#ENDMSG()
+
+             Inns[br]
+
+By resting at an inn, you will recover your HP and MP. Lodging prices will vary depending on the size of your party and the town you are visiting.
+
+[end]
+#ENDMSG()
+
+Stay: This command will let you stay at the inn. The value next to it refers to the cost for spending the night.[br]
+Leave: Leave the inn without spending the night.
+
+[end]
+#ENDMSG()
+
+  Weapons and Armors Store[br]
+
+This store sells weapons and armor. Select an item you wish to purchase to display more information regarding it.
+
+[end]
+#ENDMSG()
+
+View: This will display your character's current equipment.[br]
+Yes: This will confirm your purchase.[br]
+No: This will cancel the purchase and return to the shop's list.
+
+[end]
+#ENDMSG()
+
+NOTE: Make sure to carefully read the values of the equipment you wish to purchase and buy items with a higher stats value than your current equipment.
+
+[end]
+#ENDMSG()
+
+         Tools Shop[br]
+
+This shop sells various items. Once you select an item, you will be able to select the amount you wish to purchase. Highlight your preferred amount and press Button 2 to confirm. You can increase the amount by a single digit by pressing Right on the D-Pad.
+
+[end]
+#ENDMSG()
+
+[x] 1: This will let you buy a single unit of the item.[br]
+[x]10: This will let you buy 10 units of the item.[br]
+[x]**: This will only be displayed when your current funds are sufficient to purchase the maximum quantity of the item.[br]
+
+* By pressing Right on the D-Pad, you can increase the quantity by a single digit.
+
+[end]
+#ENDMSG()
+
+        Magic Teacher[br]
+
+Characters who have MP can enter this facility to learn new spells or enhance the spells they already know.
+
+[end]
+#ENDMSG()
+
+Learn: This will let you learn a new spell. Select the spell you wish to learn and confirm.[br]
+Enhance: This will let you enhance a spell you already know. Select the spell you wish to enhance and confirm.[br]
+Leave: Leave the facility.[br]
+
+* Only characters with an MP value can learn and enhance spells.
+
+[end]
+#ENDMSG()
+
+            Shaman[br]
+
+This is where you can remove curses and poison. Highlight the ritual you wish to perform and confirm.
+
+[end]
+#ENDMSG()
+
+Exorcism: This will remove curses.[br]
+Detoxification: This will cure poisoning.[br]
+Leave: Leave the facility.[br]
+
+* The Shaman must be paid for each ritual individually.
+
+[end]
+#ENDMSG()
+
+#BREAK()
+//===================================================
+// section 7
+//===================================================
+
+       Adventure Tips[br]
+
+Here are some tips that you may find useful during your adventure.
+
+[end]
+#ENDMSG()
+
+* When your HP reaches 0, it's Game Over![br]
+
+If your entire party's HP goes down to 0 in battle, you will get a Game Over and the menu screen will open. After a Game Over, you will start again from your last save.
+
+[end]
+#ENDMSG()
+
+* You can't use items or spells if they aren't equipped![br]
+
+In order to use items or cast spells in battle, they must be equipped beforehand. Please remember to equip them in the {Equip} menu before fighting.
+
+[end]
+#ENDMSG()
+
+* Gathering information is the most basic of basics.[br]
+
+Whenever you reach a new town or village, you should talk to everyone you see. That way, you'll find out what you should be doing and where you should be going next. There are some individuals you will only be able to speak to once. We recommend taking notes of important information you learn.
+
+[end]
+#ENDMSG()
+
+* Inspect all sorts of places.[br]
+
+You should try to check pots or any other suspicious places inside buildings by pressing Button 2. You might find something unexpected.
+
+[end]
+#ENDMSG()
+
+* Don't be reckless.[br]
+
+When you're low on HP, you should consider using items or spells to recover, or heading back to an inn. It would be a shame to get a Game Over only because you felt it would have been a waste to use a recovery item or spell.
+
+[end]
+#ENDMSG()
+
+* Save frequently.[br]
+
+Excluding battles, you can save your game anywhere, so we recommend doing so frequently. It would be a bother to lose all your progress since your last save because of a Game Over.
+
+[end]
+#ENDMSG()
+#BREAK()
+
+//===================================================
+// section 8
+//===================================================
+
+      SAFETY WARNINGS[br]
+
+* Before inserting or removing the cartridge, make sure the console is turned off.[br]
+* Do not forcefully bend the cartridge.[br]
+* Do not touch the pins or wet them with water.[br]
+* The cartridge is delicate: do not disassemble it. Also, avoid using or storing it in places with extreme hot or cold temperatures.[br]
+* Do not use chemicals such as thinner or gasoline to clean the cartridge.[br]
+* Make sure to play the game in a well-lit room, and to keep a good distance from the screen. Also, we recommend resting between 10 and 20 minutes every hour of playtime, and to avoid playing altogether if you're feeling tired or aren't getting enough sleep.
+
+[end]
+#ENDMSG()
+
+* * * HEALTH CONCERNS * * *[br]
+
+There have been reported cases of players suffering from convulsions or loss of consciousness after being exposed to powerful light stimuli or flickering, which may be emitted by television screens. If you have had similar experiences in the past, please consult your physician before playing this game. Furthermore, if you have experienced these symptoms while playing the game, stop playing immediately and receive medical attention.
+
+[end]
+#ENDMSG()
+
+#BREAK()
+

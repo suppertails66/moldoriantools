@@ -1,0 +1,3 @@
+[submodule "moldorian/wla-dx"]
+	path = moldorian/wla-dx
+	url = https://github.com/vhelin/wla-dx.git

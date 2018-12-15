@@ -1,0 +1,81 @@
+//さいしょから[WT]
+New Game[WT]
+
+
+//つづきから[WT]
+Continue[WT]
+
+
+//うつす[WT]
+Copy[WT]
+
+
+//けす[WT]
+Delete[WT]
+
+
+//４×５０　どれから[BR]
+４×５０　Start from[BR]
+
+//はじめますか？[WT]
+where?[WT]
+//that code at the beginning isn't shown in-game.*test*
+
+
+//どれを[BR]
+Delete[BR]
+
+//けしますか？[WT]
+which?[WT]
+
+
+//どれを[BR]
+Copy[BR]
+
+//うつしますか？[WT]
+which?[WT]
+
+
+//どこに[BR]
+Copy[BR]
+
+//うつしますか？[WT]
+where?[WT]
+
+
+//どこに[BR]
+Save[BR]
+
+//セーブしますか？[WT]
+where?[WT]
+
+
+//いぜんの　きろくは　きえますが[BR]
+You will lose previous data.[BR]
+
+//よろしいですか？[WT]
+Are you sure?[WT]
+
+
+//きろくを　うつしました[ED][WT]
+File copied.[ED][WT]
+
+
+//きろくを　おわりました[ED][WT]
+Save completed.[ED][WT]
+
+
+//ざんねんですが、[WT]
+Regretfully, Save [WT]
+
+
+//ばんのセーブデータがこわれています[ED][WT]
+ has been irremediably corrupted.[ED][WT]
+//I'm assuming there would be a number between these two lines.*test*
+
+
+//ナバル[WT]
+Navarre[WT]
+//default name for the main character. Please note that the name input screen only allows for four kana, which may translate to four western alphabet letters. In that case, only "Nava" would fit.
+
+

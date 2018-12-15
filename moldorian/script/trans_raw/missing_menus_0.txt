@@ -1,0 +1,972 @@
+
+Block 0 -------------------------
+
+//はい[ED]
+Yes[ED]
+
+
+//いいえ
+No
+
+
+Block 1 -------------------------
+
+　あ　か　さ　た　な　は　ま　や　ら[ED]
+
+
+い　き　し　ち　に　ひ　み　ゆ　り[ED]
+
+
+う　く　す　つ　ぬ　ふ　む　よ　る[ED]
+
+
+え　け　せ　て　ね　へ　め　　　れ[ED]
+
+
+お　こ　そ　と　の　ほ　も　・　ろ[ED]
+
+
+わ　を　ん　ゃ　ゅ　ょ　っ　？　！[ED]
+
+
+　　　　　カタカナ　もどる　おわる[ED]
+
+
+ア　カ　サ　タ　ナ　ハ　マ　ヤ　ラ[ED]
+
+
+イ　キ　シ　チ　ニ　ヒ　ミ　ユ　り[ED]
+
+
+ウ　ク　ス　ツ　ヌ　フ　ム　ヨ　ル[ED]
+
+
+エ　ケ　セ　テ　ネ　へ　メ　　　レ[ED]
+
+
+オ　コ　ソ　ト　ノ　ホ　モ　・　ロ[ED]
+
+
+ワ　　　ン　ャ　ュ　ョ　ッ　？　！[ED]
+
+
+ァ　ィ　ェ　ォ[ED]
+
+
+　　　　　ひらがな　もどる　おわる
+
+
+Block 2 -------------------------
+
+//よろしいですか？
+Are you sure?
+
+
+Block 3 -------------------------
+
+//データ[ED]
+Data[ED]
+
+
+//レべル[ED]
+Level[ED]
+
+
+//ＨＰ[ED]
+HP[ED]
+
+
+//Ｈ[ED]
+H[ED]
+
+
+//ＭＰ[ED]
+MP[ED]
+
+
+//Ｍ[ED]
+M[ED]
+
+
+//ＥＸＰ[ED]
+EXP[ED]
+
+
+//ＥＸ[ED]
+EX[ED]
+
+
+//ちから[ED]
+Strength[ED]
+
+
+//まもり[ED]
+Defense[ED]
+
+
+//すばやさ[ED]
+Speed[ED]
+
+
+//うん[ED]
+Luck[ED]
+
+
+//たいりょく[ED]
+Endurance[ED]
+
+
+//こうげき[ED]
+Attack[ED]
+
+
+//ぼうぎょ[ED]
+Protection[ED]
+
+
+//どく
+Poison
+
+
+Block 4 -------------------------
+
+//データ[ED]
+Data[ED]
+
+
+//もちもの[ED]
+Inventory[ED]
+
+
+//まほう[ED]
+Magic[ED]
+
+
+//そうび[ED]
+Equipment[ED]
+
+
+//システム
+System
+
+
+Block 5 -------------------------
+
+//セーブ[ED]
+Save[ED]
+
+
+//ひょうじ
+Dispay
+
+
+Block 6 -------------------------
+
+//まほう[ED]
+Magic[ED]
+
+
+ーーーーーーーーーーーーーーーーーー
+
+
+Block 7 -------------------------
+
+//だれに？[ED]
+On who?[ED]
+
+
+//ここでは　つかえません[WT]
+This cannot be used here.[WT]
+
+
+Block 8 -------------------------
+
+//は　すてられません[WT]
+ cannot be dropped.[WT]
+
+
+Block 9 -------------------------
+
+//１こ　すてます[ED]
+ (one) will be dropped.[ED]
+
+
+//すてる[ED]
+Drop[ED]
+
+
+//やめる
+Stop
+
+
+Block 10 -------------------------
+
+//もちもの
+Inventory
+
+
+Block 11 -------------------------
+
+//つかう[ED]
+Use[ED]
+
+
+//すてる[ED]
+Drop[ED]
+
+
+//おきかえ
+Move
+
+
+Block 12 -------------------------
+
+//なし
+None
+
+
+Block 13 -------------------------
+
+//まほう[ED]
+Magic[ED]
+
+
+//だれの？[ED]
+Whose?[ED]
+
+
+//だれに？[ED]
+On who?[ED]
+
+
+//しようできません！[ED]
+Cannot be used![ED]
+
+
+//ＭＰが　たりない。
+Not enough MP.
+
+
+Block 14 -------------------------
+
+//なし
+None
+
+
+Block 15 -------------------------
+
+//れの？
+Whose?
+
+
+Block 16 -------------------------
+
+//は　のろわれて　しまった[WT][ED]
+ has been cursed.[WT][ED]
+
+
+//そうびできないっ！[WT][ED]
+Cannot equip![WT][ED]
+
+
+//はずれないっ！[WT]
+Cannot remove![WT]
+
+
+Block 17 -------------------------
+
+//のそうび[ED]
+'s equipment[ED]
+
+
+//ーーーーーーーーーーーーー[ED]
+-------------[ED]
+
+
+//　ぶき：[ED]
+Weapon: [ED]
+
+
+//　たて：[ED]
+Shield: [ED]
+
+
+//からだ：[ED]
+Body: [ED]
+
+
+//あたま：[ED]
+Head: [ED]
+
+
+//うでわ：[ED]
+Arms: [ED]
+
+
+//ゆびわ：[ED]
+Ring: [ED]
+
+
+//なし[ED]
+None[ED]
+
+
+//　うえ：[ED]
+Top: [ED]
+
+
+//　みぎ：[ED]
+Right: [ED]
+
+
+//　した：[ED]
+Bottom: [ED]
+
+
+//ひだり：[ED]
+Left: [ED]
+
+
+//のアイテム[ED]
+'s items[ED]
+
+
+//のまほう
+'s spells
+
+
+Block 18 -------------------------
+
+//バトルでは　つかえません[WT]
+Cannot be used in battle.[WT]
+
+
+Block 19 -------------------------
+
+//そうび[ED]
+Equip[ED]
+
+
+//はずす
+Remove
+
+
+Block 20 -------------------------
+
+//ーーーーーーーーーーーーーーーーーー[ED]
+------------------[ED]
+
+
+//　ぶき[ED]
+Weapons[ED]
+
+
+//ぼうぐ[ED]
+Armor[ED]
+
+
+//こうげき：[ED]
+Attack: [ED]
+
+
+//：[ED]
+: [ED]
+
+
+//ぼうぎょ：[ED]
+Defense: [ED]
+
+
+//すばやさ：[ED]
+Speed: [ED]
+
+
+//そうび：
+Equipment: 
+
+
+Block 21 -------------------------
+
+//ぶき[ED]
+Weapon[ED]
+
+
+//たて[ED]
+Shield[ED]
+
+
+//よろい[ED]
+Armor[ED]
+
+
+//かぶと[ED]
+Helmet[ED]
+
+
+//うでわ[ED]
+Arms[ED]
+
+
+//ゆびわ[ED]
+Rings[ED]
+
+
+//こうげき[ED]
+Attack[ED]
+
+
+//ぼうぎょ[ED]
+Defense[ED]
+
+
+//ーーーーーーーーーーーーーーーーーー[ED]
+------------------[ED]
+
+
+//なし
+None
+
+
+Block 22 -------------------------
+
+//みる[ED]
+Look[ED]
+
+
+//はい[ED]
+Yes[ED]
+
+
+No
+
+
+Block 23 -------------------------
+
+//かう[BR]
+Buy[BR]
+
+//うる[BR]
+Sell[BR]
+
+//やめる
+Leave
+
+
+Block 24 -------------------------
+
+//とまる[ED]
+Stay[ED]
+
+
+//なんでもない
+Nothing
+
+
+Block 25 -------------------------
+
+は　しょうひＭＰ[ED]//*WIP*
+
+
+の[BR]
+
+[ED]//*WIP*
+
+
+が　[ED]//*WIP*
+
+
+//こうげきまほうです。[WT][ED]
+Attack spell.[WT][ED]
+
+
+//こうげきほじょまほうです。[WT][ED]
+Attack support spell.[WT][ED]
+
+
+//みかたしえんまほうです。[WT][ED]
+Ally support spell.[WT][ED]
+
+
+//かいふくまほうです。[WT][ED]
+Recovery spell.[WT][ED]
+
+
+//ちりょうまほうです。[WT][ED]
+Healing spell.[WT][ED]
+
+
+//とくしゅな　まほうです。[WT][ED]
+Special spell.[WT][ED]
+
+
+　（（！（　「ダメージりょうを[BR]
+
+　[ED]//*WIP*
+
+
+「かいふくりょうを[BR]
+
+　[ED]//*WIP*
+
+
+「あいてのかずを[BR]
+
+　[ED]//*WIP*
+
+
+　！！　！　ポ
+イントに　ふやします。[WT][ED]//*WIP*
+
+
+に　ひろげます。[WT][ED]//*WIP*
+
+
+　！！　！　ポ
+イントに　へらします。[WT][ED]//*WIP*
+
+
+に　せばめます。[WT][ED]//*WIP*
+
+
+　！ひとり[ED]//*WIP*
+
+
+ぜんいん[ED]//*WIP*
+
+
+に　かわりました。[WT]
+
+
+Block 26 -------------------------
+
+//みにつける[BR]
+Learn[BR]
+
+//つよさをかえるやめる
+Cancel enhancing
+
+
+Block 27 -------------------------
+
+//ーーーーーーーーーーー[ED]
+-----------[ED]
+
+
+//まほう　　　　　ＭＰ
+Spell　　　MP
+
+
+Block 28 -------------------------
+
+//おはらい[BR]
+Remove Curse[BR]
+
+//げどく[BR]
+Remove Poison[BR]
+
+//やめる
+Leave
+
+
+Block 29 -------------------------
+
+//けいけんちを　[ED]
+Received [ED]
+
+
+//　かくとく[WT][ED]
+ EXP.[WT][ED]
+
+
+//おかねを　[ED]
+Received [ED]
+
+
+//Ｇ　かくとく[WT][ED]
+G.[WT][ED]
+
+
+//92は　にげだした！[ED]
+92 ran away![ED]
+
+
+//92たちは　にげだした！[ED]
+92's party ran away![ED]
+
+
+//たたかいに　しょうりした！[WT][ED]
+You were victorious![WT][ED]
+
+
+//92は　たたかいにまけた！[WT][ED]
+92 was defeated![WT][ED]
+
+
+//92たちは　たたかいにまけた！[WT]
+92's party was defeated![WT]
+
+
+Block 30 -------------------------
+
+//？？？[ED]
+???[ED]
+
+
+//こうげき[ED]
+Attack[ED]
+
+
+//ぼうぎょ[ED]
+Defend[ED]
+
+
+//アイテム[ED]
+Items[ED]
+
+
+//まほう[ED]
+Magic[ED]
+
+
+//とうそう[ED]
+Run[ED]
+
+
+//××
+xx
+
+
+Block 31 -------------------------
+
+//せんせいこうげきのチャンス！[ED]
+Preemptive strike![ED]
+
+
+//てきの　ふいうち！！
+You were ambushed!
+
+
+Block 32 -------------------------
+
+//うでがしびれている！
+Your arms feel numb!
+
+
+Block 33 -------------------------
+
+が　みがわ//*WIP*
+
+
+Block 34 -------------------------
+
+//うぎょ[ED]
+Defend[ED]
+
+
+//うでがしびれている！
+Your arms feel numb!
+
+
+Block 35 -------------------------
+
+//は　にげだした！
+ ran away!
+
+
+Block 36 -------------------------
+
+//とうそう[ED]
+Run[ED]
+
+
+//しかし　にげられなかった！
+Unable to run!
+
+
+Block 37 -------------------------
+
+//ひんし！[ED]
+KO![ED]
+
+
+//どく！[ED]
+Poisoned![ED]
+
+
+//こおった！[ED]
+Frozen![ED]
+
+
+//きぜつした！[ED]
+Stunned![ED]
+
+
+//ねむった！[ED]
+Sleeping![ED]
+
+
+//うでがしびれた！[ED]
+Numb![ED]
+
+
+//まほうふうじ！[ED]
+Magic sealed![ED]
+
+
+ピヨった！[ED]//*WIP*
+
+
+//ふっかつした！[ED]
+Revived![ED]
+
+
+//どくがきえた！[ED]
+No longer poisoned![ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//こおりがとけた！[ED]
+No longer frozen![ED]
+
+
+//きがついた！[ED]
+Recovered senses![ED]
+
+
+//めざめた！[ED]
+Woke up![ED]
+
+
+//たちなおった！[ED]
+Recovered footing![ED]
+
+
+//しびれがなおった！[ED]
+No longer numb![ED]
+
+
+//まほうふうじがとけた！
+Magic seal broken!
+
+
+Block 38 -------------------------
+
+//ＭＰがたりない！
+Not enough MP!
+
+
+Block 39 -------------------------
+
+には//*WIP*
+
+
+Block 40 -------------------------
+
+//いきかえった！[ED]
+Revived![ED]
+
+
+//ここでは　ワープできない！[ED]
+Cannot warp from here![ED]
+
+
+//ワープするばしょを　おぼえていません
+Know no warp locations.
+
+
+Block 41 -------------------------
+
+//しかし　こうかは　なかった
+But it had no effect.
+
+
+Block 42 -------------------------
+
+//しかし　なにも　おこらなかった
+But nothing happened.
+
+
+Block 43 -------------------------
+
+//ばくした！
+Exploded!
+
+
+Block 44 -------------------------
+
+//じばくした！
+Self-destructed!
+
+
+Block 45 -------------------------
+
+//こうげきりょく　ダウン！
+Attack down!
+
+
+Block 46 -------------------------
+
+//うごきが　にぶくなった！
+Movement slowed!
+
+
+Block 47 -------------------------
+
+//ＭＰが　へった！
+MP reduced!
+
+
+Block 48 -------------------------
+
+//ＭＰを　うばわれた！[ED]
+Your MP were stolen![ED]
+
+
+//ＭＰを　うばった！
+MP stolen!
+
+
+Block 49 -------------------------
+
+//こうげきりょく　アップ！
+Attack up!
+
+
+Block 50 -------------------------
+
+//はやさ　アップ！
+Speed up!
+
+
+Block 51 -------------------------
+
+//うぎょりょく　アップ！
+Defense up!
+
+
+Block 52 -------------------------
+
+//まほうぼうぎょ　アップ！
+Magic Defense up!
+
+
+Block 53 -------------------------
+
+//まほうバりア！
+Magic Barrier!
+
+
+Block 54 -------------------------
+
+//どくが　なおった！
+Poison healed!
+
+
+Block 55 -------------------------
+
+//からだが　よくなった！
+Condition improved!
+
+
+Block 56 -------------------------
+
+//からだが　もとに　もどった！
+Returned to normal!
+
+
+Block 57 -------------------------
+
+//しかし　こうかは　なかった！
+But it had no effect!
+
+
+Block 58 -------------------------
+
+//とうそう　せいこう！[ED]
+Escaped successfully![ED]
+
+
+//とうそう　できない！[ED]
+Cannot escape![ED]
+
+
+//はせせひC8ゃ。ネC9あたりから　まものの　けはいが　きえた！
+はせせひC8ゃ。ネC9You no longer feel the presence of monsters!
+
+
+Block 59 -------------------------
+
+//ＨＰが　かいふく　した[ED]
+HP restored.[ED]
+
+
+//ＨＰが　ぜんかいふく　した[ED]
+HP fully restored.[ED]
+
+
+//ＭＰが　かいふく　した[ED]
+MP restored.[ED]
+
+
+//ＨＰ／ＭＰが　ぜんかいふく　した[ED]
+HP and MP fully restored.[ED]
+
+
+//どくが　なおった[ED]
+Poison healed.[ED]
+
+
+//すいみん　から　さめた[ED]
+Awakened.[ED]
+
+
+//ＨＰの　じょうげんが　アップ！[ED]
+Max HP increased![ED]
+
+
+//ＭＰの　じょうげんが　アップ！[ED]
+Max MP increased![ED]
+
+
+//ちからが　アップ！[ED]
+Strength increased![ED]
+
+
+//たいりょくが　アップ！[ED]
+Endurance increased![ED]
+
+
+//すばやさが　アップ！[ED]
+Speed increased![ED]
+
+
+//うんが　アップ！[ED]
+Luck increased![ED]
+
+
+//からだが　もとにもどった！[ED]
+Condition restored![ED]
+
+
+//ＨＰ／ＭＰが　はんげんした！
+HP and MP halved!
+

@@ -1,0 +1,6 @@
+
+// limit 8 characters, and must fit within 35 pixels
+
+// ナバル[end]
+Navarre[end]
+ 

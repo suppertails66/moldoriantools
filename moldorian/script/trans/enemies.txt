@@ -1,0 +1,318 @@
+//フレット[WT]
+Fret[WT]
+
+//ボムフレット[WT]
+Bomb Fret[WT]
+
+//ウッドマン[WT]
+Woodman[WT]
+
+//タールマン[WT]
+Tarman[WT]
+//"tar" in the sense of liquid coal, like tar pits.
+
+//じゅじゅつし[WT]
+Shaman[WT]
+
+//ウォーロック[WT]
+Warlock[WT]
+
+//マッドメイジ[WT]
+Mad Mage[WT]
+
+//グレイメイジ[WT]
+Gray Mage[WT]
+
+//スラッグ[WT]
+Slug[WT]
+
+//ブロブ[WT]
+Blob[WT]
+
+//おおこうもり[WT]
+Giant Bat[WT]
+
+//バンピー[WT]
+Vampire Bat[WT]
+
+//もぐねずみ[WT]
+Molerat[WT]
+
+//ぺルシダー[WT]
+Pellucidar[WT]
+
+//ランドダイバー[WT]
+Land Diver[WT]
+
+//どくろバット[WT]
+Skull Bat[WT]
+
+//ケツアルカトル[WT]
+Quetzalcoatl[WT]
+
+//おおぐも[WT]
+Giant Spider[WT]
+
+//ポイズンバグ[WT]
+Poison Bug[WT]
+
+//ジャンパ[WT]
+Jumper[WT]
+
+//イビルホーク[WT]
+Evil Hawk[WT]
+
+//ハーピー[WT]
+Harpy[WT]
+
+//コカトりス[WT]
+Cockatrice[WT]
+
+//ミスト[WT]
+Mist[WT]
+
+//ハイダー[WT]
+Hydre[WT]
+
+//きりあくま[WT]
+Fog Demon[WT]
+
+//ポイズンガス[WT]
+Poison Gas[WT]
+
+//ウォーアント[WT]
+War Ant[WT]
+
+//アントラス[WT]
+Antlas[WT]
+//I assume it's a pun between "ant" and the titan "Atlas".
+
+//ゴールドン[WT]
+Goldon[WT]
+
+//キングアント[WT]
+King Ant[WT]
+
+//マッドホース[WT]
+Mad Horse[WT]
+
+//ブラックホース[WT]
+Black Horse[WT]
+
+//オーク[WT]
+Ork[WT]
+
+//ケーブオーク[WT]
+Cave Ork[WT]
+
+//ピッグマン[WT]
+Pigman[WT]
+
+//ゴースト[WT]
+Ghost[WT]
+
+//ファントム[WT]
+Phantom[WT]
+
+//しのつかい[WT]
+Death Emissary[WT]
+
+//ゾンビ[WT]
+Zombie[WT]
+
+//グール[WT]
+Ghoul[WT]
+
+//グールコマンド[WT]
+Ghoul Commander[WT]
+
+//ノスフェラトウ[WT]
+Nosferatu[WT]
+
+//おにび[WT]
+Will-o'-wisp[WT]
+
+//エシシュロン[WT]
+Asheron[WT]
+//unknown etymology. It's some kind of fire spirit.
+
+//デビルトーチ[WT]
+Devil Torch[WT]
+
+//バイパー[WT]
+Viper[WT]
+
+//デビルロープ[WT]
+Devil Rope[WT]
+
+//ゴーレム[WT]
+Golem[WT]
+
+//かせきぼうず[WT]
+Ancient Statue[WT]
+
+//タロス[WT]
+Talos[WT]
+
+//マンイーター[WT]
+Man Eater[WT]
+
+//デスタイガー[WT]
+Death Tiger[WT]
+
+//オクトサタン[WT]
+Octosatan[WT]
+
+//スワンプデビル[WT]
+Swamp Devil[WT]
+
+//マーダーべア[WT]
+Murder Bear[WT]
+
+//デスグりズりー[WT]
+Death Grizzly[WT]
+
+//モンスターマン[WT]
+Monster Man[WT]
+
+//マッドシーカー[WT]
+Mad Seeker[WT]
+
+//デビルダンサー[WT]
+Devil Dancer[WT]
+
+//あくまのてさき[WT]
+Devil's Pawn[WT]
+
+//ソウルイーター[WT]
+Soul Eater[WT]
+
+//ガーゴイル[WT]
+Gargoyle[WT]
+
+//モアファング[WT]
+Morfang[WT]
+
+//ウィングマン[WT]
+Wingman[WT]
+
+//デーモン[WT]
+Demon[WT]
+
+//デーモンロード[WT]
+Demon Lord[WT]
+
+//キングデーモン[WT]
+Demon King[WT]
+
+//べりアル[WT]
+Belial[WT]
+
+//ドラゴン[WT]
+Dragon[WT]
+
+//ダークドラゴン[WT]
+Dark Dragon[WT]
+
+//カオスワーム[WT]
+Chaos Worm[WT]
+
+//ドラゴナード[WT]
+Dragonard[WT]
+
+//デビルライダー[WT]
+Devil Rider[WT]
+
+//やみのつかい[WT]
+Messenger of Darkness[WT]
+
+//キメラ[WT]
+Chimera[WT]
+
+//ロードキメラ[WT]
+Chimera Lord[WT]
+
+//ゾンビタイガー[WT]
+Zombie Tiger[WT]
+
+//グールタイガー[WT]
+Ghoul Tiger[WT]
+
+//パパフレット[WT]
+Daddy Fret[WT]
+
+//ボスフレット[WT]
+Boss Fret[WT]
+
+//キラードッグ[WT]
+Killer Dog[WT]
+
+//ウルブりン[WT]
+Wolverine[WT]
+
+//ハンタードッグ[WT]
+Hunter Dog[WT]
+
+//ケルべロス[WT]
+Cerberus[WT]
+
+//ブラッドフット[WT]
+Bloodfoot[WT]
+
+//インターセプター[WT]
+Interceptor[WT]
+
+//カボスコング[WT]
+Carbos Kong[WT]
+
+//ハンマーフィスト[WT]
+Hammer Fist[WT]
+
+//まぞくへい[WT]
+Magus Soldier[WT]
+
+//ブカりへい[WT]
+Bucalli Soldier[WT]
+
+//ブカりナイト[WT]
+Bucalli Knight[WT]
+
+//クルジア[WT]
+Kurdia[WT]
+
+//ストーカー[WT]
+Stalker[WT]
+
+//デュラハン[WT]
+Dullahan[WT]
+
+//へルナイト[WT]
+Hell Knight[WT]
+
+//しのしょうにん[WT]
+Merchant of Death[WT]
+
+//ギりアム[WT]
+Gilliam[WT]
+
+//ランディス[WT]
+Landis[WT]
+
+//テバルヤ[WT]
+Tabaliah[WT]
+
+//ウロボロス[WT]
+Ouroboros[WT]
+
+//りバイアサン[WT]
+Leviathan[WT]
+
+//ウェアタイガー[WT]
+Weretiger[WT]
+
+//ブカり[WT]
+Bucalli[WT]
+
+//ブカり[WT]
+Bucalli[WT]
+

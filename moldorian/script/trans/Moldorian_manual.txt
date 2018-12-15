@@ -1,0 +1,963 @@
+******************************************************************************
+NOTE: This is a text-only conversion of the user manual for Moldorian: The
+Sisters of Light and Darkness, transcribed and translated by TheMajinZenki. It
+was created to complement the translation hack for the game proper.
+
+Unfortunately, we don't really have the resources to edit this text back into
+the original manual scans, so you should probably get a copy of the manual
+to look at alongside this file. As of this writing, scans can be found on
+Sega Retro: https://segaretro.org/File:MHtYnS_GG_JP_Manual.pdf
+
+This is a translation of the original manual without edits related to the
+English patch, so there are a few discrepancies between this text and the
+in-game version of the manual.
+******************************************************************************
+
+	PAGE 1
+	
+MOLDORIAN
+
+取扱説明書
+
+GAME GEAR
+
+モルドリアン
+
+	　シスター
+?光と闇の姉妹?
+
+(C)SEGA1994
+
+---------------------
+
+MOLDORIAN
+
+User Manual
+
+Moldorian
+
+- The Sisters of Light and Darkness -
+
+(C) SEGA 1994
+
+	PAGE 2
+	
+このたびはゲームギア
+カートリッジ「モルド
+リアン～光と闇の姉妹
+～」をお買い上げいた
+だき、誠にありがとう
+ございました。ゲーム
+を始める前にこの取扱
+説明書をお読みいただ
+きますと、より楽しく
+遊ぶことができます。
+
+もくじ
+
+プロローグ	................... 4
+主な登場人物	............... 6
+主な敵キャラクター	...............10
+操作方法	...................12
+ゲームの始め方	...............14
+画面表示の見方とコマンドの使い方	...16
+街の施設の使い方	...............24
+冒険アドバイス	...............29
+使用上のご注意	...............30
+
+Thank you for buying "Moldorian ~ The Sisters of Light and Darkness ~" for Game Gear. To fully enjoy this game, we recommend reading this instruction manual.
+
+Index
+
+Prologue	............................ 4
+Main Protagonists	.................... 6
+Main Enemies	........................10
+Game Controls	........................12
+How to Start	........................14
+Screens Overview and Using Commands	....16
+Town Facilities	........................24
+Adventure Tips	........................29
+Safety warnings	........................30
+
+	PAGE 3
+	
+かつて人間と魔族は一つの
+種族であった。いつの時代か、強大な魔力を持
+つハイランディア国王家に双子が生まれた。兄は魔
+法の資質に恵まれたが、弟にその能力は皆無だった。彼らが
+成年になったとき、魔法を使えない自分に悩み続けた弟王子は、
+その答えを探す旅に出た。王位は残った兄王子が継承した。時は流れ、
+弟王子は外界を切り開いてエマロイに城を造った。王となった二人は
+以前と変わらぬ親交を続け、人々は彼らを「二賢王」と称賛し、両国
+はともに繁栄した。二賢王時代から７００年……いつしか外界に生
+きる者は人間、ハイランディアに生きる者は魔族と呼ばれた。
+かつてたがいが同一の種であったことを知る者はも
+ういない。それらの過去はすべて二賢王の伝説
+とともに両者から消滅したのである。
+
+A long time ago, Humans and Magi were the same race.
+One day, a pair of twins were born in the Royal Family of Highlandia, who were known to possess incredible magical powers. The elder twin was blessed with a natural talent for magic; however, the younger twin had no magical capacity at all.
+As they both reached their adult age, the young prince left on a journey, aiming to discover the meaning to what felt like a curse. His brother thus inherited the throne.
+Time passed. The young prince made his way to the outside world, and built a castle in Emaroy, becoming its king. Though they may have lived apart, the two brothers still remained on good terms. As both kingdoms prospered, people praised them as the "Two Wise Kings".
+This era lasted for 700 years... Then, for reasons unknown, those born in the outside world would be known as "Humans", while those born in Highlandia would be known as "Magi".
+Nobody knows why such a change happened. Everything about this period has vanished, just like the legend of the Two Wise Kings.
+
+	PAGE 4
+	
+	プロローグ
+	
+ここモルドリアには、大きく分けて二つの種族の世界があ
+った。「人間界」と「魔族界」である。魔族に生きる者は、
+生まれながらに強い魔力を持ち、魔物を自在に操ることが
+できた。だかそんな特殊な能力も、人間にとって恐怖の対
+象ではなかった。モルドリアの永い歴史の中で、魔族が人
+間を脅かした例はめったになかったからである。
+	人間の魔族に対する考え方は、いわゆる普通の生活を送っ
+	ている一般の人と、厳しい修行を日夜欠かさぬ修行僧との
+	関係のようだった。自分たちと住む世界は違っても、おた
+	がいが意識せずに共存しあえるといったていどのものだっ
+	たのである。魔族も、われ関せずといった感じで、おたが
+	い深く関わろうとはしなかった。
+	
+	Prologue
+	
+Moldoria is a world split into two major worlds: the "Human Realm" and the "Magic Realm". As the name implies, the Magi, inhabitants of the Magic Realm, possess great magical powers, and are capable of controlling monsters at will.
+Even though they possessed such incredible power, Humans never had a reason to fear them. During Moldoria's long history, the Magi had never done anything that would threaten the Humans' wellbeing.
+Most Humans considered the Magi some kind of ascetic monks, training harshly every day. As they lived in two different realms, they could coexist without bothering each other.
+The Magi shared a similar sentiment, being unconcerned of the Humans' existence.
+	
+	
+	PAGE 5
+	
+	人間界の歴史の中で、商魂たくましい一部の商人
+	が魔族側に出向くことはあった。また魔族側の中
+	にも、人間たちと交流しようとする者がいなかっ
+	たわけではない。しかし、ここ数年来の「魔族の
+	動き」によって、それらはすでに過去のことにな
+	りつつあった。
+だが……ある日突然、事件は起きた。コイズン村
+に住む一人の少女が森で魔物につれ去られたので
+ある。人々は驚愕、狼狽した。だが、だれがその
+意図を理解できたであろう。この事件は単なる始
+まりでしかなく、その背後には黒く、とてつもな
+い魔族の野望と、モルドリア大陸に生きるすべて
+の人々の危機が待ち受けているということを……。
+
+That is not to say that there no relationships at all between the two realms. During history, there had been Human merchants of indomitable commercial spirit who had traveled to the Magic Realm, and there had been Magi who had traveled to the Human Realm to learn their culture, though that was no longer necessary after years of what was referred to as the "Magi's movement".
+However... One day, something happened. A young girl from the village of Keuzon had been taken away by a monster while she was out in the forest. Humans were shocked and dismayed by this incident, unable to understand why such tragedy had happened.
+At that moment, nobody knew that it was not merely an isolated case, but the beginning of something much darker. Before long, the ambitions of an evil Magus would bring great peril to all of Moldoria...
+
+	PAGES 6 & 7
+	
+		主な登場人物
+	
+		このゲームには、さまざまなキャラ
+		クターが登場します。その主な人物
+		を紹介しましょう。
+	
+	主人公（ナバル）
+	
+この物語の主人公です。気が弱く、何ごと
+にも消極的で、いつもミリアに助けられて
+います。
+
+	ミリア
+	
+主人公の幼なじみです。ほがらかでやさし
+く、村のみんなから好かれています。
+
+		Main Protagonists
+		
+		You will meet many different characters over the course of the game. In these pages, we will introduce the main protagonists.
+		
+	Main Character (Navarre)
+	
+The main protagonist of the story. Timid and halfhearted, he always relies on Miria to help him out of trouble.
+
+	Miria
+	
+The main protagonist's childhood friend. Bright and kind, she is liked by everyone in the village.
+
+	PAGE 8
+	
+	ハンネス
+	
+主人公の父。かつて、お城
+のナイトをしていたことも
+あります。現在は村の相談
+役を務め、そのかたわら、
+気の弱い主人公に剣の稽古
+をつけています。
+
+	バド
+	
+ミリアの兄。お城のナイトを務めて
+いる、正義感の強い人物です。頭に
+血が登りやすいのが欠点です。
+
+	Hannes
+	
+The main protagonist's father. He was a castle knight in his youth, though he now acts as an advisor for the village. In his free time, he practices the art of the sword with his weakling of a son.
+
+	Vado
+	
+Miria's brother. He is a castle knight with a great sense of justice. His major flaw is getting angry very easily.
+
+	PAGE 9
+	
+そのほかいろんな仲間が登場する
+
+ナバルが旅を続けるあいだ、いろい
+ろな人物がパーティーに加わります。
+彼らもまた、大切な仲間なのです。
+
+		テスコ
+		
+トルル
+
+	ブカリ
+	
+人間族と対をなす、魔族の宰相た
+る人物です。実力は、王に次ぐ権
+力者ですが……。
+
+You will meet many comrades
+
+As Navarre travels forth, he will meet different people, some of which will join his party and become great comrades and irreplaceable friends.
+
+		Tesko
+		
+Torle
+
+	Bucalli
+	
+The Magi Prime Minister, counterpart to the Human one.
+It is rumored that his influence is second only to the King...
+
+	PAGE 10
+	
+主な敵キャラクター
+
+強大な力でもって、ナバルた
+ちに襲いかかるモンスターた
+ち。数多く出現するモンスタ
+ーたちの中でも、代表的なキ
+ャラクターを紹介しましょう。
+
+ウッドマン
+
+木に宿る精霊が魔
+物化したモンス
+ターです。序
+盤での強敵と
+なることでし
+ょう。
+
+フレット
+
+ＨＰも攻撃力も低いのですが、集団で現れると手
+こずるかもしれません。
+
+Main Enemies
+
+Navarre and his comrades will face powerful monsters during their journey. In these pages we will introduce some of them.
+
+Woodman
+
+A spirit of the forest transformed into a monster. It will be a formidable opponent in the early stages of the game.
+
+Fret
+
+While low on HP and attack power, this monster may cause you trouble as it attacks in group.
+
+	PAGE 11
+	
+呪術師
+
+攻撃力は大したことはな
+いのですが、魔法を使わ
+れるとやっかいです。
+
+どくろバット
+
+大こうもりがゾンビ
+化したモンスター。塔に潜んでいます。
+
+ギリアム
+
+エマロイ城の王をさらって
+いったモンスターです。そ
+の意図とは……！？
+
+Shaman
+
+While its physical strength is low, it is capable of using magic. Be careful.
+
+Skull Bat
+
+A large, undead bat. They lurk in towers.
+
+Gilliam
+
+The monster who kidnapped the King from Castle Emaroy. But why...?
+
+	PAGES 12 & 13
+	
+		操作方法
+		
+このゲームは、大きく分けて４種類のゲーム画面があります。そ
+れぞれ操作方法が異なりますので、個別に説明しましょう。
+
+						スタート
+						ボタン
+方向ボタン	[GAME GEAR]
+						２ボタン
+						
+						１ボタン
+						
+						
+◆名前入力画面
+
+方向ボタン…カーソル移動／選択。
+スタートボタン…ひらがな／カタ
+	カナの切り替え。
+１ボタン…１文字消す。
+２ボタン…決定。
+
+◆メニュー画面
+
+方向ボタン…カーソル移動／選択。
+スタートボタン…１つ前のメニュ
+	ーに戻る。
+１ボタン…キャンセル。
+２ボタン…決定。
+
+◆マップ画面
+
+方向ボタン…カーソル移動。
+１ボタン…メニュー画面にする。
+２ボタン…向かい合った人と会話
+	する・目の前の物を調べる。
+	
+◆バトル画面
+方向ボタン・１・２ボタン…コマ
+	ンド入力（Ｐ２０参照）。
+スタートボタン…ヘルプ表示。ス
+タートボタン以外のボタンを押
+すとコマンドが表示される。
+
+		Game Controls
+		
+This game can be separated into four different types of screens, each with its own controls. In these pages we will explain the controls for each screen individually.
+
+						
+						Start
+D-Pad	[GAME GEAR]
+						Button 2
+						
+						Button 1
+						
+* Name Input Screen
+
+D-Pad:		Moves cursor.
+Start:		Switches between hiragana and katakana.
+Button 1:	Deletes one letter.
+Button 2:	Confirms.
+
+* Menu Screen
+
+D-Pad:		Moves cursor.
+Start:		Goes back to previous menu.
+Button 1:	Cancels.
+Button 2:	Confirms.
+
+* Map Screen
+
+D-Pad:		Moves cursor.
+Button 1:	Opens menu.
+Button 2:	Talks to the person in front of you;
+			Inspects the object in front of you.
+			
+* Battle Screen
+
+D-Pad/Buttons 1 and 2:	Input commands (refer to P.20).
+Start:	Displays help. Press any other button to display the commands.
+
+	PAGES 14 & 15
+	
+		ゲームの始め方
+		
+カートリッジを差し、電源を入れると、セガロゴに続いてストー
+リーが流れます。ここで１・２ボタンを押すとタイトル画面が表
+示され、スタートボタンを押すとメニュー画面になります。
+
+?　							?　
+タ							メ
+イ							ニ
+ト			->				ュ
+ル							ー
+画							画
+面							面
+
+
+◆最初から
+
+初めてゲームをプレイするときに
+選びます。２ボタンで決定すると
+名前入力画面に切り替わります。
+方向ボタンと２ボタンで名前を入
+力し最後に「おわる」をえらびます。
+
+◆うつす
+
+セーブしてあるデータを複写する
+ことができます。複写したいデー
+タと写したい場所を選んで決定し
+てください。複写先にほかのデー
+タがあるときは写せません。
+
+◆つづきから
+
+以前、セーブしたところから続き
+をプレイすることができます。方
+向ボタンでカーソルを合わせ、２
+ボタンで決定してください。
+
+◆けす
+
+セーブしてあるデータを消します。
+決定すると「以前の記録は消えま
+すがよろしいですか？」と表示さ
+れます。「はい」か「いいえ」を
+選んで決定してください。なお一
+度消したデータは復活できません。
+
+		How to Start
+		
+Insert your game cartridge into your Game Gear and turn on the power. After the Sega logo, the game story will scroll. Press button 1 or 2 to skip to the Title screen, and press Start to open the menu.
+
+|>							<|
+T							
+i							 M
+t							 e
+l							 n
+e							 u
+			 -->
+S							 S
+c							 c
+r							 r
+e							 e
+e							 e
+n							 n
+
+* New Game
+
+Select this option to start a new game. Press button 2 and you will be brought to the name input screen. Use the D-Pad to move your cursor and press 2 to input the letters. Once you are done, highlight "Done" and press 2 to continue with the game.
+
+* Copy
+
+This option will allow you to copy an existing save file to another slot. First select the file you wish to copy, then select its destination. Please note that you cannot copy a file over a slot with an existing save data.
+
+* Continue
+
+This option will allow you to continue your game from your saved position. Select your file with the D-Pad and press 2 to confirm.
+
+* Delete
+
+This option will allow you to delete an existing save file. Before the file is definitely deleted, a message reading "Your previous data will be deleted. Are you sure?" will be displayed on screen, and you will be able to confirm whether to proceed or not. Please note that once a save file has been deleted, it can no longer be restored.
+
+	PAGES 16 & 17
+	
+画面表示の見方とコマンドの使い方
+
+メニュー画面（がめん）
+
+マップ画面で１ボタンを押すとメ
+ニュー画面になります。ここで表
+示されるコマンドを説明します。
+
+		 ------
+		| そうび  |
+ ---------------------
+| もちもの | データ  | まほう  |
+ ---------------------
+		| システム |
+		 -------
+		 
+◆もちもの
+
+アイテムを使ったり、捨てたりし
+ます。アイテムを選んで２ボタン
+を押し「つかう」か「すてる」を
+選んでください。アイテムリスト
+の右下に?が表示されているとき
+に方向ボ
+タンの右を押
+すと次のリ
+ストに切り
+替わります。
+
+◆そうび
+
+キャラクターの装備を変更できます。変更し
+たいキャラクターに続き、方向ボタンの左右
+を押して各装備リストを選んでください。装
+備リストは装備・アイテム・魔法の３種類あ
+ります。装備リストの変更箇所を選んだら２
+ボタンを押し「そうび」か「はずず」のどち
+らかを決定してください。「そうび」を選ぶ
+と装備可能な品物が表示されます。方向ボタ
+ンで品物を選び、２ボタンを押せば装備でき
+ます。「はずず」を選ぶと装備品を外せます。
+＊アイテム・魔法は、「そうび」することで
+戦闘中に使用することができます。
+
+Screens Overview and Using Commands
+
+Menu Screen
+
+Press Button 1 on the Map screen to open the menu. In these pages we will explain the functions of each option.
+
+		  --------
+		 | Equip  |
+ -------------------------
+| Items  | Data   | Magic |
+ -------------------------
+		 | System |
+		  --------
+			 
+* Inventory
+
+This option will allow you to use or drop items. Select an item and press Button 2: you will be able to select whether to "Use" or "Drop" it. When a ?　symbol is displayed in the lower right corner of the item list, it means you can press right on the D-Pad to switch to the next page.
+
+* Equip
+
+This option will allow you to change your characters' equipment. After selecting a character, press left and right on the D-Pad to select the Equip List. There are three types of lists: Equipment, Items and Spells.
+Then, select the part you wish to alter and press Button 2. You will now be asked to choose whether to "Equip" a new item or "Remove" the highlighted one. 
+Select "Equip" to open a list of equippable items. Select your preferred item with the D-Pad and press 2 to confirm.
+Select "Remove" to simply remove the highlighted item.
+- Items and Spells must be equipped before they can be used in battle.
+
+	PAGE 18
+	
+◆まほう
+
+現在身につけている魔法を使うことができます。
+魔法を使うキャラクターと、使いたい魔法を選
+んでください。続いて、魔法をかけたいキャラ
+クターを選び、決定します。
+
+◆システム
+
+セーブ……データをセーブします。セーブした
+い場所の番号を決定すると「以前の記録は消え
+ますがよろしいですか？」と表示されるので、
+「はい」か「いいえ」を選んでください。
+ひょうじ……メッセージ表示速度を変更します。数字にカーソルを合わ
+せ決定してください。数字が小さいほど遅く、大きいほど早くなります。
+
+* Magic
+
+This option will allow you to use one of the spells you currently know. First select the character who will cast the spell, then select the spell you wish to use. Finally, select the target character, and confirm.
+
+* System
+
+Save:		This will let you save your progress.
+			First select a file, then confirm. A message reading "Your previous data will be deleted. Are you sure?" will be displayed on screen, and you will be able to confirm whether to proceed or not.
+Display:	This will let you alter the messages' speed.
+			Highlight your preferred speed and confirm. The lower the number, the slower the display speed, and viceversa.
+			
+	PAGE 19
+	
+◆データ
+
+キャラクターの状態確認ができます。２ボタンを押すとパーティーの大ま
+かなデータが、もう一度２ボタンを押すと個人のデータが表示されます。
+（１）	現在の所持金。
+（２）	名前
+（３）	現在のレベル。
+（４）	パラメーター。レベルや武具で増減。
+（５）	経験値。現在の経験値／次のレベルになる
+	までの経験値。
+（６）	ＨＰ。ダメージを受けると減る。現在のＨ
+	Ｐ／最大ＨＰ。
+（７）	ＭＰ。魔法を使用すると減る。現在のＭＰ
+	／最大ＭＰ
+（８）	現在の装備。
+
+* Data
+
+This option will let you check your characters' status.
+Press Button 2 to see the party's general data; press 2 again to see more details of the individual members.
+
+(1)	Current funds.
+(2)	Name.
+(3)	Current level.
+(4)	Stats, influenced by level and equipment.
+(5)	Experience. Current EXP/EXP to next level.
+(6)	HP. Decreases when damaged. Current HP/Max HP.
+(7)	MP. Decreases when casting spells. Current MP/Max HP.
+(8)	Currently equipped items.
+
+	PAGE 20
+
+バトル画面（がめん）
+
+フィールド上で敵に遭うと戦闘に
+なります。各キャラクターは自分
+の行動の順番になると一歩前に出
+ますので、各コマンドを入力して
+ください。（本文中の?印は方向
+ボタンを押す方向を意味します）
+
+◆こうげき　するには
+
+?→敵を選択→２ボタン
+
+装備している武器で直接攻撃する
+コマンドです。方向ボタンの?を
+押し「こうげき」コマンドを表示
+します。続いて方向ボタンの▲▼
+で敵キャラ
+クターを選
+択し２ボタ
+ンで決定し
+てください。
+
+Battle Screen
+
+When you meet enemies on the field, battle will begin. Your characters will step forward in order, waiting for a command to be selected (the arrow symbols refer to which direction you should press on the D-Pad).
+
+* Attack
+
+?　-> Select an enemy -> Button 2
+
+This command lets you attack an enemy directly with your equipped weapon. By pressing Right on the D-Pad, the command "Attack" will be displayed on screen. Next, select an enemy with Up and Down on the D-Pad and press 2 to confirm.
+
+	PAGE 21
+	
+◆ぼうぎょう　するには
+
+?　
+
+敵からの攻撃を防ぎ、ダメージを
+減らすコマンドです。方向ボタン
+の?を押し、「ぼうぎょ」コマン
+ドを表示
+させてく
+ださい。
+
+◆とうそう　するには
+
+２ボタン＋?
+
+敵から逃げるコマンドです。２ボ
+タンを押しながら方向ボタンの?
+をおし「とうそう」コマンドを表
+示します。
+ただし、
+必ず逃げ
+きれると
+はかぎり
+ません。
+
+* Defend
+
+?　
+
+This command reduces damage from enemy attacks. By pressing Left on the D-Pad, the command "Defend" will be displayed on screen.
+
+* Run
+
+Button 2 + ?　
+
+This command lets you run from an enemy battle. While holding Button 2, press Left on the D-Pad to display the command "Run" on screen. Please note that running from battles is not guaranteed to work without fail.
+
+	PAGE 22
+	
+◆アイテム　を使うには
+
+２ボタン＋▲か?か▼→相手を選択
+
+アイテムを使うコマンドです。２ボタンと方
+向ボタンの▲・?・▼のどれか（アイテムを
+装備したボタン）を押してアイテム名を表示
+します。続いて方向ボタンの▲▼で相手を選び、２ボタンで決定します。
+
+	ＨＰが０になるとゲームオーバー！
+	
+戦闘中、パーティ全員のＨＰが０になるとゲームオーバーにな
+り、メニュー画面が表示されます。ゲームオーバーになると、
+最後にセーブした場所からの再スタートとなります。
+
+* Item
+
+Button 2 + ▲ or ? or ▼ -> Select target
+
+This command allows you to use an item. Hold Button 2 and press either Up, Right or Down on the D-Pad to display the name of the items you have equipped. Then press Up and Down on the D-Pad to select a target and press 2 to confirm.
+
+	When your HP reaches 0, it's Game Over!
+	
+If your entire party's HP goes down to 0 in battle, you will get a game over and the menu screen will open. After a game over, you will start again from your last save.
+
+	PAGE 23
+	
+◆まほう　を使うには
+
+１ボタン＋▲か?か▼か?→相手を選択
+
+魔法を使うコマンドです。１ボタンと方向ボ
+タンの▲・?・▼・?のどれか（魔法を装備
+させたボタン）を押し、魔法名を表示します。
+続いて方向ボタンの▲▼で相手を選び、２ボタンで決定してください。
+
+	アイテム・魔法は装備しないと使えない！
+	
+戦闘中に使うアイテムや魔法は、事前に装備していないと使え
+ません。戦闘前にメニュー画面の「そうび」コマンドで、方向
+ボタンのそれぞれのボタンにアイテム・魔法を装備しましょう。
+
+* Spells
+
+Button 1 + ▲ or ? or ▼ or ? -> Select target
+
+This command allows you to cast a spell. Hold Button 1 and press either Up, Down, Left or Right on the D-Pad to display the name of the spells you have equipped. Next, press Up and Down on the D-Pad to select a target and press 2 to confirm.
+
+	You cannot use Items or Spells if they are not equipped!
+	
+In order to use Items or cast spells in battle, they must be equipped beforehand. Please remember to equip them in the "Equip" menu before fighting.
+
+	PAGE 24
+	
+街の施設の使い方
+
+街や村には、さまざまな施設がありま
+す。その施設の種類と、施設内でのコ
+マンドの使い方を説明しましょう。
+
+[Inn symbol]	宿屋
+
+泊まることで、ＨＰやＭＰの回復ができます。
+人数や町・村によって、宿泊費が異なります。
+とまる……宿泊します。コマンドのあとに表示
+	されている数値は宿泊費です。
+なんでもない……宿泊をやめ、店を出ます。
+
+Town Facilities
+
+There are various facilities in towns and villages you will visit during your journey. In these pages we will explain their function and their related commands.
+
+[Inn symbol] Inns
+
+By resting at an inn, you will recover your HP and MP.
+Lodging prices will change depending on the size of your party and the town you are visiting.
+
+Stay:		This command will let you stay at the inn.
+			The value next to it refers to the cost for spending the night.
+Leave:		Leave the inn without spending the night.
+
+	PAGE 25
+	
+[sword and shield]	武器・防具屋
+
+武器・防具を売っています。購入し
+たい商品を選ぶとその品物のデータ
+が表示されます。
+みる……各キャラクターの現在の装
+	備品が表示されます。
+はい……その商品を購入します。
+いいえ……その商品の購入をやめ、
+	商品のリストを再び表示させます。
+	
+?武器や防具は、データをよく見て、
+より数値の高い物を購入しましょう。
+
+Weapons and Armors Store
+
+This store sells weapon and armor. Select an item you wish to purchase to display more information regarding it.
+
+Look:	This will display your character's current equipment.
+Yes:	This will confirm your purchase.
+No:	This will cancel the purchase and return to the shop's list.
+
+* Make sure to carefully read the values of the equipment you with to purchase and buy items with a higher stats value than your current equipment.
+
+	PAGE 26
+	
+[teapot symbol] 道具屋
+
+アイテムを売っています。購入したい商品
+を選ぶと購入個数のリストが表示されます。
+購入したい個数にカーソルを合わせ２ボタ
+ンで決定してください。このとき方向ボタ
+ンの?を押すと個数を１つずつ増やせます。
+Ｘ１……その商品の１コだけ購入します。
+Ｘ１０……その商品を１０コ購入できます。
+ＸＯＯ……現在の所持金で、最大いくつま
+で購入することができるかを表しています。
+
+?個数にカーソルを合わせ、方向ボタンの
+　右を押すと１つずつ増やせます。
+
+[teapot symbol] Tools Shop
+
+This shop sells various items. Once you select an item, you will be able to select the amount you wish to purchase. Highlight your preferred amount and press Button 2 to confirm. You can increase the amount by a single digit by pressing Right on the D-Pad.
+
+X1:		This will let you buy a single unit of the item.
+X10:	This will let you buy 10 units of the item.
+XOO:	This will only be displayed when your current funds are enough to purchase the maximum amount of the item.
+
+* By pressing Right on the D-Pad, you can increase the quantity by a single digit.
+
+	PAGE 27
+	
+魔法屋
+
+ＭＰを持つキャラクターに魔法を覚えさせ
+たり、すでに覚えた魔法を強化できます。
+みにつける……新たに魔法を身につけるこ
+とができます。覚えたい魔法を選んで決定
+してください。
+つよさをかえる……すでに覚えている魔法
+を強化することができます。強化したい魔
+法を選び、決定してください。
+やめる……キャンセルし、店の外に出ます。
+
+?ＭＰを持っているキャラクターのみ、魔
+法を覚える・強化することができます。
+
+Magic Teacher
+
+Characters who have MP can enter this facility to learn new spells or enhance the spells they already know.
+
+Learn:		This will let you learn a new spell.
+			Select the spell you wish to learn and confirm.
+Enhance:	This will let you enhance a spell you already know.
+			Select the spell you wish to enhance and confirm.
+Leave:		Leave the facility.
+
+* Only characters with an MP value can learn and enhance spells.
+
+	PAGE 28
+	
+[skull symbol] まじない師
+
+呪いと毒を取り除いてくれます。
+治療する項目を選び、決定します。
+おはらい……呪いを解きます。
+げどく……毒を取り除きます。
+やめる……店を出ます。
+
+?治療は１人ずつ。
+有料です。
+
+◆情報収集は
+基本中の基本
+
+新しい町や村に着いたら、
+そこに住む人々と必ず話を
+してみましょう。次に何を
+するべきか、どこへ行くべ
+きかなどがわかります。中
+には一度しか話を聞かせて
+くれない人もいます。聞き
+逃しがないよう、情報はで
+きるだけメモを取っておく
+ことをおススメします。
+
+[skull symbol] Shaman
+
+This is where you can remove curses and poison.
+Highlight the ritual you wish to perform and confirm.
+
+Exorcism:		This will remove a curse.
+Detoxification:	        This will remove poison.
+Leave:			Leave the facility.
+
+* The Shaman must be paid for each ritual individually.
+
+
+	* Gathering information is the basic of all basics.
+	
+Whenever you reach a new town or village, you should talk to everyone you see. That way you will find out what you should be doing and where you should be going next. There are some individuals you will only be able to speak to once. We recommend taking notes of important information you learn.
+
+	PAGE 29
+	
+冒険アドバイス
+
+			冒険に役立つ、ちょっとしたアド
+			バイスをいくつか紹介しましょう。
+			
+◆いろんなところを調べてみる
+
+建物の中にあるツボや、怪しいと思ったところは、２ボタンで調べてみまし
+ょう。意外な物か出てきたり、新たな発見があるかもしれません。
+
+◆ムリは絶対禁物
+
+ＨＰが少なくなってきたら、アイテムや魔法、宿屋などで早目に回復させま
+しょう。ムリをしたり、もったいないからとアイテムや魔法を使わずにいる
+と、ゲームオーバーになってしまうことがあります。
+
+◆セーブはこまめに
+
+セーブは戦闘中以外、どこででもできるので、こまめにしておきましょう。
+ゲームオーバーになってから、またやり直すのは大変ですからね。
+
+Adventure Tips
+
+				Here are some tips that you may find useful during your adventure.
+				
+* Inspect all sorts of places
+
+You should try to check pots or any other suspicious places inside buildings by pressing Button 2. You might find something unexpected.
+
+* Do not be reckless
+
+When you're low on HP, you should consider using items or spells to recover, or heading back to an inn.
+It would be a shame to get a game over only because you felt it would have been a waste to use a recovery item or spell.
+
+* Save frequently
+
+Excluding battles, you can save your game anywhere, so we recommend doing so frequently.
+It would be a bother to lose all your progress since your last save because of a game over.
+
+	PAGE 30
+	
+使用上のご注意
+
+●カートリッジを抜き差しするときは、必ず本体の電源を切ってください。
+●カートリッジを無理に折り曲げないでください。
+●端子部に触れたり、水でぬらしたりしないでください。
+●精密機器ですので、絶対に分解しないでください。また極端な温度条件の
+　もとでの使用、保管は避けてください。
+●シンナーやベンジンなどを使って、拭かないでください。
+●ゲームで遊ぶときは暗い場所を避け、なるべく画面を離してください。疲
+　れているときや睡眠不足でのプレイは避けてください。また、健康のため
+１時間ごとに１０～２０分の休憩をとってください。
+
+		●●●健康上のご注意●●●
+		
+ごくまれに強い光の刺激や点滅、テレビ画面などを見ていて、一時的に筋肉のけ
+いれん・意識の喪失等の症状を起こす人がいます。こうした経験のある方は、ゲ
+ームで遊ぶ前に必ず医師と相談してください。また、ゲーム中にこのような症
+状が起きたときは、すぐにゲームをやめ、医師の診察を受けてください。
+
+ＧＡＭＥ　ＧＥＡＲ
+モルドリアン
+
+Safety warnings
+
+- Before inserting or removing the cartridge, make sure the console is turned off.
+- Do not forcefully bend the cartridge.
+- Do not touch the pins or wet them with water.
+- The cartridge is delicate: do not disassemble it. Also, avoid using it or storing it in places with extremely hot or cold temperatures.
+- Do not use chemicals such as thinner or gasoline to clean the cartridge.
+- Make sure to play the game in a well-lit room, and to keep a good distance from the screen. Also, we recommend resting between 10 and 20 minutes every hour of playtime, and to avoid playing altogether if you are feeling tired or are not getting enough sleep.
+
+* * * Health concerns * * *
+
+There have been reported games of players suffering from convulsions or loss of consciousness after being exposed to powerful light stimuli or flickering coming, which is something that may come out of a television screen. If you have had similar experiences in the past, please consult your physician before playing this game. Furthermore, if you have experienced these symptoms while playing the game, stop playing immediately and receive medical attention.
+
+GAME GEAR
+Moldorian

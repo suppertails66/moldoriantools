@@ -1,0 +1,12 @@
+
+// message start
+{There are [end]
+#ENDMSG()
+#BREAK()
+
+// used at end of shaman's curse count message if more than one
+// piece of cursed equipment
+// times.}[wait][end]
+ curses upon[br][end]
+#ENDMSG()
+#BREAK()

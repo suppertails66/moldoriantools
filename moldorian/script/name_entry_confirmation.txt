@@ -1,0 +1,6 @@
+
+// displayed before the player's name on the name entry confirmation prompt.
+// the original didn't use a string, just hardcoded quotation marks.
+// yes, this gets its own file. it makes sense, honestly.
+Is {[end]
+

@@ -1,0 +1,297 @@
+
+//=======================================
+// intro
+//=======================================
+
+// substring 0
+#STARTMSG(0xD99F, 12, 1)
+
+// モルドりア・・・・。[end]
+Moldoria...
+[end]
+
+
+#ENDMSG()
+
+// substring 1
+#STARTMSG(0xD9AB, 15, 1)
+
+// にんげんと　まぞくが、[end]
+A world inhabited by
+[end]
+
+
+#ENDMSG()
+
+// substring 2
+#STARTMSG(0xD9BA, 16, 1)
+
+// それぞれの　りょうどをもち[end]
+humans and Magi,
+[end]
+
+
+#ENDMSG()
+
+// substring 3
+#STARTMSG(0xD9CA, 15, 1)
+
+// くらしている　せかい・・・。[end]
+each in their own domain.
+[end]
+
+
+#ENDMSG()
+
+// substring 4
+#STARTMSG(0xD9D9, 16, 1)
+
+// ふたつの　くにの　ひとびとは[end]
+//People from both realms
+The people of both
+[end]
+
+
+#ENDMSG()
+
+// substring 5
+#STARTMSG(0xD9E9, 12, 1)
+
+// おだやかな　ひびを[end]
+realms spent their lives
+[end]
+
+
+#ENDMSG()
+
+// substring 6
+#STARTMSG(0xD9F5, 11, 1)
+
+// おくっていた・・・。[end]
+in tranquility.
+[end]
+
+
+#ENDMSG()
+
+// substring 7
+#STARTMSG(0xDA00, 20, 1)
+
+// にんげんと　まぞくの　あいだで[end]
+//There had never been
+Never had there been
+[end]
+
+
+#ENDMSG()
+
+// substring 8
+#STARTMSG(0xDA14, 9, 1)
+
+// あらそいごとは[end]
+cause for conflict
+[end]
+
+
+#ENDMSG()
+
+// substring 9
+#STARTMSG(0xDA1D, 19, 1)
+
+// かつて　いちども　なかった・・・。[end]
+between the two races.
+[end]
+
+
+#ENDMSG()
+
+// substring 10
+#STARTMSG(0xDA30, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 11
+#STARTMSG(0xDA32, 8, 1)
+
+// しかし・・・。[end]
+However...
+[end]
+
+
+#ENDMSG()
+
+// substring 12
+#STARTMSG(0xDA3A, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 13
+#STARTMSG(0xDA3C, 8, 1)
+
+// この　へいわは[end]
+//Someone was planning
+//Someone was conspiring
+There is one who
+[end]
+
+
+#ENDMSG()
+
+// substring 14
+#STARTMSG(0xDA44, 13, 1)
+
+// なにものかの　てによって[end]
+//to put an end to
+conspires to put an
+[end]
+
+
+#ENDMSG()
+
+// substring 15
+#STARTMSG(0xDA51, 15, 1)
+
+// くずされようと　していた。[end]
+end to this peace.
+[end]
+
+
+#ENDMSG()
+
+// substring 16
+#STARTMSG(0xDA60, 13, 1)
+
+// ひとびとは　そのことを[end]
+//Unfortunately, nobody
+//To their misfortune, none
+None yet know of this,
+[end]
+
+
+#ENDMSG()
+
+// substring 17
+#STARTMSG(0xDA6D, 17, 1)
+
+// まだ　しるよしも　ない・・・。[end]
+//was aware of this fact...
+//yet know of this...
+to their misfortune...
+[end]
+
+
+#ENDMSG()
+
+// substring 18
+#STARTMSG(0xDA7E, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 19
+#STARTMSG(0xDA80, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 20
+#STARTMSG(0xDA82, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 21
+#STARTMSG(0xDA84, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 22
+#STARTMSG(0xDA86, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 23
+#STARTMSG(0xDA88, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 24
+#STARTMSG(0xDA8A, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 25
+#STARTMSG(0xDA8C, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// substring 26
+#STARTMSG(0xDA8E, 2, 1)
+
+// 　[end]
+ 
+[end]
+
+
+#ENDMSG()
+
+// NOTE: the intro is terminated by this null string (begins with terminator)
+// (it's not any more since I changed the code, but we still need a dummy
+// entry at the end)
+
+// substring 27
+#STARTMSG(0xDA90, 1, 1)
+
+[end]
+
+#ENDMSG()
+
+
+

@@ -1,0 +1,44 @@
+
+//===================================================
+// label used on main menu
+//===================================================
+
+Translation Credits[end]
+#ENDMSG()
+
+#BREAK()
+
+//===================================================
+// credits
+//===================================================
+
+[br]
+           Moldorian:[br]
+        The Sisters of[br]
+      Light and Darkness[br]
+[br]
+      English Conversion[br]
+            Credits
+
+[end]
+#ENDMSG()
+
+    Translation[br]
+       TheMajinZenki[br]
+    Hacking[br]
+       Supper[br]
+    Editing and Testing[br]
+       cccmar[br]
+    Testing and Editing[br]
+       Xanathis
+
+[end]
+#ENDMSG()
+
+    Original Script Dump[br]
+       Filler
+
+[end]
+#ENDMSG()
+
+

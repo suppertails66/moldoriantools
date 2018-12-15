@@ -1,0 +1,365 @@
+//かたみのつるぎ[WT]
+Keepsake Sword[WT]
+
+//ナイフ[WT]
+Knife[WT]
+
+//ダガー[WT]
+Dagger[WT]
+
+//ショートソード[WT]
+Short Sword[WT]
+
+//グラディウス[WT]
+Gladius[WT]
+
+//ロングソード[WT]
+Long Sword[WT]
+
+//サーべル[WT]
+Saber[WT]
+
+//ブロードソード[WT]
+Broadsword[WT]
+
+//レイピア[WT]
+Rapier[WT]
+
+//ソーズブレイド[WT]
+Thor's Blade[WT]
+
+//フレイムソード[WT]
+Flame Sword[WT]
+
+//アイスジャべりン[WT]
+Ice Javelin[WT]
+
+//ソニックソード[WT]
+Sonic Sword[WT]
+
+//はやてのつるぎ[WT]
+Gale Sword[WT]
+
+//ダークスレイヤー[WT]
+Dark Slayer[WT]
+
+//エクスカりバー[WT]
+Excalibur[WT]
+
+//まじんのつるぎ[WT]
+Devil Sword[WT]
+
+//はめつのつるぎ[WT]
+Sword of Ruin[WT]
+
+//きぼうのつるぎ[WT]
+Sword of Hope[WT]
+
+//きのつえ[WT]
+Wooden Staff[WT]
+
+//てつのつえ[WT]
+Iron Staff[WT]
+
+//ほのおのつえ[WT]
+Fire Staff[WT]
+
+//ようまのつえ[WT]
+Ghost Staff[WT]
+
+//ひかりのつえ[WT]
+Light Staff[WT]
+
+//めがみのつえ[WT]
+Goddess Staff[WT]
+
+//ひょうがのつえ[WT]
+Glacier Staff[WT]
+
+//ムジョルニア[WT]
+Mjollnir[WT]
+
+//ホーりィロッド[WT]
+Holy Rod[WT]
+
+//ブロンズランス[WT]
+Bronze Lance[WT]
+
+//アイアンランス[WT]
+Iron Lance[WT]
+
+//シルバーランス[WT]
+Silver Lance[WT]
+
+//まかいのやり[WT]
+Hell Spear[WT]
+
+//ハルバート[WT]
+Halberd[WT]
+
+//ゴッドスピア[WT]
+God Spear[WT]
+
+//トライデント[WT]
+Trident[WT]
+
+//ドラゴンランス[WT]
+Dragon Lance[WT]
+
+//ブーメラン[WT]
+Boomerang[WT]
+
+//かわのふく[WT]
+Leather Clothes[WT]
+
+//ぬののローブ[WT]
+Simple Robe[WT]
+
+//レザードレス[WT]
+Leather Dress[WT]
+
+//レザーチェスト[WT]
+Leather Chest[WT]
+
+//たびのマント[WT]
+Traveler's Cape[WT]
+
+//レザーアーマー[WT]
+Leather Armor[WT]
+
+//チェインメイル[WT]
+Chainmail[WT]
+
+//プレートメイル[WT]
+Platemail[WT]
+
+//スケイルメイル[WT]
+Scalemail[WT]
+
+//シルバーメイル[WT]
+Silver Mail[WT]
+
+//バトルスーツ[WT]
+Battle Suit[WT]
+
+//りゅうのよろい[WT]
+Dragon Armor[WT]
+
+//まほうのマント[WT]
+Magic Cape[WT]
+
+//ハイレグスーツ[WT]
+High-leg Suit[WT]
+
+//まほうのよろい[WT]
+Magic Armor[WT]
+
+//プラチナスーツ[WT]
+Platinum Suit[WT]
+
+//エンジェルスーツ[WT]
+Angel Suit[WT]
+
+//デビルスーツ[WT]
+Devil Suit[WT]
+
+//せいれいのマント[WT]
+Spirit Cape[WT]
+
+//ふうまのマント[WT]
+Sacred Cowl[WT]
+//I went for "sacred" under the assumption that "fuuma" is in the sense of "evil sealing" 封魔. This is the second strongest armor in the game. The other "Fuuma" I could think of is the famous ninja, but I don't think that would fit the game.
+
+//きぼうのよろい[WT]
+Armor of Hope[WT]
+
+//かわのたて[WT]
+Leather Shield[WT]
+
+//バックラー[WT]
+Buckler[WT]
+
+//どうのたて[WT]
+Bronze Shield[WT]
+
+//はがねのたて[WT]
+Steel Shield[WT]
+
+//りゅうのうろこ[WT]
+Dragon Scale[WT]
+
+//ミラーシールド[WT]
+Mirror Shield[WT]
+
+//まやかしのたて[WT]
+Trick Shield[WT]
+
+//まじんのたて[WT]
+Devil Shield[WT]
+
+//パワーシールド[WT]
+Power Shield[WT]
+
+//きぼうのたて[WT]
+Shield of Hope[WT]
+
+//かわのぼうし[WT]
+Leather Cap[WT]
+
+//アイアンへルム[WT]
+Iron Helm[WT]
+
+//とんがりぼうし[WT]
+Pointy Hat[WT]
+
+//マジカルハット[WT]
+Magical Hat[WT]
+
+//オオイチョウ[WT]
+Top-knot[WT]
+
+//てんしのりング[WT]
+Angel Halo[WT]
+
+//りゅうのおうかん[WT]
+Dragon Crown[WT]
+
+//ダークへルム[WT]
+Dark Helm[WT]
+
+//ナイトへルム[WT]
+Knight Helm[WT]
+
+//プラチナへルム[WT]
+Platinum Helm[WT]
+
+//ししのたてがみ[WT]
+Lion's Mane[WT]
+
+//ゆうきのかぶと[WT]
+Brave Helmet[WT]
+
+//かわのうでわ[WT]
+Leather Armlet[WT]
+
+//ガントレット[WT]
+Gauntlets[WT]
+
+//どうのうでわ[WT]
+Bronze Armlet[WT]
+
+//ぎんのうでわ[WT]
+Silver Armlet[WT]
+
+//かぜのうでわ[WT]
+Wind Armlet[WT]
+
+//きんのうでわ[WT]
+Golden Armlet[WT]
+
+//たいまのうでわ[WT]
+Exorcism Armlet[WT]
+
+//ほしのゆびわ[WT]
+Star Ring[WT]
+
+//つきのゆびわ[WT]
+Moon Ring[WT]
+
+//はやてのゆびわ[WT]
+Gale Ring[WT]
+
+//ちからのゆびわ[WT]
+Power Ring[WT]
+
+//いのちのゆびわ[WT]
+Life Ring[WT]
+
+//きのみ[WT]
+Fruit[WT]
+
+//パン[WT]
+Bread[WT]
+
+//まんぷくそう[WT]
+Full Salve[WT]
+
+//ちんぷいのみ[WT]
+Abraca Fruit[WT]
+
+//らみぱすのみ[WT]
+Hocus Fruit[WT]
+
+//どろろんエキス[WT]
+Shazam Extract[WT]
+//the previous three entries in Japanese are all popular culture reference related to magic. "chinpui" comes from the "magic spell" to make pain go away, as told to kids (chichinpuipui, itai no itai no tondeke); ramipasu is a reference to a magic spell from the magical girl anime "Himitsu no Akko-chan"; dororon is probably a reference to the manga/anime "Dororon Enma-kun". Since these references would be lost to most, I figured it would be better to use magic word references better known in the west.
+
+//やくそう[WT]
+Medicinal Herbs[WT]
+
+//どくけしそう[WT]
+Antidote[WT]
+
+//めぱちのみ[WT]
+Blinking Fruit[WT]
+
+//けんじゃのいし[WT]
+Philosopher's Stone[WT]
+
+//じゃがんせき[WT]
+Evil Stone[WT]
+
+//みわくのルージュ[WT]
+Charming Lipstick[WT]
+
+//バルハラのはな[WT]
+Valhalla Flower[WT]
+
+//てんまのはね[WT]
+Pegasus Feather[WT]
+
+//だっしゅつロープ[WT]
+Escape Rope[WT]
+
+//しろのハーブ[WT]
+White Herbs[WT]
+
+//くろのハーブ[WT]
+Black Herbs[WT]
+
+//あおいハーブ[WT]
+Blue Herbs[WT]
+
+//あかいハーブ[WT]
+Red Herbs[WT]
+
+//みどりのハーブ[WT]
+Green Herbs[WT]
+
+//きのハーブ[WT]
+Yellow Herbs[WT]
+
+//ミりアのブローチ[WT]
+Miria's Brooch[WT]
+
+//アクアマりン[WT]
+Aquamarine[WT]
+
+//マジカル・キー[WT]
+Magical Key[WT]
+
+//おうひのてがみ[WT]
+Queen's Letter[WT]
+
+//マジックワンド[WT]
+Magic Wand[WT]
+
+//カヌー[WT]
+Canoe[WT]
+
+//カボスのみ[WT]
+Carbos Fruit[WT]
+
+//キングジュエル[WT]
+King Jewel[WT]
+

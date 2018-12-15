@@ -1,0 +1,18 @@
+//ひょうじそくどを　えらんでください[WT]
+Please select text speed.[WT]
+
+//ーーーーーーーーーーーーーーーーー[WT]
+-----------------[WT]
+
+//メッセージ[WT]
+Messages[WT]
+
+//バトルモード[WT]
+Battle Mode[WT]
+
+//おそい　　　　ふつう　　　　はやい[WT]
+Slow         Fast[WT]
+
+//　０　１　２　３　４　５　６　７[WT]
+ 0 1 2 3 4 5 6 7[WT]
+

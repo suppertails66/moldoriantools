@@ -1,0 +1,8732 @@
+﻿
+Block 0 -------------------------
+
+//が　あらわれた！
+has appeared!
+
+
+Block 1 -------------------------
+
+//てきが　のこした　もちものから　[ED]
+Found[ED]
+
+
+//を　みつけた！[WT]
+ among the enemy remains![WT]
+//there's no shown variable here, but the item name would go before this line.
+
+
+Block 2 -------------------------
+
+//こうげき：[ED]
+Attack: [ED]
+
+
+//こうげき　ほじょ：[ED]
+Attack Support: [ED]
+
+
+//みかた　しえん：[ED]
+Support Ally: [ED]
+
+
+//ＨＰかいふく：[ED]
+HP Restore: [ED]
+
+
+//ちりょう：[ED]
+Cure: [ED]
+
+
+//とくしゅ：[ED]
+Special: [ED]
+
+
+//１たい：[ED]
+Single: [ED]
+
+
+//ぜんたい：[ED]
+All: [ED]
+
+
+//ひとり：[ED]
+Single: [ED]
+
+
+//ぜんいん：[ED]
+All: [ED]
+
+
+//ポイント[ED]
+ points[ED]
+
+
+//ぜんかいふく[ED]
+Full[ED]
+
+
+//ほのおの　まほうです[ED]
+Fire magic.[ED]
+
+
+//こおりの　まほうです[ED]
+Ice magic.[ED]
+
+
+//らいげき　まほうです[ED]
+Thunder magic.[ED]
+
+
+//あいてを　きりさきます[ED]
+Cuts through the target.[ED]
+
+
+//あいてを　おしつぶします[ED]
+Crushes the target.[ED]
+
+
+//じばくして　ダメージをあたえます[ED]
+Self-destruct to inflict damage.[ED]
+
+
+//じばくして　あいてを　そくしさせます[ED]
+Self-destruct to kill target.[ED]
+
+
+//こうげきりょくを　ダウンさせます[ED]
+Reduces attack power.[ED]
+
+
+//あいてを　ねむらせます[ED]
+Puts target to sleep.[ED]
+
+
+//あいてを　こんらんさせます[ED]
+Confuses target.[ED]
+
+
+//あいての　うごきを　にぶくします[ED]
+Slows down target.[ED]
+
+
+//あいての　まほうを　ふうじます[ED]
+Seals target magic.[ED]
+
+
+//あいての　ＭＰを　へらします[ED]
+Reduces target MP.[ED]
+
+
+//あいての　ＭＰを　うばいます[ED]
+Steals target MP.[ED]
+
+
+//こうげきりょくが　アップします[ED]
+Raises attack power.[ED]
+
+
+//すばやさが　アップします[ED]
+Raises speed.[ED]
+
+
+//ぼうぎょりょくが　アップします[ED]
+Raises defense.[ED]
+
+
+//あいてのまほうが　ききにくくなります[ED]
+Weakens target's magic.[ED]
+
+
+//あいてのまほうを　はねかえします[ED]
+Reflects target's magic.[ED]
+
+
+//ＨＰが　かいふくします[ED]
+Restores HP.[ED]
+
+
+//いきかえらせます[ED]
+Revives ally.[ED]
+
+
+//どくを　なおします[ED]
+Cures poison.[ED]
+
+
+//どく、きぜつ、ねむりを　なおします[ED]
+Curse poison, stun and sleep.[ED]
+
+
+//からだを　かんぜんに　もどします[ED]
+Cures all ailments.[ED]
+
+
+//ワープします[ED]
+Warps to a known location.[ED]
+
+
+//ダンジョンなどから　だっしゅつします[ED]
+Lets you escape from a dungeon.[ED]
+
+
+//よわい　てきが　でなくなります[ED]
+Prevents battle against weak enemies.[ED]
+
+
+//いきかえって　すこしＨＰかいふく
+Revives and restores some HP.
+
+
+Block 3 -------------------------
+
+//のレべルが　[ED]
+'s Level increased to [ED]
+
+
+//にアップ[WT][ED]
+.[WT][ED]
+
+
+//「おとまりなら　[ED]
+It will cost [ED]
+
+
+//Ｇです。[BR]
+G to stay.[BR]
+
+//　いかがいたしますか？[ED]
+Is that okay?[ED]
+
+
+//「では　ごゆっくりどうぞ。[ED]
+Enjoy your stay.[ED]
+
+
+//「おきゃくさん、おかねが[BR]
+You don't have[BR]
+
+//　たりないようですが[WT][ED]
+enough money...[WT][ED]
+
+
+//「おはようございます。[WT][ED]
+Good morning.[WT][ED]
+
+
+//「やどだいは　いただきません。[BR]
+You won't be charged for staying.[BR]
+
+//　いかがいたしますか？[ED]
+Will you rest here?[ED]
+
+
+//「やすらぎのやどやへ　ようこそ！[WT][ED]
+Welcome to our inn![WT][ED]
+
+
+//「おかえりなさいませ！[WT][ED]
+Welcome back![WT][ED]
+
+
+//「それは　ざんねんです。[WT][ED]
+Oh, what a shame.[WT][ED]
+
+
+//「それでは　おきをつけて[BR]
+Have a safe[BR]
+
+//　いってらっしゃいませ。[WT][ED]
+trip.[WT][ED]
+
+
+//「また　こんど[BR]
+Come back[BR]
+
+//　いらしてください。[WT][ED]
+any time.[WT][ED]
+
+
+//「でも　かまいません。[BR]
+I don't mind.[BR]
+
+//　おつかれのようですからね。[WT][ED]
+You look pretty tired.[WT][ED]
+
+
+//「どんなようだい？[ED]
+Need something?[ED]
+
+
+//「ぜんぶで[ED]
+In total, that'll be [ED]
+
+
+//になるが　いいかな？[ED]
+. Is that okay?[ED]
+
+
+//「わるいが　それは[BR]
+Sorry, I can't[BR]
+
+//　かいとれないなあ[WT][ED]
+buy that.[WT][ED]
+
+
+//「なにを　うって　くれるのかな？[ED]
+What would you like to sell?[ED]
+
+
+//「どれに　する？[ED]
+What do you need?[ED]
+
+
+//「おきゃくさん　おかねが[BR]
+Sir, you don't have[BR]
+
+//　たりないよ[WT][ED]
+enough money...[WT][ED]
+
+
+//「いらっしゃい[WT][ED]
+Welcome.[WT][ED]
+
+
+//「ほかに　なんか　ある？[ED]
+Is there anything else?[ED]
+
+
+//「じゃあね。ありがとよ！[WT][ED]
+Thank you. See you soon![WT][ED]
+
+
+//「じゃあね。こんどは[BR]
+See ya. Buy something[BR]
+
+//　なんか　かってくれよな！[WT][ED]
+next time![WT][ED]
+
+
+//「いつでも　きがるに[BR]
+Feel free to[BR]
+
+//　のぞいてよ！[WT][ED]
+take a look![WT][ED]
+
+
+//「もう、もちきれないよ。[WT][ED]
+You're carrying too much.[WT][ED]
+
+
+//「いくつだい？[ED]
+How many?[ED]
+
+
+//「これで　いいかな？[ED]
+Is this okay?[ED]
+
+
+//「それなら[ED]
+Then, [ED]
+
+
+//「どんな　ごようけんですか？[ED]
+What do you need?[ED]
+
+
+//「ぜんぶで[ED]
+In total, that'll be [ED]
+
+
+//に[BR]
+.[BR]
+
+//　なりますが　よろしいですか？[ED]
+Is that alright?[ED]
+
+
+//「それは　かいとりできません。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//「なにを　うっていただけますか？[ED]
+What are you selling?[ED]
+
+
+//「なにを　おかいもとめですか？[ED]
+Are you looking for something in particular?[ED]
+
+
+//「おかねが　たりませんよ。[WT][ED]
+You don't have enough money.[WT][ED]
+
+
+//「いらっしゃいませ！[WT][ED]
+Welcome![WT][ED]
+
+
+//「ほかに　なにか　ありますか？[ED]
+Anything else?[ED]
+
+
+//「どうもありがとうございました。[WT][ED]
+Thank you.[WT][ED]
+
+
+//「またの　おこしを[BR]
+Until next[BR]
+
+//　おまちしています。[WT][ED]
+time.[WT][ED]
+
+
+//「またの　おこしを[BR]
+I'll eagerly await[BR]
+
+//　こころより　おまちしています。[WT][ED]
+your return.[WT][ED]
+
+
+//「もう、もちきれませんよ。[WT][ED]
+You can't carry any more.[WT][ED]
+
+
+//「おいくつですか？[ED]
+How many?[ED]
+
+
+//「これでよろしいですか？[ED]
+It this okay?[ED]
+
+
+//「それなら[ED]
+Then, [ED]
+
+
+//「いらっしゃいませ[BR]
+Welcome to my[BR]
+
+//　ここは　まほうやです。[WT][ED]
+magic shop.[WT][ED]
+
+
+//「まとめては　みれませんので、[BR]
+I can only work with[BR]
+
+//　おひとりずつ　おねがいします。[WT][ED]
+one person at a time.[WT][ED]
+
+
+//「どなたの　まほうですか？[ED]
+Who am I working with?[ED]
+
+
+//さん、なにを　しますか？[ED]
+? Very well. What do you need?[ED]
+
+
+//さん、ほかに　ありますか？[ED]
+, do you require anything else?[ED]
+
+
+//「ごようのときは[BR]
+Come back whenever[BR]
+
+//　いつでも　どうぞ。[WT][ED]
+you require my services.[WT][ED]
+
+
+//さんは、[BR]
+ cannot[BR]
+
+//　まほうを　つかえません。[WT][ED]
+use any spells.[WT][ED]
+
+
+//「ただし、ＭＰが　たりないので、[BR]
+However, [BR]
+
+//　[ED]
+ [ED]
+
+
+//さんには　つかえませんよ[WT][ED]
+doesn't have enough MP to use it.[WT][ED]
+
+
+//「おかねが　たりませんよ。[WT][ED]
+You don't have enough money.[WT][ED]
+
+
+//「りょうきんは　[ED]
+That will be [ED]
+
+
+//Ｇです。[BR]
+G to teach you [BR]
+
+//[ED]
+[ED]
+
+
+//を　みにつけますか？[ED]
+. Is that fine?[ED]
+//the spell name goes before this line.
+
+
+//さんは、[BR]
+ has learned [BR]
+
+//　[ED]
+[ED]
+
+
+//を　みにつけました。[WT][ED]
+.[WT][ED]
+//spell name goes before this.
+
+
+//さんは　まほうを[BR]
+ knows no[BR]
+
+//　みにつけていません。[WT][ED]
+spells.[WT][ED]
+
+
+//「どのまほうを　かえますか？[ED]
+Enhance which spell?[ED]
+
+
+//の　つよさは[BR]
+ cannot be improved[BR]
+
+//かえられません。[WT][ED]
+any further.[WT][ED]
+
+
+//「どのくらいの　つよさにしますか？[ED]
+Enhance it to which level?[ED]
+
+
+//「いまの　つよさと　おなじですよ。[WT][ED]
+That's the current level.[WT][ED]
+
+
+//「すでに　みにつけて　いますよ。[WT][ED]
+You already know that spell.[WT][ED]
+
+
+//Ｇかかります。[BR]
+G is what I need.[BR]
+
+//　つよさをかえますか？[ED]
+Shall I enhance that spell?[ED]
+//not sure if the line is just these two pieces.*test*
+
+
+//「わたしは　まじないしだ。[WT][ED]
+I am a Shaman.[WT][ED]
+
+
+//「どんな　ようだ？[ED]
+What is it you need?[ED]
+
+
+//「ほかに　なにか　あるのか？[ED]
+Do you need anything else?[ED]
+
+
+//「それでは　きをつけてな。[WT][ED]
+Safe travels.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//「[ED]
+I will need [ED]
+
+
+//Ｇ　いただこうか。[ED]
+G.[ED]
+
+
+//「かねが　たりないようだが。[WT][ED]
+It appears you don't have enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//「[ED]
+[ED]
+
+
+//は[BR]
+ doesn't seem[BR]
+
+//　のろわれて　いないようだが。[WT][ED]
+to be cursed.[WT][ED]
+
+
+//「[ED]
+[ED]
+
+
+//には　[ED]
+ has been cursed [ED]
+
+
+//つの[BR]
+[BR]
+
+//　のろいが　かかっている。[WT][ED]
+ times.[WT][ED]
+//without moving the variables (which are the name of the cursed and the amount of curses) I can't write a sentence that works both for singular and plural.*test*
+
+
+//「では、[ED]
+Very well. I shall remove [ED]
+
+
+//の[BR]
+'s[BR]
+
+//　のろいを　といてやろう。[WT][ED]
+curses.[WT][ED]
+
+
+//「カァーッ！　のろわれた[BR]
+Haaah! Cursed equipment,[BR]
+
+//　そうびよ、くだけちれ！[WT][ED]
+begone![WT][ED]
+
+
+//「これで、[ED]
+With this, [ED]
+
+
+//の[BR]
+ is[BR]
+
+//　のろいが　とけたぞ。[WT][ED]
+no longer cursed.[WT][ED]
+
+
+//「[ED]
+The [ED]
+
+
+//は[BR]
+ has been[BR]
+
+//　くだけちった。[WT][ED]
+removed.[WT][ED]
+
+
+//「だれの　のろいを[BR]
+Whose curse shall[BR]
+
+//　とくのだ？[ED]
+I remove?[ED]
+
+
+//「だれの　からだから[BR]
+Who requires healing[BR]
+
+//　どくを　ぬくのだ？[ED]
+from poison?[ED]
+
+
+//「[ED]
+[ED]
+
+
+//は　どくに[BR]
+ does not seem[BR]
+
+//　おかされていないようだが。[WT][ED]
+to be poisoned.[WT][ED]
+
+
+//「では、[ED]
+Then, I shall heal[ED]
+
+
+//の[BR]
+ from[BR]
+
+//　どくを　ぬいてやろう。[WT][ED]
+poisoning.[WT][ED]
+
+
+//「とくせいの　どくけしをつかって、[BR]
+I'll apply some of[BR]
+
+//　すりすり・・　すりすり・・[WT][ED]
+my special antidote...[WT][ED]
+
+
+//「[ED]
+[ED]
+
+
+//の　からだから[BR]
+ is no longer[BR]
+
+//　どくは　ぬけたぞ。[WT][ED]
+poisoned.[WT][ED]
+
+
+//へルプ[ED]
+Help[ED]
+
+
+//こうげき[ED]
+Attack[ED]
+
+
+//ぼうぎょ[ED]
+Defend[ED]
+
+
+//まほう：[ED]
+Magic:[ED]
+
+
+//アイテム：[ED]
+Item:[ED]
+
+
+//にげる[ED]
+Run[ED]
+
+
+//あいてを　えらぶ[ED]
+Select Target[ED]
+
+
+//なし
+None
+
+
+Block 4 -------------------------
+
+//どんな　ようけんだい？[ED]
+What do you need?[ED]
+
+
+//ぜんぶで[ED]
+In total, it will be [ED]
+
+
+//になるけど　いいかな？[ED]
+. Is that fine?[ED]
+
+
+//それは　かいとれないな。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//なにを　うってくれるんだ？[ED]
+What are you selling?[ED]
+
+
+//どれに　する？[ED]
+What will it be?[ED]
+
+
+//おかねが　たりないようだな。[WT][ED]
+You don't have enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//ほかに　ようは？[ED]
+Anything else?[ED]
+
+
+//どうもありがとう。[WT][ED]
+Thanks.[WT][ED]
+
+
+//またな。[WT][ED]
+See you again.[WT][ED]
+
+
+//また　あおう。[WT][ED]
+See you soon.[WT][ED]
+
+
+//もう、もちきれないみたいだな。[WT][ED]
+That's all you can carry.[WT][ED]
+
+
+//いくつだい？[ED]
+How many?[ED]
+
+
+//これでいいかい？[ED]
+Is this okay?[ED]
+
+
+//それなら
+Then, 
+
+
+Block 5 -------------------------
+
+//を　つかいますか？
+ will be used. Confirm?
+
+
+Block 6 -------------------------
+
+//バド「あっ！[BR]
+Vado: Hey![BR]
+
+//　あれは　ルスランじゃないか！[WT][ED]
+Isn't that Luthran?[WT][ED]
+
+
+//バド「まってろ！[BR]
+Vado: Hang in there![BR]
+
+//　いま　たすけるぞ！[WT][ED]
+We'll save you![WT][ED]
+
+
+//ルスラン「92、バド、[BR]
+Luthran: 92, Vado, and[BR]
+
+//　それからトルル。おかげで[BR]
+Torle, I owe you all[BR]
+
+//　たすかったよ。ありがとう！[WT][BR]
+my life.[WT][BR]
+
+//「それにしても、ひさしぶりだな。　こんなところまで[BR]
+It has been long since we've last seen[BR]
+
+//　いったい　なにしにきたんだ？[WT][ED]
+each other. What are you doing here?[WT][ED]
+
+
+//トルル「ごあいさつねっ！[BR]
+Torle: Save the pleasantries[BR]
+
+//　あんたの　おさななじみが[BR]
+for later! One of your[BR]
+
+//　たいへんだって　ときに！[WT][ED]
+friends is in danger![WT][ED]
+
+
+//おうひのてがみを[BR]
+Handed the Queen's Letter[BR]
+
+//ルスランに　てわたした。[WT][ED]
+over to Luthran.[WT][ED]
+
+
+//ルスラン「・・・・・・！！[WT][BR]
+Luthran: ...![WT][BR]
+
+//「なんてこった！[BR]
+What?![BR]
+
+//　ミりアが　さらわれるなんて！[WT][BR]
+Miria has been kidnapped?![WT][BR]
+
+//「92、ぼくは　あいてが[BR]
+92, the only reason I gave[BR]
+
+//　きみだから、ミりアのことを[BR]
+up on her was because you[BR]
+
+//　あきらめたんだぞ！[WT][BR]
+were there for her![WT][BR]
+
+//「それなのに・・・[BR]
+Was I completely wrong about you?[BR]
+
+//　ふがいないと　おもわないか！[WT][ED]
+Are you really such a worthless--[WT][ED]
+
+
+//トルル「おちつきなさいよ！[BR]
+Torle: CALM DOWN![BR]
+
+//　ここで　なかまわれ　したって[BR]
+What's the point of[BR]
+
+//　しょうが　ないでしょ！[WT][BR]
+fighting about it now?[WT][BR]
+
+//「あたしは　おしろにかえるけど[BR]
+Look, I'm going back to[BR]
+
+//　あんたたち[BR]
+the castle. You better[BR]
+
+//　ケンカするんじゃ　ないわよ！[WT][ED]
+get along while I'm away![WT][ED]
+
+
+//ルスラン「たしかに　おこって[BR]
+Luthran: She's right.[BR]
+
+//　いても　しかたがないな・・・[BR]
+Rather than fighting among ourselves,[BR]
+
+//　ミりアを　さがしに　いこう！[WT][ED]
+we must focus on finding Miria![WT][ED]
+
+
+//ルスランが　なかまになった！[WT][ED]
+Luthran joined you![WT][ED]
+
+
+//ルスラン「まずは　ちょうろうに[BR]
+Luthran: First we must reach the[BR]
+
+//　はなしを　うかがわなくては。[WT][ED]
+elder. We must speak to him.[WT][ED]
+
+
+//。。。
+...
+
+
+Block 7 -------------------------
+
+//ミりア「92、あぶないから[BR]
+Miria: We shouldn't go[BR]
+
+//　あまり　とおくへ　いくのは[BR]
+too far away from the[BR]
+
+//　やめようよ。[WT]
+village, 92.[WT]
+
+
+Block 8 -------------------------
+
+//「おはよう　92[WT][BR]
+Good morning, 92.[WT][BR]
+
+//「とうさんが　はやく[BR]
+Your father told me to[BR]
+
+//　おきてきなさいって[BR]
+wake you up and let you know[BR]
+
+//　したで　まってるわよ[WT][ED]
+he's waiting for you downstairs.[WT][ED]
+
+
+//ランド「おい！[BR]
+Rand: Hey![BR]
+
+//　このよわむしめ！[WT][BR]
+Loser![WT][BR]
+
+//「ミりアがいないと　なにも[BR]
+Can't do anything without[BR]
+
+//　できないんだろっ！[WT]
+Miria around, huh?![WT]
+
+
+Block 9 -------------------------
+
+//ミりア「しょうがないな・・・[BR]
+Miria: Okay, okay...[BR]
+
+//　わたしも　いっしょにいくわ。[WT][ED]
+I guess I'll tag along.[WT][ED]
+
+
+//セりア「ようは　すんだ？[ED]
+Ceria: So? Feel better now?[ED]
+
+
+//にみCCFEてし−／ＥC3FB５CDD9ぬかいそうちゅう。[BR]
+にみCCFEてし−／ＥC3FB５CDD9ぬRemodeling.[BR]
+
+//たちいり　きんし！[WT]
+No entry![WT]
+
+
+Block 10 -------------------------
+
+//ミりア「92、ほんとうに[BR]
+Miria: Thank you, 92. I mean it.[BR]
+
+//　ありがとう。このブローチは[BR]
+I'm going to bury the brooch here,[BR]
+
+//　きねんに　ここにうめましょう[WT][ED]
+to remember this event.[WT][ED]
+
+
+//「おいのりよ。あなたが　もっと[BR]
+And now, a prayer.[BR]
+
+//　つよく　なれますように・・・[WT][ED]
+May you become stronger...[WT][ED]
+
+
+//「ここに　うめたこと、[BR]
+Never forget where we buried it.[BR]
+
+//　ぜったい　わすれないでね。[WT][BR]
+Promise me.[WT][BR]
+
+//「ブローチを　みつけたこと、[BR]
+Now let's go tell[BR]
+
+//　ランドに　おしえに[BR]
+Rand that you found[BR]
+
+//　いきましょう！[WT]
+the brooch![WT]
+
+
+Block 11 -------------------------
+
+//セりア「わたしが　はいってくと[BR]
+Ceria: I'd cause a commotion if[BR]
+
+//　やっかいなことに　なりそうね。　むらのそとで　まってるわ。[WT]
+people here saw me. I'll stay outside.[WT]
+
+
+Block 12 -------------------------
+
+//やすみま
+Rest?
+
+
+Block 13 -------------------------
+
+//ランド「やくそく　だからな。[BR]
+Rand: A promise's a promise.[BR]
+
+//　93を　やるよ。[WT][ED]
+I'll give you my 93.[WT][ED]
+
+
+//93と　アクアマりンを[BR]
+Exchanged the Aquamarine[BR]
+
+//こうかんした。[WT][ED]
+for the 93.[WT][ED]
+
+
+//ランド「おとなは　アテに[BR]
+Rand: We can't count on[BR]
+
+//　なんねえよ。おれ、ミりアを[BR]
+adults. I'd like to go[BR]
+
+//　たすけに　いきたいけど・・・[WT][BR]
+save Miria personally, but...[WT][BR]
+
+//「ばあちゃんを　ひとりのこして[BR]
+I can't leave my granny[BR]
+
+//　いけないし・・・[BR]
+all alone.[BR]
+
+//　だから・・・[WT][BR]
+That's why...[WT][BR]
+
+//「92、おまえが　ミりアを[BR]
+That's why you gotta[BR]
+
+//　たすけてやって　くれよ！[WT][ED]
+save Miria, 92![WT][ED]
+
+
+//マロン「おにいちゃん、ミりアが[BR]
+Marron: Listen, big bro.[BR]
+
+//　まえに　いってたんだけど・・・[WT「みんなが「よわむし」って[BR]
+Some time ago, Miria told me this:[WT]Even if everyone else[BR]
+
+//　いってても、おにいちゃんの[BR]
+considers you a weakling, she[BR]
+
+//　こと、ミりアはだいすきだって[WT][BR]
+still likes you a lot, and[WT][BR]
+
+//「つよくなってくれたら、もっと[BR]
+she would like you even more[BR]
+
+//　すきに　なるのに、って。[BR]
+if you were to become stronger.[BR]
+
+//　だから、がんばってね！[WT]
+So you have to do it, for her sake![WT]
+
+//「はい、これ！[WT][ED]
+Here, take this![WT][ED]
+
+
+//93を　もらった。[WT]
+93 received.[WT]
+
+
+Block 14 -------------------------
+
+//かぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 15 -------------------------
+
+//ウエコ「なにか　ようかしら？[ED]
+ウエコWhat do you need?[ED]
+
+
+//「ぜんぶで[ED]
+In total, it will be [ED]
+
+
+//になるけど[BR]
+.[BR]
+
+//　いい？[ED]
+That fine with you?[ED]
+
+
+//「それは　かいとれないわね。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//「なにを　うってくれるの？[ED]
+What are you selling?[ED]
+
+
+//「なにを　かってくれるの？[ED]
+What are you buying?[ED]
+
+
+//「おかねが　たりないわよ。[WT][ED]
+You're short on money.[WT][ED]
+
+
+//「あら　92　いらっしゃい[WT][ED]
+Hello, 92.[WT][ED]
+
+
+//「ほかに　なにか　ある？[ED]
+Do you need anything else?[ED]
+
+
+//「どうもありがとう[WT][ED]
+Thank you.[WT][ED]
+
+
+//「じゃあ　またね。[WT][ED]
+See you.[WT][ED]
+
+
+//「なにかあったら　またきてね。[WT][ED]
+Come back if you need anything.[WT][ED]
+
+
+//「もう、もてないわよ。[WT][ED]
+You can't carry any more.[WT][ED]
+
+
+//「いくつ？[ED]
+How many?[ED]
+
+
+//「これでいい？[ED]
+Is this okay?[ED]
+
+
+//「それなら
+Then, 
+
+
+Block 16 -------------------------
+
+//ここに　ミりアとのおもいでが[BR]
+Miria's memento is[BR]
+
+//うまっている。[WT][ED]
+buried here.[WT][ED]
+
+
+//ミりアのブローチを　てにいれた！[WT]
+Retrieved Miria's Brooch![WT]
+
+
+Block 17 -------------------------
+
+//「つかれたら　かえってきて、[BR]
+Whenever you're tired,[BR]
+
+//　べッドで　やすむんですよ。[WT][ED]
+come back and rest in the bed.[WT][ED]
+
+
+//「ミりアの　おかあさんは　さぞ[BR]
+Miria's mother must be[BR]
+
+//　かなしんで　いるでしょうね・・[WT][ED]
+devastated...[WT][ED]
+
+
+//「あなたの　とうさんは　むかし、　おしろのナイトだったひと。[BR]
+Your father used to be a castle knight.[BR]
+
+//　きっと　ぶじでいますよ。[WT][ED]
+I'm sure he's fine.[WT][ED]
+
+
+//「きをつけて　たびを[BR]
+Take care of yourself[BR]
+
+//　つづけるんですよ。[WT][ED]
+during your travels.[WT][ED]
+
+
+//「おかえり、92。[BR]
+Welcome back, 92.[BR]
+
+//　・・・ミりアをたすけることが[BR]
+I'm glad to hear that[BR]
+
+//　できたのね、よかった・・・[WT][BR]
+Miria is safe...[WT][BR]
+
+//「・・・いいえ、92[BR]
+...No, stop it.[BR]
+
+//　なにもいわなくていいのよ・・・[WT]
+We don't have to talk about that yet...[WT]
+
+
+Block 18 -------------------------
+
+//「きのう　またランドに[BR]
+Did Rand bully you[BR]
+
+//　いじめられたそうじゃな。[BR]
+again, yesterday?[BR]
+
+//　あいつにも　こまったもんだ。[WT][ED]
+I wonder what his problem with you is...[WT][ED]
+
+
+//「ひがしのもりにある　どうくつの　なかには　すごいおたからが[BR]
+There's a fabulous treasure resting in[BR]
+
+//　ねむっている・・・[WT][BR]
+the cave inside the eastern forest...[WT][BR]
+
+//「というはなしは　じいちゃんが[BR]
+At least, there was one, back[BR]
+
+//　こどものころから　してたのう。[WT][ED]
+when my grandpa was young.[WT][ED]
+
+
+//「・・・ねむれなかったのかい[BR]
+...You couldn't sleep, could you?[BR]
+
+//　めが　まっかじゃ。[WT][ED]
+Your eyes are all red.[WT][ED]
+
+
+//「・・・む、いくのか[BR]
+...I can tell from your eyes.[BR]
+
+//　そのめを　みればわかるぞ。[WT][BR]
+You're going to leave too, aren't you?[WT][BR]
+
+//「・・・だいじょうぶじゃ！[BR]
+No, I won't try to stop you.[BR]
+
+//　おかあさんと　マロンのことは[BR]
+You can leave your mother and Marron[BR]
+
+//　じいちゃんにまかせておけ！[WT][BR]
+to your good old grandpa![WT][BR]
+
+//「まずは　きたのおしろにいって[BR]
+First, you should go north, to the castle,[BR]
+
+//　おおさまに　そうだんするのじゃ[WT]「ちからになってくださるはずじゃ[WT][ED]
+and have an audience with the King.[WT]He should be able to provide some assistance.[WT][ED]
+
+
+//「うちで　たびのしたくを[BR]
+Make sure you have everything[BR]
+
+//　してからいくといい。[WT][ED]
+you need before leaving.[WT][ED]
+
+
+//「おお、かえってきたか。[BR]
+You're back![BR]
+
+//　・・・たくましくなったのお。[WT][BR]
+You look so strong now.[WT][BR]
+
+//「じいちゃんも　あんしんじゃ。[WT][ED]
+I'm so proud of you.[WT][ED]
+
+
+//「おお、92[BR]
+You look so strong[BR]
+
+//　すっかり　たくましくなって。[WT][BR]
+now, 92.[WT][BR]
+
+//「わしの　わかいころに[BR]
+You remind me of myself[BR]
+
+//　そっくりじゃ。[WT]
+at your age![WT]
+
+
+Block 19 -------------------------
+
+//マロン「おにいちゃん、[BR]
+Marron: Miria saved you from[BR]
+
+//　きのうのケンカ、ミりアに[BR]
+another fight yesterday,[BR]
+
+//　たすけて　もらったんだって？[WT][BR]
+didn't she, big bro?[WT][BR]
+
+//「おとこなら　もっと[BR]
+You're a man![BR]
+
+//　しゃんと　しなさいよー[WT][ED]
+You should act like one![WT][ED]
+
+
+//「あたしも　ひがしの　もりに[BR]
+I want to play in the[BR]
+
+//　あそびに　いきたいなあ。[WT][ED]
+eastern forest too.[WT][ED]
+
+
+//マロン「かわいそうなミりア・・・　あたしだったら　きっと[BR]
+Marron: Poor Miria... In her place,[BR]
+
+//　こわくて　ないちゃう！[WT][ED]
+I'd be bawling my eyes out![WT][ED]
+
+
+//マロン「おにいちゃん、[BR]
+Marron: Do your best,[BR]
+
+//　がんばってね！[WT][ED]
+big bro![WT][ED]
+
+
+//マロン「あ、おにいちゃん！[BR]
+Marron: Big bro![BR]
+
+//　はい、これ！[WT][ED]
+Here, take this![WT][ED]
+
+
+//やくそうを　もらった。[WT][ED]
+Received Medicinal Herbs.[WT][ED]
+
+
+//マロン「おにいちゃん、おかえり！　ミりアをたすけたの！？[BR]
+Marron: Welcome back, big bro! You saved Miria??[BR]
+
+//　やったー！[WT][BR]
+Way to go![WT][BR]
+
+//「・・・おにいちゃん、[BR]
+...But what about[BR]
+
+//「・・・おとうさんとは[BR]
+dad? Haven't you[BR]
+
+//　あわなかった？[WT]
+seen him at all?[WT]
+
+
+Block 20 -------------------------
+
+//ハンネス「あしたも　けんの[BR]
+Hannes: I'll be training[BR]
+
+//　れんしゅうを　するぞ。[BR]
+with the sword as well.[BR]
+
+//　おとこのこは　つよくなれ！[WT][ED]
+A man must be strong![WT][ED]
+
+
+//ハンネス「もりへ　いく？[BR]
+Hannes: You're going to the forest?[BR]
+
+//　まものに　きを　つけて[BR]
+Watch out for the monsters.[BR]
+
+//　ミりアを　まもるんだぞ！[WT][ED]
+Do everything in your might to protect Miria![WT][ED]
+
+
+//ハンネス「さあ、92[BR]
+Hannes: Come on, 92.[BR]
+
+//　きょうも　けんの[BR]
+Let's begin today's[BR]
+
+//　れんしゅうをするぞ。[WT][ED]
+blade practice.[WT][ED]
+
+
+//ハンネス「うーん、おまえは[BR]
+Hannes: Hmm... You're not[BR]
+
+//　ちっとも　うまく　ならないな。[WT]　スジは　いいんだが・・・。[WT][ED]
+improving at all.[WT]You do have talent, but...[WT][ED]
+
+
+//ハンネス「いま、そんちょうとも[BR]
+Hannes: I've just talked with the[BR]
+
+//　はなしを　してきたんだが・・・[WT]「とうさんが　これからミりアを[BR]
+village chief about it.[WT]I'll be leaving to[BR]
+
+//　さがしに　いくことにした。[WT][ED]
+look for Miria.[WT][ED]
+
+
+//ハンネス「もし、とうさんが[BR]
+Hannes: If I don't[BR]
+
+//　もどらなかったら・・・[WT][BR]
+come back...[WT][BR]
+
+//「かあさんたちのことは[BR]
+I want you to look[BR]
+
+//　たのんだぞ！[WT][ED]
+after your mother![WT][ED]
+
+
+//そんちょう「・・・ハンネスが[BR]
+Village Chief: It's been a week[BR]
+
+//　たびだってから　なんの[BR]
+since Hannes left the[BR]
+
+//　れんらくもなく[WT][BR]
+village.[WT][BR]
+
+//　いっしゅうかん　すぎたが・・・[WT]「・・・・・。[WT]
+We haven't heard from him since...[WT]......[WT]
+
+
+Block 21 -------------------------
+
+//ランド「よわむし92！[BR]
+Rand: You're a wimp, 92![BR]
+
+//　くやしかったら　つよくなって[BR]
+If you hate to hear that,[BR]
+
+//　みろってんだ！[WT][ED]
+then get stronger![WT][ED]
+
+
+//ランド「ミりアのブローチ？[BR]
+Rand: Miria's brooch?[BR]
+
+//　おまえなんかに　みつけられる[BR]
+Hah! You'll never[BR]
+
+//　わけ　ないじゃんか！[WT][ED]
+find that thing![WT][ED]
+
+
+//ランド「92が　ブローチを[BR]
+Rand: Huh? 92 found the brooch?[BR]
+
+//　みつけた？　へッ、ホントは[BR]
+No way. It was probably Miria[BR]
+
+//　ミりアが　みつけたんだろう？[WT][ED]
+who found it.[WT][ED]
+
+
+//ミりア「いいえ、ほんとうに[BR]
+Miria: I'm telling you,[BR]
+
+//　92がみつけてくれたのよ！[WT][ED]
+it was 92 who found it![WT][ED]
+
+
+//ランド「じゃ、じゃあ　こんどは[BR]
+Rand: O-Oh yeah? Well then,[BR]
+
+//　92　ひとりで　いって[BR]
+why don't we have 92[BR]
+
+//　どうくつに　あるっていう[WT][BR]
+go into the cave alone[WT][BR]
+
+//「たからをとってこい！[BR]
+and find the treasure?[BR]
+
+//　そしたら　おまえのことを[BR]
+If he does that, I'll acknowledge[BR]
+
+//　みとめてやろう！[WT][ED]
+that he's not a total loser![WT][ED]
+
+
+//ミりア「どうくつは　あぶないわ。　ランドが　みとめなくっても[BR]
+Miria: The cave is too dangerous.[BR]
+
+//　いいじゃない。[WT][ED]
+Forget about his approval, okay?[WT][ED]
+//you get a "yes/no" choice from this.
+
+
+//ランド「おまえは　ホントに[BR]
+Rand: You really are a wimp...[BR]
+
+//　よわむしだな。ミりアに　ついて　いって　もらったら　どうだ。[WT][ED]
+Why don't you take Miria with you, then?[WT][ED]
+
+
+//ランド「もりの　どうくつの[BR]
+Rand: If you bring the treasure[BR]
+
+//　たからを　とってきたら[BR]
+back from the cave, I'll[BR]
+
+//　おれのたからものを　やるよ。[WT][ED]
+give you my own treasure.[WT][ED]
+
+
+//ランド「おれの　ぶんまで[BR]
+Rand: You'll have to fight[BR]
+
+//　がんばって　くれよ！[WT][ED]
+for both of us![WT][ED]
+
+
+//ミりア「ダメッ　ダメよ。[BR]
+Miria: No no no![BR]
+
+//　どうくつは　あぶないわ。[WT]
+I said it's too dangerous![WT]
+
+
+Block 22 -------------------------
+
+//「もりのどうくつに　あるという[BR]
+Many have sought the treasure[BR]
+
+//　たからを　さがしにいって[BR]
+inside the cave in the forest,[BR]
+
+//　もどってきたものは　いない。[WT][BR]
+but nobody ever came back.[WT][BR]
+
+//「・・・そういって　こどものころ　おやに　おどかされたもんさ。[BR]
+...At least, that's what my dad used to tell me when I was a child.[BR]
+
+//　でも、さいきんじゃあ[WT][BR]
+Then again...[WT][BR]
+
+//「もりにも　まものが[BR]
+Now that there are monsters[BR]
+
+//　でるようになって、ホントに[BR]
+in the forest, that place[BR]
+
+//　あぶないばしょになっちまった[WT][ED]
+really IS dangerous.[WT][ED]
+
+
+//「だから　おれはいったんだ、[BR]
+See? I told you that[BR]
+
+//　あぶないって。[WT][ED]
+place was dangerous.[WT][ED]
+
+
+//「おー、かえってきたのか！[BR]
+Hey, you're back![BR]
+
+//　たいしたもんだ。[WT][BR]
+You're really something, eh?[WT][BR]
+
+//「こんど、たびのはなしを[BR]
+I can't wait to hear[BR]
+
+//　きかせてくれよ。[WT]
+all about your adventure.[WT]
+
+
+Block 23 -------------------------
+
+//「あのもんばん、ひるまから[BR]
+The gatekeeper drinks alcohol from early morning.[BR]
+
+//　さけばかりのんで　いざってとき　やくにたつのかしら？[WT][ED]
+Is he going to be useful if something actually happens?[WT][ED]
+
+
+//「そうさくたいを　だせば、[BR]
+If we send out a search[BR]
+
+//　まただれかが　ゆくえふめいに[BR]
+party, we might just end[BR]
+
+//　なるかも　しれないよ・・・。[WT][ED]
+up losing more people...[WT][ED]
+
+
+//「あたしゃ、あんたを　おうえん[BR]
+I'm cheering[BR]
+
+//　してるからね。[BR]
+for you.[BR]
+
+//　がんばるんだよ！[WT][ED]
+Good luck![WT][ED]
+
+
+//「ミりアをたすけたの？[BR]
+You saved Miria?[BR]
+
+//　やっぱり　ハンネスのこだねえ。[WT]
+You really are the son of Hannes.[WT]
+
+
+Block 24 -------------------------
+
+//「ねえ、92、ルスランは[BR]
+Hey, 92.[BR]
+
+//　まほうつかいの　しゅぎょう[BR]
+When's Luthran coming back[BR]
+
+//　から　いつ　かえってくるの？[WT][ED]
+from his magic training?[WT][ED]
+
+
+//「ルスランだったら、まほうで[BR]
+Do you think Luthran could[BR]
+
+//　ミりアを　たすけられるかなあ？[WT][ED]
+save Miria with his magic?[WT][ED]
+
+
+//「あ、92！　ルスラン！[BR]
+Ah, 92, Luthran![BR]
+
+//　ミりアは？　ミりアは？[WT][ED]
+How's Miria? Is she okay?[WT][ED]
+
+
+//「あ、92[BR]
+Ah, 92![BR]
+
+//　ミりアは？　ミりアは？[WT]
+How's Miria? Is she okay?[WT]
+
+
+Block 25 -------------------------
+
+//「ミりアが　すきなら、あんた[BR]
+If you really like Miria,[BR]
+
+//　もっと　おとこらしく[BR]
+you should try to act[BR]
+
+//　ならなきゃ　ダメよ！[WT][BR]
+more like a man![WT][BR]
+
+//　ミりアの　にいさんの　バド[BR]
+How about becoming a[BR]
+
+//　みたいに　おしろへ　いって[BR]
+castle knight, like[BR]
+
+//　ナイトにでも　なったらどう？[WT][ED]
+her brother Vado?[WT][ED]
+
+
+//「ミりアが　さらわれたこと、[BR]
+I don't know what Vado will do[BR]
+
+//　おしろにいる　バドが　しったら　どうなるかしら？[WT][BR]
+once he finds out that his sister has been kidnapped.[WT][BR]
+
+//「かれ、あたまに　ちがのぼり[BR]
+He's not exactly known[BR]
+
+//　やすいから。[WT][ED]
+for keeping his cool.[WT][ED]
+
+
+//「あら、92！なんか[BR]
+Is that you, 92?[BR]
+
+//　みちがえちゃったわ。[WT][BR]
+I could hardly recognize you![WT][BR]
+
+//「ルスランは　あいかわらずね。[WT][ED]
+Luthran looks just about the same.[WT][ED]
+
+
+//ルスラン「それは　あいかわらず[BR]
+Luthran: You mean I'm as[BR]
+
+//　カッコいいってことかな？[WT][ED]
+cool as ever?[WT][ED]
+
+
+//「・・・ねぼけてるようね。[WT][ED]
+...As dumb as ever, yes.[WT][ED]
+
+
+//「あら、92！なんか[BR]
+Is that you, 92?[BR]
+
+//　みちがえちゃったわ。[WT][ED]
+I could hardly recognize you![WT][ED]
+
+
+//「ホントにミりアをたすけたの？[BR]
+Is Miria really safe?[BR]
+
+//　だったら、はやくつれて[BR]
+Then hurry up and[BR]
+
+//　かえってきなさいよ。[WT][BR]
+bring her back![WT][BR]
+
+//「ぶじなかおが　はやくみたいわ。[WT]
+I miss her![WT]
+
+
+Block 26 -------------------------
+
+//「うちの　ランドが　また[BR]
+Has my Rand been[BR]
+
+//　おまえさんを　いじめたって？[BR]
+giving you trouble?[BR]
+
+//　すまんのう・・・[WT][BR]
+I'm sorry about that...[WT][BR]
+
+//　うちでは　この　おばばに[BR]
+I don't understand.[BR]
+
+//　やさしい、よいこ　[BR]
+He's always so kind[BR]
+
+//　なのにのう・・・[WT][ED]
+to me...[WT][ED]
+
+
+//「この　ばばの　せいで[BR]
+It's my fault[BR]
+
+//　ランドは　いっしょに[BR]
+Rand won't be[BR]
+
+//　いけないのじゃ・・・[WT][BR]
+coming with you...[WT][BR]
+
+//「すまんのう。[WT][ED]
+Forgive me.[WT][ED]
+
+
+//「ああ、92。ランドに[BR]
+Oh, 92. Did you[BR]
+
+//　あわなかったかのう。[WT][BR]
+happen to see Rand?[WT][BR]
+
+//「おまえさんの　あとをおって[BR]
+He actually left to[BR]
+
+//　たびにでたのじゃ。[WT][BR]
+go after you.[WT][BR]
+
+//「ミりアのことが　しんぱいで[BR]
+He was clearly worried[BR]
+
+//　おちつきを　なくしてのう、[BR]
+about Miria, so I told[BR]
+
+//　だからいってやったんじゃ。[WT][BR]
+him he could go.[WT][BR]
+
+//「ばあちゃんはだいじょうぶ！[BR]
+I'll be fine. I'm not alone,[BR]
+
+//　むらのひとたちも　いるし[BR]
+after all. Everyone's here,[BR]
+
+//　92のじいさんも・・・[WT][BR]
+and there's your grandfather...[WT][BR]
+
+//「・・・ポッ[WT][BR]
+... *blush*[WT][BR]
+
+//「・・・コホン、まあ、とにかく[BR]
+...Ahem! Anyway, after[BR]
+
+//　そういってやったら、ばあちゃん　ごめんって。[WT][BR]
+I told him that, he apologized,[WT][BR]
+
+//「とびだしていったんじゃよ。[WT][BR]
+and left shortly after.[WT][BR]
+
+//「いまごろ、あぶないめに[BR]
+I just hope he didn't[BR]
+
+//　あってなければよいがのう・・[WT][ED]
+get into trouble...[WT][ED]
+
+
+//「ランドが　まどうしに！？[WT][BR]
+Rand is training to become a sorcerer?![WT][BR]
+
+//「・・・ちは　あらそえんのう。[BR]
+...I guess the apple doesn't fall[BR]
+
+//　じつは、あのこのじいさんは[BR]
+far from the tree. You see, his[BR]
+
+//　まどうしだったのじゃ。[WT]
+grandfather was also a sorcerer.[WT]
+
+
+Block 27 -------------------------
+
+//「そんちょうさんは　２かいに[BR]
+The village chief is[BR]
+
+//　いるわ。[BR]
+upstairs.[BR]
+
+//　ミりアもさっき、きてたわよ。[WT][ED]
+Miria actually came by a few moments ago.[WT][ED]
+
+
+//「ミりアもハンネスも、[BR]
+I hope Miria and[BR]
+
+//　ぶじだと　いいけど・・・。[WT][ED]
+Hannes are well...[WT][ED]
+
+
+//「おかえりなさい、92。[BR]
+Welcome back, 92.[BR]
+
+//　しんぱいしてたのよ。[WT]
+We were all so worried about you.[WT]
+
+
+Block 28 -------------------------
+
+//「まものが　ちかごろ[BR]
+Lately, monsters have been[BR]
+
+//　ひとざとまで　おりてくるように　なったみたい。[WT][BR]
+slowly encroaching on inhabited areas.[WT][BR]
+
+//「いままで　へいげんで[BR]
+It was rare to see one[BR]
+
+//　あうことも　そんなに[BR]
+of them in the vicinity,[BR]
+
+//　なかったのに・・・。[WT][ED]
+but now...[WT][ED]
+
+
+//「まものが　ふえたといっても[BR]
+More monsters around is one[BR]
+
+//　これまで　ひとをさらう[BR]
+thing, but kidnapping people?[BR]
+
+//　なんてこと　なかったのに・・[WT][BR]
+That has never happened before![WT][BR]
+
+//「まるで　なにかに[BR]
+It's almost as if someone is[BR]
+
+//　あやつられてる　みたい・・・[WT][ED]
+controlling them, somehow...[WT][ED]
+
+
+//「あなたがまぞくのしまへ？[WT][BR]
+You went to the island of the Magi?[WT][BR]
+
+//「あんなに　きがよわそうだった[BR]
+Wow. You were always so meek, and look at you now.[BR]
+
+//　あなたがねえ・・・[WT]
+You've done something incredible...[WT]
+
+
+Block 29 -------------------------
+
+//そんちょう「お、92[BR]
+Village Chief: Well met, 92.[BR]
+
+//　よくきたな。さっき、ミりアが[BR]
+Miria just came by[BR]
+
+//　おまえを　さがしてたぞ。[WT][BR]
+looking for you.[WT][BR]
+
+//「それから、むらの　そとには[BR]
+By the way, you must[BR]
+
+//　ぜったい　でるんじゃ　ないぞ。[WT]「さいきんは、まものが[BR]
+never leave the village.[WT]There have been more and[BR]
+
+//　ふえてる　そうだからな。[WT][ED]
+more monster sightings lately.[WT][ED]
+
+
+//そんちょう「まものが　でるから[BR]
+Village Chief: There are monsters[BR]
+
+//　むらの　そとには[BR]
+out there. Do not[BR]
+
+//　でるんじゃないぞ。[WT][ED]
+leave the village.[WT][ED]
+
+
+//そんちょう「そうさくたいを[BR]
+Village Chief: I'm considering[BR]
+
+//　だすべきか、どうか・・・。[BR]
+sending a search party...[BR]
+
+//　おまえの　いけんは　どうだ？[WT][ED]
+What do you think?[WT][ED]
+
+
+//そんちょう「かってにむらを[BR]
+Village Chief: How could you[BR]
+
+//　でおって！[BR]
+leave the village without[BR]
+
+//　みんな　しんぱいしているぞ！[WT][ED]
+permission?! We were so worried![WT][ED]
+
+
+//そんちょう「とにかく、ぶじに[BR]
+Village Chief: What's important[BR]
+
+//　かえってきて　なによりだ。[WT][BR]
+is that you've come back safely.[WT][BR]
+
+//「・・・なに！ハンネスが・・・[WT][BR]
+...What? Hannes...![WT][BR]
+
+//「そうか・・・むらのみんなが[BR]
+That is sad to hear...[BR]
+
+//　しったら、またどんなに[BR]
+I don't know how the others[BR]
+
+//　かなしむだろうか・・・[WT]
+will react to such terrible news...[WT]
+
+
+Block 30 -------------------------
+
+//「あぶないから　こどもは[BR]
+It's too dangerous for a[BR]
+
+//　そとに　でちゃダメだぞう[WT][BR]
+a kid to go out there.[WT][BR]
+
+//「・・・ういー[WT][ED]
+... *hic*[WT][ED]
+
+
+//「ぐうぐう・・・[WT][ED]
+Zzz... Zzz...[WT][ED]
+
+
+//「きたに　いけば[BR]
+Keep going north and you'll[BR]
+
+//　タりフむらだよ。[WT][BR]
+reach the village of Taliph.[WT][BR]
+
+//「・・・おれが　よっぱらって[BR]
+...If not for that hangover,[BR]
+
+//　いねむりなんか　しなけりゃあ[BR]
+I could have gone to the[BR]
+
+//　ミりアも　もりにいって[WT][BR]
+forest and save Miria[WT][BR]
+
+//「まものなんかに　さらわれる[BR]
+before that monster could[BR]
+
+//　こともなかったろうに・・・[BR]
+take her away...[BR]
+
+//　・・・ういー。[WT][ED]
+*hic*[WT][ED]
+
+
+//「おれは　さけをやめた！[BR]
+I gave up on alcohol![BR]
+
+//　・・・ホントだって！[WT][BR]
+I'm serious![WT][BR]
+
+//「・・・ヒック。[WT][ED]
+... *hic*[WT][ED]
+
+
+//「ぐう、ぐう・・・[WT][ED]
+Zzz... Zzz...[WT][ED]
+
+
+//「・・・お、92か。[BR]
+...Oh, 92.[BR]
+
+//　おかえり。[WT][BR]
+Welcome back.[WT][BR]
+
+//「なに、いや！ぜんぜん[BR]
+Huh? N-No way![BR]
+
+//　ねてなんかいないぞ。[WT][BR]
+I wasn't sleeping![WT][BR]
+
+//「・・・いやホント。[WT]
+...I'm serious![WT]
+
+
+Block 31 -------------------------
+
+//「あら。こんにちは、92。[BR]
+Hello, 92.[BR]
+
+//　ミりアに　あいに　きたの？[WT][BR]
+Did you come to see Miria?[WT][BR]
+
+//「ミりアも　あなたの　ところに[BR]
+She's just left for[BR]
+
+//　でかけたのよ。いきちがいに[BR]
+your place. You must[BR]
+
+//　なったのかしら？[WT][ED]
+have missed each other.[WT][ED]
+
+
+//「ひがしのもりへ　いくですって？　おやめなさい、[BR]
+What? You're going to the eastern forest?[BR]
+
+//　そんな　あぶないこと！[WT][ED]
+Don't do that! It's too dangerous![WT][ED]
+
+
+//「かわいそうなミりア！[BR]
+Poor Miria![BR]
+
+//　92、あのこを[BR]
+92, you have to[BR]
+
+//　たすけてちょうだい！[WT][ED]
+save her![WT][ED]
+
+
+//「まあ、ミりアがケガを・・・[WT][BR]
+Oh my gosh... My Miria is injured?[WT][BR]
+
+//「でも、いきていてくれたのなら[BR]
+But she's alive...[BR]
+
+//　それでいいわ。[BR]
+That's what matters.[BR]
+
+//　・・・ありがとう、92。[WT]
+Thank you, 92.[WT]
+
+
+Block 32 -------------------------
+
+//「あっ、92！[BR]
+Oh, there you are, 92![BR]
+
+//　さがしてたの！[BR]
+I've been looking for you all over![BR]
+
+//　おねがいが　あるのよ。[WT][BR]
+I need a little favor.[WT][BR]
+
+//「あたし、92にもらった[BR]
+You see, I think I dropped[BR]
+
+//　ブローチを　ひがしの　もりで[BR]
+the brooch you gave me[BR]
+
+//　おとしちゃった　みたいなの。[WT][BR]
+in the eastern forest.[WT][BR]
+
+//「さがしに　いきたいんだけど・・　いっしょに　ついてきて[BR]
+I wanted to go look for it.[BR]
+
+//　くれないかしら？[ED]
+Would you come with me?[ED]
+
+
+//「ありがとう！　そういって[BR]
+Thanks! I knew I could[BR]
+
+//　くれると　おもってたんだ！[WT][ED]
+count on you![WT][ED]
+
+
+//「いじわるね。でも、ホントは[BR]
+Oh, you.[BR]
+
+//　ついてきて　くれるんでしょ？[BR]
+I know you're just teasing me.[BR]
+
+//　ちゃんと　わかってるんだから。[WT][ED]
+Okay, let's go then![WT][ED]
+
+
+//ミりアが　なかまになった。[WT][ED]
+Miria joined you.[WT][ED]
+
+
+//ルスラン「さあ、いそいで[BR]
+Luthran: No time to waste.[BR]
+
+//　ブローチをとってきてくれ。[WT][ED]
+Go get that brooch.[WT][ED]
+
+
+//ルスラン「たしかにそのブローチは　きみがミりアにあげたものだね。[WT]「よし、りスゴーへもどろう。[WT]
+Luthran: So that's the brooch you gave her, hm?[WT]Alright, let's go back to Lisgow.[WT]
+
+
+Block 33 -------------------------
+
+//「ああ　92か。[WT][ED]
+Oh, it's you 92.[WT][ED]
+
+
+//「どんな　ようだ？[ED]
+What's up?[ED]
+
+
+//「ほかに　なにか　あるのか？[ED]
+Anything else?[ED]
+
+
+//「それでは　きをつけてな。[WT][ED]
+Take care.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//「[ED]
+I will need [ED]
+
+
+//Ｇ　いただこうか。[ED]
+G.[ED]
+
+
+//「かねが　たりないようだが。[WT][ED]
+It appears you don't have enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//[ED]
+[ED]
+
+
+//「[ED]
+[ED]
+
+
+//は[BR]
+ doesn't seem[BR]
+
+//　のろわれて　いないようだが。[WT][ED]
+to be cursed.[WT][ED]
+
+
+//「[ED]
+[ED]
+
+
+//には　[ED]
+ has been cursed [ED]
+
+
+//つの[BR]
+[BR]
+
+//　のろいが　かかっている。[WT][ED]
+ times.[WT][ED]
+
+
+//「では、[ED]
+Very well. I shall remove [ED]
+
+
+//の[BR]
+'s[BR]
+
+//　のろいを　といてやろう。[WT][ED]
+curses.[WT][ED]
+
+
+//「カァーッ！　のろわれた[BR]
+Haaah! Cursed equipment,[BR]
+
+//　そうびよ、くだけちれ！[WT][ED]
+begone![WT][ED]
+
+
+//「これで、[ED]
+With this, [ED]
+
+
+//の[BR]
+ is[BR]
+
+//　のろいが　とけたぞ。[WT][ED]
+no longer cursed.[WT][ED]
+
+
+//「[ED]
+The [ED]
+
+
+//は[BR]
+ has been[BR]
+
+//　くだけちった。[WT][ED]
+removed.[WT][ED]
+
+
+//「だれの　のろいを[BR]
+Whose curse shall[BR]
+
+//　とくのだ？[ED]
+I remove?[ED]
+
+
+//「だれの　からだから[BR]
+Who requires healing[BR]
+
+//　どくを　ぬくのだ？[ED]
+from poison?[ED]
+
+
+//「[ED]
+[ED]
+
+
+//は　どくに[BR]
+ does not seem[BR]
+
+//　おかされていないようだが。[WT][ED]
+to be poisoned.[WT][ED]
+
+
+//「では、[ED]
+Then, I shall heal[ED]
+
+
+//の[BR]
+ from[BR]
+
+//　どくを　ぬいてやろう。[WT][ED]
+poisoning.[WT][ED]
+
+
+//「とくせいの　どくけしをつかって、[BR]
+I'll apply some of[BR]
+
+//　すりすり・・　すりすり・・[WT][ED]
+my special antidote...[WT][ED]
+
+
+//「[ED]
+[ED]
+
+
+//の　からだから[BR]
+ is no longer[BR]
+
+//　どくは　ぬけたぞ。[WT]
+poisoned.[WT]
+
+
+Block 34 -------------------------
+
+//ローチをみつけた！[WT][ED]
+You found the brooch![WT][ED]
+
+
+//ミりア「ありがとう、92！[WT][ED]
+Miria: Thank you, 92![WT][ED]
+
+
+//ミりア「あっ！　まものだ！！[BR]
+Miria: *gasp* It's a monster![BR]
+
+//　92、みつからないうちに[BR]
+Let's get out of here[BR]
+
+//　かえろうよ。[WT]
+before it notices us![WT]
+
+
+Block 35 -------------------------
+
+//ミりア「こわいから　あまり[BR]
+Miria: I'd rather not go in[BR]
+
+//　おくに　いくのは　やめようよ。[WT]
+too deep. It's a bit scary.[WT]
+
+
+Block 36 -------------------------
+
+//ミりア「92、こわいから、[BR]
+Miria: I'd rather not go down[BR]
+
+//　あたしは　ここで　まってるわ。[WT][ED]
+there... I'll be waiting here, 92.[WT][ED]
+
+
+//ミりア「どうくつを　でるの？[ED]
+Miria: Are we leaving?[ED]
+
+
+//ミりア「じゃあ、いきましょう。[WT][ED]
+Miria: Alright, let's go.[WT][ED]
+
+
+//ミりア「そう[BR]
+Miria: Okay...[BR]
+
+//　あまり　むりしないでね[WT][ED]
+Be careful.[WT][ED]
+
+
+//ミりアが　まものに[BR]
+Miria has been captured[BR]
+
+//つかまっている！！[WT][BR]
+by a monster!![WT][BR]
+
+//[ED]
+[ED]
+
+
+//ミりア「92、たすけて！[WT][ED]
+Miria: Help me, 92![WT][ED]
+
+
+//ミりア「92！[BR]
+Miria: 92![BR]
+
+//　たすけて！　たすけて！！[WT]
+Help! Help!![WT]
+
+
+Block 37 -------------------------
+
+//ぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 38 -------------------------
+
+//セりア「このせきぞうに　はいれば　いよいよ、ハイランディア、[BR]
+Ceria: Once we enter this statue, we'll reach Highlandia,[BR]
+
+//　まぞくのしまよ。[WT][BR]
+the island of the Magi.[WT][BR]
+
+//「かくごはいい？[WT][ED]
+Are you ready?[WT][ED]
+
+
+//ルスラン「・・・きみのほうこそ、　どうなんだ？まぞくのひとたちと　たたかうことになるかも・・・[WT][ED]
+Luthran: We should ask you the same. You do understand that we may have to fight against the Magi?[WT][ED]
+
+
+//セりア「だまってて！[BR]
+Ceria: Shut up![BR]
+
+//　あんたは　じぶんのしんぱいを[BR]
+Instead of worrying about me,[BR]
+
+//　してればいいのよ。[WT][ED]
+worry about yourself![WT][ED]
+
+
+//ルスラン「・・・わかったよ。[WT]
+Luthran: ...Very well.[WT]
+
+
+Block 39 -------------------------
+
+//「セりアひめ！　ブカりが[BR]
+Princess Ceria![BR]
+
+//　むほんを　おこしました！[BR]
+Bucalli has staged[BR]
+
+//　にんげんへの　こうげきも[WT][BR]
+a coup![WT][BR]
+
+//「ブカりの　めいれいだったこと、　いまでは　みんなが[BR]
+Now everyone knows that it was him[BR]
+
+//　しっています。[WT][ED]
+who ordered to attack the humans.[WT][ED]
+
+
+//CDD9ぬ「ここを　ひがしにいくと[BR]
+CDD9ぬThe village of Cimore[BR]
+
+//　シモアのむらが　あるんですが[WT][BR]
+is east from here,[WT][BR]
+
+//「むらはいま、ブカりがわと[BR]
+but the people there are[BR]
+
+//　おうさまがわに　わかれて[BR]
+split between followers[BR]
+
+//　いがみあって　いるんです。[WT][BR]
+of the King and of Bucalli.[WT][BR]
+
+//「え？　わたしたちですか？[BR]
+Hm? What about us?[BR]
+
+//　もちろん、ピニオンおうの[BR]
+Of course, we're followers[BR]
+
+//　みかた　ですよ！[WT]
+of King Pinion![WT]
+
+
+Block 40 -------------------------
+
+//「ここは　エマロイのまち。[BR]
+This is the town of Emaroy.[BR]
+
+//　でも　かんじんの　おうさまが[BR]
+However, our King has[BR]
+
+//　さらわれちゃったんだよ。[WT][ED]
+been kidnapped.[WT][ED]
+
+
+//「ここは　エマロイのまち。[BR]
+This is the town of Emaroy.[BR]
+
+//　エマロイおうが[BR]
+Our King is a fair[BR]
+
+//　おさめて　いるんだよ。[WT]
+and honest man.[WT]
+
+
+Block 41 -------------------------
+
+//「ハンネスという　むかしナイト[BR]
+This former knight[BR]
+
+//　だったおとこが、おうさまを[BR]
+called Hannes left[BR]
+
+//　たすけに　いったそうだ。[WT][ED]
+to rescue the King.[WT][ED]
+
+
+//「ハンネスという　おとこも[BR]
+A man named Hannes[BR]
+
+//　おうさまを　たすけに[BR]
+also set out to[BR]
+
+//　いったそうだが・・・[WT][BR]
+save the King...[WT][BR]
+
+//「あんたたち[BR]
+Did you guys[BR]
+
+//　あわなかったのか？[WT]
+meet him?[WT]
+
+
+Block 42 -------------------------
+
+//「たいへんだ！[BR]
+It's terrible![BR]
+
+//　おうさまが　まものに[BR]
+Our King has been[BR]
+
+//　さらわれたんだ！[WT][ED]
+kidnapped by a monster![WT][ED]
+
+
+//「おうさまが　ぶじに[BR]
+Thank goodness[BR]
+
+//　もどって　きてくれて[BR]
+the King is[BR]
+
+//　よかったなあ！[WT]
+finally back![WT]
+
+
+Block 43 -------------------------
+
+//「まものは　なんとうのほうへ[BR]
+We saw the monster[BR]
+
+//　とんでいったそうよ。[WT][BR]
+fly southeast.[WT][BR]
+
+//「おうさまは　ごぶじかしら・・[WT][ED]
+I hope the King is okay...[WT][ED]
+
+
+//「あなたたちが　おうさまを[BR]
+So you are the heroes[BR]
+
+//　たすけたんですって？[BR]
+who saved our King![BR]
+
+//　・・・す・て・き。[WT][ED]
+You're so... dreamy...[WT][ED]
+
+
+//CDD9ぬ「おんなのこを　つれた　まもの？　さあ？　このまちには[BR]
+CDD9ぬA girl kidnapped by a monster?[BR]
+
+//　こなかったわ。[WT]
+Can't say I've ever seen anything like that.[WT]
+
+
+Block 44 -------------------------
+
+//「お、おうさまが　さらわれて[BR]
+T-The King has been[BR]
+
+//　しまうとは！[BR]
+kidnapped![BR]
+
+//　このくにも　おわりじゃあ！[WT][ED]
+This is the end for our country![WT][ED]
+
+
+//「まものといっても　しょせんは[BR]
+Monsters are not that[BR]
+
+//　どうぶつ、もくてきをもって[BR]
+different from animals.[BR]
+
+//　いきている　わけじゃない。[WT][BR]
+They have no intellect.[WT][BR]
+
+//「それが　わざわざ　おうさまを[BR]
+Still, they deliberately[BR]
+
+//　さらっていくとは・・・[BR]
+kidnapped the King...[BR]
+
+//　これは　なにかあるぞ。[WT]
+Something is clearly up.[WT]
+
+
+Block 45 -------------------------
+
+//「やあ、たいへんなさわぎだねえ[BR]
+Howdy! What a mess, huh?[BR]
+
+//　まさか　おうさまがさらわれる[BR]
+To think they'd kidnap[BR]
+
+//　なんて・・・[WT][BR]
+the King himself...[WT][BR]
+
+//「おかげで　しょうばいに[BR]
+How am I supposed to[BR]
+
+//　なりゃしねえ。[WT][BR]
+work like this?[WT][BR]
+
+//「あ、おれ？おれはこのモルドりア　じゅうを　またにかけて[BR]
+What do I mean, you ask? I'm a traveling merchant,[BR]
+
+//　しょうばいする、しょうにんさ[WT][BR]
+selling my wares all over Moldoria.[WT][BR]
+
+//「そうだ、おまえさんたち、ちっと　みていかないか。そこいらの[BR]
+Why don't you take a look at my wares?[BR]
+
+//　みせには　ないモノばかりだぜ[WT]
+You won't find this stuff in your average store![WT]
+
+
+Block 46 -------------------------
+
+//「まものが　おとした　いわで[BR]
+The monsters have blocked[BR]
+
+//　どうくつは　いきどまりだぞ。[WT][ED]
+the path with boulders.[WT][ED]
+
+
+//「ここは　おしろへの[BR]
+This path leads[BR]
+
+//　ぬけみちだ。[WT]
+to the castle.[WT]
+
+
+Block 47 -------------------------
+
+//「とほー[WT][BR]
+*sigh*[WT][BR]
+
+//「こんな　おおいわ[BR]
+I can't move these[BR]
+
+//　ひとりじゃ　うごかせないよ。[WT][ED]
+on my own![WT][ED]
+
+
+//「ここは　タりフむらへの[BR]
+This path leads[BR]
+
+//　ぬけみちだよ。[WT]
+to Taliph.[WT]
+
+
+Block 48 -------------------------
+
+//「・・ぶつぶつ・・[BR]
+*mumble* *mumble*[BR]
+
+//　・・まものめ・・・だいじな・・[WT][ED]
+Darn monster... How dare he steal my--[WT][ED]
+
+
+//「・・・ハ！[WT][ED]
+...Ah![WT][ED]
+
+
+//「ラッキー！[BR]
+How lucky![BR]
+
+//　わたし？　いえいえ[BR]
+No, not me![BR]
+
+//　あんたたち　ラッキーね！[WT][BR]
+YOU are incredibly lucky![WT][BR]
+
+//「なんと！　タりフむら[BR]
+You're eligible for a fantastic[BR]
+
+//　１００まんにんのなかから[BR]
+opportunity that only comes[BR]
+
+//　えらばれたよ！[WT][BR]
+once in a million![WT][BR]
+
+//「いま　このどうくつ　いわで[BR]
+As you can see, the path[BR]
+
+//　とうれないね。[WT][BR]
+is blocked by boulders...[WT][BR]
+
+//「・・・しかし！！[WT][ED]
+HOWEVER![WT][ED]
+
+
+//「しいっ！[BR]
+Shhh![BR]
+
+//　こえ　おおきいよ！[WT][BR]
+You're too loud![WT][BR]
+
+//「ここ　じつは[BR]
+Aaanyway, there's a secret[BR]
+
+//　ドワーフのぬけみち　あるよ。[WT][BR]
+dwarven path, right here.[WT][BR]
+
+//　そこ　あんたたち[BR]
+And you're lucky enough[BR]
+
+//　つかわしたげる。[WT][BR]
+to get to use it![WT][BR]
+
+//「ただねえ・・・[WT][BR]
+Here's the catch...[WT][BR]
+
+//「ちょっと　えばったやつ[BR]
+There's a big jerk[BR]
+
+//　みち　ふさいでるの。[WT][BR]
+blocking the way.[WT][BR]
+
+//「だいじょぶ？[ED]
+But you can take care of him, right?[ED]
+
+
+//「ちょっ　よわむし。[WT][ED]
+Tch. Losers.[WT][ED]
+
+
+//「よーし！[WT][ED]
+Okay then![WT][ED]
+
+
+//「ほら　ここ！[WT][ED]
+It's through here![WT][ED]
+
+
+//「がーんば！[WT]
+Best of luck![WT]
+
+
+Block 49 -------------------------
+
+//「おうさまの　ゆるしが　なければ　ここは　とおせないな。[WT][ED]
+You may not pass without the King's permission.[WT][ED]
+
+
+//「やあ、バド。　おうさまから[BR]
+Good to see you, Vado.[BR]
+
+//　はなしは　きいているよ。[BR]
+The King sent us word about everything.[BR]
+
+//　きをつけてな！[WT][ED]
+Take care![WT][ED]
+
+
+//「どうくつを　ぬけた[BR]
+Once you leave[BR]
+
+//　へいげんには、[BR]
+the cave, you'll[BR]
+
+//　まちが　ふたつ　あるぞ。[WT]
+find two towns.[WT]
+
+
+Block 50 -------------------------
+
+//「ここから　ほくせいの　ところに　ルトのまちが　あるぞ！[WT][ED]
+The town of Luto is northwest from here.[WT][ED]
+
+
+//「ここは　おしろへの[BR]
+This path leads[BR]
+
+//　ぬけみちだ。[WT]
+to the castle.[WT]
+
+
+Block 51 -------------------------
+
+//どんな　ようけんだい？[ED]
+What do you need?[ED]
+
+
+//ぜんぶで[ED]
+In total, that'll be [ED]
+
+
+//になるけど　いいかな？[ED]
+. Is that fine?[ED]
+
+
+//それは　かいとれないな。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//なにを　うってくれるんだ？[ED]
+What are you selling?[ED]
+
+
+//どれに　する？[ED]
+What will it be?[ED]
+
+
+//おかねが　たりないようだな。[WT][ED]
+That's not enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//ほかに　ようは？[ED]
+Anything else?[ED]
+
+
+//どうもありがとう。[WT][ED]
+Thanks.[WT][ED]
+
+
+//またな。[WT][ED]
+See you again.[WT][ED]
+
+
+//また　あおう。[WT][ED]
+Until next time.[WT][ED]
+
+
+//もう、もちきれないみたいだな。[WT][ED]
+That's all you can carry.[WT][ED]
+
+
+//いくつだい？[ED]
+How many?[ED]
+
+
+//これでいいかい？[ED]
+Are you sure?[ED]
+
+
+//それなら
+Then, 
+
+
+Block 52 -------------------------
+
+//「おきさきさまから[BR]
+The Queen wishes[BR]
+
+//　おはなしが　あるそうです。[WT][ED]
+to speak with you.[WT][ED]
+
+
+//「ちょっと、まってえ！[WT][ED]
+Please wait![WT][ED]
+
+
+//トルル「あたしは　トルル。[BR]
+Torle: My name is Torle.[BR]
+
+//　まほうつかいよ。[WT][BR]
+I'm a sorceress.[WT][BR]
+
+//「ルスランの　とこまで[BR]
+The Queen told me to[BR]
+
+//　いっしょに　たびを　しろって、　おきさきさまに　いわれたの[WT][BR]
+travel with you guys until we find Luthran.[WT][BR]
+
+//「これ、おきさきさまの　てがみ。　ルスランに　わたしなさいって。[WT][ED]
+I'm supposed to hand over this letter to him.[WT][ED]
+
+
+//トルルが　なかまになった！[WT][ED]
+Torle joined you![WT][ED]
+
+
+//おうひのてがみを　うけとった。[WT]
+Queen's Letter received.[WT]
+
+
+Block 53 -------------------------
+
+//たからばこは　からっぽだった[WT][ED]
+The treasure chest was empty.[WT][ED]
+
+
+//なんと　たからばこの　したに[BR]
+On closer inspection, you notice a[BR]
+
+//かくしかいだんが　あった！[WT]
+hidden staircase under the chest![WT]
+
+
+Block 54 -------------------------
+
+//バド「おい、おまえたち[BR]
+Vado: Hey! Can someone[BR]
+
+//　てを　かしてくれ！[WT][ED]
+give me a hand here?![WT][ED]
+
+
+//バド「おい、92！[BR]
+Vado: 92, where did you[BR]
+
+//　おまえどうして・・・[BR]
+get those injuries?[BR]
+
+//　なに！うらやまへ・・・？[WT][BR]
+What? You went to the hills behind the castle...?[WT][BR]
+
+//「・・・おれか・・・！[WT][BR]
+...What about me, you ask?[WT][BR]
+
+//「なんとうのほうにある[BR]
+There was a report[BR]
+
+//　はいきょのとうに　まものが[BR]
+of monsters lurking[BR]
+
+//　はいりこんだという[WT][BR]
+inside an abandoned tower[WT][BR]
+
+//「じょうほうが　あったので[BR]
+east of here.[BR]
+
+//　とびらをやぶって　なかに[BR]
+We broke the gate open[BR]
+
+//　うちこんだ　まではよかったが[WT][BR]
+and made our way inside, but...[WT][BR]
+
+//「つい、ゆだんして・・・[BR]
+We were caught off guard...[BR]
+
+//　とりあえず　せんりょくの[BR]
+Anyway, we were forced[BR]
+
+//　たてなおしにかえってきたのだ[WT][BR]
+to fall back and regroup.[WT][BR]
+
+//「・・・これから　おうさまを[BR]
+...Are you saying[BR]
+
+//　たすけに　いくというのか、[BR]
+you're going to[BR]
+
+//　おまえが・・・！[WT][BR]
+save the King...?[WT][BR]
+
+//「むう・・・[WT][BR]
+Mnngh...[WT][BR]
+
+//「よしっ　おれも　いくぞ！[BR]
+Alright, I'm coming with you![BR]
+
+//　・・・ふん、こんなきず、[BR]
+Bah, these are nothing[BR]
+
+//　かすりきずだよ。[WT][ED]
+but scratches![WT][ED]
+
+
+//バドが　なかまになった！[WT][ED]
+Vado joined you![WT][ED]
+
+
+//バド「ハンネスがいってたっけ[BR]
+Vado: Hannes told me[BR]
+
+//　おまえ、けんのすじはいいのに[BR]
+that you definitely had[BR]
+
+//　なにかが　たりないって・・・[WT][BR]
+talent, but were lacking something...[WT][BR]
+
+//「その　なにかっていうのが、[BR]
+To think that Miria's[BR]
+
+//　ミりアが　さらわれたことに[BR]
+kidnapping was what you[BR]
+
+//　なるとは、な・・・[WT][BR]
+needed to grow...[WT][BR]
+
+//「くそっ　グチっていても[BR]
+...Tch. No point in[BR]
+
+//　しょうがない。[BR]
+grumbling about it now.[BR]
+
+//　いそぐぞ！　92！！[WT]
+Let's go, 92![WT]
+
+
+Block 55 -------------------------
+
+//「おい、92！[WT][ED]
+92! YOU!![WT][ED]
+
+
+//バド「92！[BR]
+Vado: 92![BR]
+
+//　おれは　アタマにきてんだ！[BR]
+You're lucky I don't want to[BR]
+
+//　このやろうっ！！[WT][BR]
+kill you where you stand![WT][BR]
+
+//「ミりアは　おまえと[BR]
+You let Miria get[BR]
+
+//　いっしょに　いるときに[BR]
+taken away right[BR]
+
+//　さらわれたんだってな！[WT][BR]
+before your eyes![WT][BR]
+
+//「おまえは、どんなことをしても[BR]
+You should have done everything[BR]
+
+//　ミりアを　まもらなきゃ[BR]
+you could to save her, even at[BR]
+
+//　ならなかったんだぞ！[WT][BR]
+the cost of your worthless life![WT][BR]
+
+//「わかってんのかっ！！[WT][BR]
+Don't you get it?! It's all your fault!![WT][BR]
+
+//「・・クソッ！　おうさまが　いて　くれたら、おれが　ミりアを[BR]
+...Darn it! If the King was here,[BR]
+
+//　たすけに　いけるのに・・・[WT][ED]
+I'd go save her myself...[WT][ED]
+
+
+//「・・・・・・[WT][ED]
+......[WT][ED]
+
+
+//「・・おうさまを　たすけにいった　ハンネスも[BR]
+...Hannes left to save the King,[BR]
+
+//　もどってこないんだ・・・[WT]
+but he hasn't come back...[WT]
+
+
+Block 56 -------------------------
+
+//かぎが　かかっている[WT]
+It's locked.[WT]
+
+
+Block 57 -------------------------
+
+//ド「おくびょうものには[BR]
+Vado: I have nothing to say[BR]
+
+//　ようはない！[WT][ED]
+to a coward![WT][ED]
+
+
+//CD：ね８ムる[ED]
+CD：ね８ムる[ED]
+
+
+//AAる　「おうさまを　すくおうとして[BR]
+AAる　We've already lost many[BR]
+
+//　なかまが、おうぜい[BR]
+good men in our search[BR]
+
+//　やられてしまった・・・[WT][ED]
+for the King...[WT][ED]
+
+
+//「おうさまが　ぶじに[BR]
+The King is[BR]
+
+//　もどって、[BR]
+safe.[BR]
+
+//　よかった、よかった！[WT][ED]
+Isn't that great?[WT][ED]
+
+
+//CD：ね８DAる＞５れ[ED]
+CD：ね８DAる＞５れ[ED]
+
+
+//しれ　「バドは　ゆうかんな　ナイト[BR]
+しれ　Vado is a great knight[BR]
+
+//　だけど、ちょっと　こうふん[BR]
+and all, but he loses his[BR]
+
+//　しやすい　タチなんだよ。[WT][ED]
+cool way too easily.[WT][ED]
+
+
+//「バド、おまえ　たんきだから[BR]
+Don't let your short temper[BR]
+
+//　おちついて　こうどうしろよ！[WT][ED]
+get the better of you, Vado![WT][ED]
+
+
+//「バドが　ケガをしたって！？[BR]
+Vado was injured?![BR]
+
+//　だいじょうぶなのか？[WT][ED]
+Is he going to be okay?[WT][ED]
+
+
+//CD：ね８ーれ＞92れ[ED]
+CD：ね８ーれ＞92れ[ED]
+
+
+//B8れ　「おうさまが　いないから、[BR]
+B8れ　Vado can't go look[BR]
+
+//　バドに　いもうとさがしの[BR]
+for his sister while[BR]
+
+//　おゆるしが　でないんだ。[WT][ED]
+the King is missing.[WT][ED]
+//more weird codes.*test*
+
+
+//「バド、いもうとさがしの[BR]
+You must be glad to be[BR]
+
+//　おゆるしが　でて[BR]
+able to go look for your[BR]
+
+//　よかったなあ！[WT][ED]
+sister, Vado![WT][ED]
+
+
+//「こんど、バドの　みまいに[BR]
+I'd like to go[BR]
+
+//　いかなくちゃなあ・・・[WT]
+see how Vado's doing...[WT]
+
+
+Block 58 -------------------------
+
+//「ハンネス？うむ、おうさまが[BR]
+Hannes? He left as soon[BR]
+
+//　さらわれたと　きいて[BR]
+as he learned about the[BR]
+
+//　すぐさま　とびだしていったが[WT][BR]
+King's abduction.[WT][BR]
+
+//「・・・して、そなたは？[WT][ED]
+Do you know him?[WT][ED]
+
+
+//「そなた、ハンネスどのの[BR]
+Ah, so you are[BR]
+
+//　むすこであったのか。[WT][BR]
+Hannes's son.[WT][BR]
+
+//「これを　もっていきなさい。[WT][ED]
+I want you to have this.[WT][ED]
+
+
+//93を　もらった！[WT][ED]
+93 received![WT][ED]
+
+
+//「・・・だいじょうぶ。[BR]
+...Don't worry.[BR]
+
+//　あのおとこが　かんたんに[BR]
+That man won't be[BR]
+
+//　しぬとは　おもえん。[WT][ED]
+killed easily.[WT][ED]
+
+
+//「まものは　おうさまや　バドの[BR]
+Why do you suppose those[BR]
+
+//　いもうとをさらって　どうする[BR]
+monsters kidnapped Vado's[BR]
+
+//　つもり　なのだろう？[WT][ED]
+sister and the King?[WT][ED]
+
+
+//CD：ね８FDろ９ひわ[ED]
+CD：ね８FDろ９ひわ[ED]
+
+
+//ェわ　「おきさきさまは　くちには[BR]
+ェわ　The Queen is trying[BR]
+
+//　だされませんが、[WT]
+to hide it,[WT]
+
+//「おうさまが　しんぱいで[BR]
+but she's terribly[BR]
+
+//　すっかり　やつれて[BR]
+distraught over the[BR]
+
+//　しまったんです。[WT][ED]
+King's abduction.[WT][ED]
+//more weird tags.*test*
+
+
+//「おきさきさまから、[BR]
+The Queen wishes[BR]
+
+//　おはなしが　あるそうよ。[WT][ED]
+to speak with you.[WT][ED]
+
+
+//「まほうつかいの　むらは[BR]
+To reach the sorcerers'[BR]
+
+//　ずっと　にしのやまを[BR]
+village, you'll have to[BR]
+
+//　のぼったとこに　あるのよ[WT][ED]
+cross the mountains to the west.[WT][ED]
+
+
+//CD：ね８[WT]わ▽B4わ[ED]
+CD：ね８[WT]わ▽B4わ[ED]
+
+
+//CDわ　「おうさまはバドさまが　きっと[BR]
+CDわ　Sir Vado will definitely[BR]
+
+//　たすけてくださいますわ！[WT][ED]
+save our King![WT][ED]
+//more weird tags.*test*
+
+
+//「バドさま、おきをつけて[WT][BR]
+Take care of yourself, Sir Vado...[WT][BR]
+
+//「・・・ポッ[WT][ED]
+*blush*[WT][ED]
+
+
+//「バドさまは、おげんき？[WT]
+Is Sir Vado doing well?[WT]
+
+
+Block 59 -------------------------
+
+//おうひ「だいじょうぶ。[BR]
+Queen: Fret not.[BR]
+
+//　おうさまは　きっとげんきで[BR]
+The King will definitely[BR]
+
+//　もどってきますよ。[WT][ED]
+return in good health.[WT][ED]
+
+
+//バド「そうさくたいの[BR]
+Vado: The search party is[BR]
+
+//　じゅんびが　ととのいました！[WT][ED]
+ready to deploy![WT][ED]
+
+
+//おうひ「よろしくたのみましたよ。[WT][ED]
+Queen: Very well. Deploy at once![WT][ED]
+
+
+//バド「はい、おまかせください！[WT][ED]
+Vado: Yes, Your Highness![WT][ED]
+
+
+//おうひ「たびを　つづけるのなら、　おともを　つけて[BR]
+Queen: You will need all the help[BR]
+
+//　あげましょう。[WT][ED]
+you can get in your journey.[WT][ED]
+
+
+//「この　ものたちの[BR]
+Summon their old[BR]
+
+//　おさななじみ、ルスランを[BR]
+friend, Luthran,[BR]
+
+//　よんで　きなさい。[WT][ED]
+here.[WT][ED]
+
+
+//バド「ルスランは　いま、[BR]
+Vado: Milady, Luthran[BR]
+
+//　まどうしのむらに　もどって[BR]
+has recently returned[BR]
+
+//　おりますが・・・[WT][ED]
+to the sorcerer's village...[WT][ED]
+
+
+//おうひ「・・・そうでしたね、[BR]
+Queen: ...That is unfortunate.[BR]
+
+//　それでは　かわりのもの・・・[WT][ED]
+In that case...[WT][ED]
+
+
+//おうひ「トルルを　これへ[BR]
+Queen: Summon Torle[BR]
+
+//　よんできなさい。[WT][ED]
+here.[WT][ED]
+
+
+//「あのう、トルルさまも[BR]
+Uhmm... I'm sorry, we couldn't[BR]
+
+//　みあたらないのですが・・・[WT][ED]
+find her anywhere...[WT][ED]
+
+
+//おうひ「そう・・・[WT][ED]
+Queen: I... see.[WT][ED]
+
+
+//おうひ「あなたたちは　さきを[BR]
+Queen: You should head out.[BR]
+
+//　いそぐたび。かならず[BR]
+I shall have her catch up[BR]
+
+//　あとをおわせますから[WT][BR]
+with you as soon as possible.[WT][BR]
+
+//「さきに　おいきなさい。[WT][ED]
+Godspeed.[WT][ED]
+
+
+//おうひ「じゅうぶん　きをつけて[BR]
+Queen: Take good care of[BR]
+
+//　たびを　するのですよ。[WT][ED]
+yourselves on your travels.[WT][ED]
+
+
+//おうひ「ああ、92[BR]
+Queen: Thank you, 92.[BR]
+
+//　どうもありがとう。あなたに[BR]
+I must reward you[BR]
+
+//　なにかおれいを・・・[WT][BR]
+appropriately for your service.[WT][BR]
+
+//「いいえ、えんりょすることは[BR]
+No need to hold back.[BR]
+
+//　ありませんよ。[WT][BR]
+There must be something I can do for you.[WT][BR]
+
+//「・・・・・・・・・・・・・[BR]
+......[BR]
+
+//　そう、そんなことが[BR]
+I see... I had no idea[BR]
+
+//　あったのですか。[WT][BR]
+something like that had happened.[WT][BR]
+
+//「バドにも　こまりましたね。[BR]
+Vado is in the same situation...[BR]
+
+//　わかりました。[WT][BR]
+Very well.[WT][BR]
+
+//「もんばんに　あなたをとおすよう　つたえておきます。[BR]
+The gatekeeper will let you out of the castle.[BR]
+
+//　きをつけて　いくのですよ。[WT][ED]
+Take care of yourself.[WT][ED]
+
+
+//おうひ「トルルはまだもどって[BR]
+Queen: Torle has not[BR]
+
+//　いません。いったいどうしたの[BR]
+returned yet. What could[BR]
+
+//　でしょう。[WT]
+have happened to her?[WT]
+
+
+Block 60 -------------------------
+
+//おうさま「ハンネスが　わしを[BR]
+King: You say Hannes set out to[BR]
+
+//　たすけに？　あのハンネスが[BR]
+save me? But he never made it...[BR]
+
+//　やられたというのか・・・[WT]
+What happened to him...?[WT]
+
+
+Block 61 -------------------------
+
+//「いま、おうさま　そうさくの[BR]
+We're getting ready to[BR]
+
+//　ための　じゅんびちゅうだ[WT][ED]
+look for our King.[WT][ED]
+
+
+//「・・・おれは　だいじょうぶです　がんばって　きてください・・・[WT][ED]
+...I'm fine. Good luck out there...[WT][ED]
+
+
+//CD：ね７ィ「[ED]
+CD：ね７ィ「[ED]
+
+
+//レ「　「こんどの　そうさくたいは[BR]
+レ「　The next search party[BR]
+
+//　ひがしの　あれちの　ほうまで[BR]
+will go as far as the[BR]
+
+//　いってみるつもりだ。[WT][ED]
+eastern wasteland.[WT][ED]
+
+
+//「・・・おれは　だいじょうぶです　がんばって　きてください・・・[WT]
+...I'm fine. Good luck out there...[WT]
+
+
+Block 62 -------------------------
+
+//「・・・おそい、おそいぞ・・・[WT][ED]
+Late... Too late...[WT][ED]
+
+
+//「・・お、これはしつれい。じつは　くすりを　はこんでくる　はずの　ものが　とうちゃくせんのです[WT][BR]
+...Oh, I beg your pardon. I've ordered a medicine, but it hasn't been delivered yet.[WT][BR]
+
+//「そのくすりは　いま　おつかれの　おうひさまに　ぜひともひつよう　なものなのです。[WT][BR]
+It's for the poor Queen, who's extremely fatigued, as you might imagine.[WT][BR]
+
+//「・・・せめて　きたのもりにある　カボスのみ　があれば　かわりの　くすりを　つくれるのだが・・[WT][BR]
+If I had a Carbos Fruit, I could prepare a substitute...[WT][BR]
+
+//「もりには　そのみをもとめて[BR]
+It can be found in the forest,[BR]
+
+//　まものも　おおく　いるのです。　わたしでは　とてもかなわぬし[WT][BR]
+but that place is full of monsters. I'd never survive the trek there.[WT][BR]
+
+//「へいしたちにしても　おうさまの　ことで　てが　はなせないようす　・・・[WT][ED]
+And all the soldiers are too busy with the King's disappearance...[WT][ED]
+
+
+//かわりに　きたのもりへ[BR]
+May I ask you to go to the[BR]
+
+//いってあげますか？[ED]
+northern forest in my stead?[ED]
+
+
+//「ほんとですか！ありがとう！[BR]
+You would? Thank you kindly![BR]
+
+//　それでは　うらぐちへの[BR]
+Let me tell you about the[BR]
+
+//　ぬけみちを　おしえましょう。[WT][BR]
+secret exit.[WT][BR]
+
+//「しろの　おくじょうの[BR]
+There is a hidden staircase[BR]
+
+//　からの　たからばこの　したに[BR]
+under the treasure chest[BR]
+
+//　かいだんが　あります。[WT][BR]
+on the rooftop.[WT][BR]
+
+//「そのさきをいけば　うらぐちへ[BR]
+From there you should reach[BR]
+
+//　でることができます。[WT][BR]
+the castle's rear entrance.[WT][BR]
+
+//「どうか　きをつけてください。[BR]
+Please be careful.[BR]
+
+//　きたのもりには　ボスのような[BR]
+There have been sightings of some kind of[BR]
+
+//　まものがいるということです。[WT][ED]strong monster in the northern forest.[WT][ED]
+
+
+//「おくじょうの　たからばこの[BR]
+Check under the treasure[BR]
+
+//　したを　しらべるんですよ。[WT][ED]
+chest on the rooftop.[WT][ED]
+
+
+//「おお、これはまさにカボスのみ！　たすかりました！さっそく[BR]
+Ohh, that is indeed a Carbos Fruit![BR]
+
+//　くすりを　ちょうごうします。[WT][ED]
+I will prepare the medicine immediately.[WT][ED]
+
+
+//「このことは　おうひさまに[BR]
+I shall tell the Queen about you.[BR]
+
+//　ほうこく　しておきます。なに、　わるいようには　なりませんよ[WT][ED]
+Don't worry, I'm sure she'll appreciate your efforts.[WT][ED]
+
+
+//「どうも　ありがとう。[WT][ED]
+You have my gratitude.[WT][ED]
+
+
+//。（[ED]
+。（[ED]
+
+
+//C9CDD9ぬ「ここは　ほうもつこだ。[WT]
+C9CDD9ぬThis is the treasure room.[WT]
+
+
+Block 63 -------------------------
+
+//とびらは　まほうで[BR]
+The door is sealed[BR]
+
+//ふういん　されている[WT]
+with magic.[WT]
+
+
+Block 64 -------------------------
+
+//「ここは　デルレイのまちだ。[BR]
+This is Daelray.[BR]
+
+//　でも、まものに　おそわれて[BR]
+As you can see, the monsters[BR]
+
+//　こんな　ありさまに・・・[WT][ED]
+really did a job on our town...[WT][ED]
+
+
+//「まものを　たおしてくれて[BR]
+Thank you for defeating the[BR]
+
+//　ありがとう。デルレイのまちも[BR]
+monsters. Daelray should be[BR]
+
+//　これで　ひとあんしんだな。[WT][ED]
+fine for the time being.[WT][ED]
+
+
+//CD：ねＸテォ[ED]
+CD：ねＸテォ[ED]
+
+
+//A7ォ　「おんなや　としよりは、[BR]
+A7ォ　Women, children and the elderly have[BR]
+
+//　なんとか　にがしたんだが・・・　ぶじ　にげきれただろうか？[WT][ED]
+been evacuated... I hope they're safe.[WT][ED]
+
+
+//「まものが　いなくなったから、[BR]
+Now that the monsters have[BR]
+
+//　にがしたひとたちを[WT][BR]
+been dealt with, we have[WT][BR]
+
+//「はやいとこ　よびもどして[BR]
+to call back all those[BR]
+
+//　やらなくちゃな。[WT]
+who have evacuated.[WT]
+
+
+Block 65 -------------------------
+
+//「のこった　おとこたちで[BR]
+Those who stayed behind grouped together[BR]
+
+//　まものと　たたかってきたが、[BR]
+to fight back against the monsters,[BR]
+
+//　もう　ちからつきてしまった。[WT][ED]
+but there's little we can do...[WT][ED]
+
+
+//「このまちは　へいわになったが[BR]
+We're safe now, but[BR]
+
+//　ひがしの　プりストルのまちは[BR]
+what about Pristol,[BR]
+
+//　だいじょうぶだろうか？[WT][BR]
+to the east?[WT][BR]
+
+//「まものは　ひがしから[BR]
+The monsters came from that direction.[BR]
+
+//　やってきた。プりストルのまちも　おそわれているはずだ。[WT]
+They must have passed through there...[WT]
+
+
+Block 66 -------------------------
+
+//「おにいちゃんたち、まものを[BR]
+Please beat all those[BR]
+
+//　やっつけてくれよ！[WT][ED]
+mean monsters![WT][ED]
+
+
+//「おにいちゃんたち、まものを[BR]
+Thanks for beating all[BR]
+
+//　たおしてくれて、ありがとう！[WT]
+those mean monsters![WT]
+
+
+Block 67 -------------------------
+
+//オ「おれに　はなしかけるな！[BR]
+Bjor: Don't talk to me![BR]
+
+//　クソッ！　せいしんを[BR]
+Darn it! You ruined[BR]
+
+//　しゅうちゅう　させてたのに。[WT][BR]
+my focus![WT][BR]
+
+//「ふういんの　まほうが[BR]
+Now the sealing spell[BR]
+
+//　とけちまったじゃねえか！[WT][ED]
+is broken![WT][ED]
+
+
+//ルスラン「ふういんの　まほう？[BR]
+Luthran: A sealing spell, you say?[BR]
+
+//　じゃ、あなたも　まほうつかい？[WT][ED]
+Are you a sorcerer, sir?[WT][ED]
+
+
+//ビオ「かんけい　ねえだろ、[BR]
+Bjor: What does it[BR]
+
+//　そんな　こた！[WT][ED]
+matter?[WT][ED]
+
+
+//ビオ「それよりみろ！[BR]
+Bjor: Look![BR]
+
+//　やつがでてきちまった！！[WT][ED]
+They're coming![WT][ED]
+
+
+//バド「ミりア・・・[BR]
+Vado: M-Miria...?[BR]
+
+//　ミりアじゃないか！[WT][ED]
+Miria, is that you?![WT][ED]
+
+
+//ルスラン「よかった。[BR]
+Luthran: I'm so glad[BR]
+
+//　ぶじだったんだね！[WT][ED]
+you're alright![WT][ED]
+
+
+//ミりア？「なに　いってんの！？[BR]
+Miria?: Stop speaking[BR]
+
+//　あたしは　あんたたちなんて[BR]
+to me as if you[BR]
+
+//　しらないわ！　それより・・・[WT][BR]
+knew me![WT][BR]
+
+//「よくもこんなとこに[BR]
+How dare you seal[BR]
+
+//　とじこめてくれたわね！[WT][BR]
+me in that room?![WT][BR]
+
+//「じゃまするやつは　ゆるさない。　かくごしなさい！[WT][ED]
+You'll pay for getting in my way. Prepare to die![WT][ED]
+
+
+//バド「なにをするんだ、ミりア！[BR]
+Vado: What are you doing, Miria?![BR]
+
+//　なぜ、おれたちに　まものを[BR]
+Why did you sic a[BR]
+
+//　けしかけたり　するんだよ？[WT][ED]
+monster on us?![WT][ED]
+
+
+//ルスラン「バド、あのこは[BR]
+Luthran: That's not Miria.[BR]
+
+//　ミりアじゃないよ。ミりアは[BR]
+The Miria we know cannot[BR]
+
+//　まほうなんか　つかえないだろ[WT][ED]
+use magic, can she?[WT][ED]
+
+
+//バド「そりゃ　そうだけど、でも、　どこからみたって、あのこは[BR]
+Vado: That much is true, yes. But look at her![BR]
+
+//　ミりアじゃないか！[WT][ED]
+How could she NOT be her?![WT][ED]
+
+
+//ミりア？「ワケの　わかんない[BR]
+Miria?: I have no idea what you're[BR]
+
+//　コト、いってんじゃ　ないわよ。　こんどは　あたしが　あいてよ[WT][ED]
+going on about, but you'll have to face ME now![WT][ED]
+
+
+//ルスラン「・・まほうが　へタだと　いうウワサは、どうやらホント[BR]
+Luthran: ...The rumors of her lack of[BR]
+
+//　らしいな・・・[WT][ED]
+magical talent were true, it seems.[WT][ED]
+
+
+//バド「とうぜんだろ！　ミりアは[BR]
+Vado: Of course! Miria never[BR]
+
+//　きっと、まほうを　おぼえた[BR]
+knew magic before. She must[BR]
+
+//　ばかり　なんだよ。[WT][ED]
+have only learned it recently.[WT][ED]
+
+
+//ミりア？「うるさい！　まほうが[BR]
+Miria?: Well, EXCUSE ME[BR]
+
+//　へタで　わるかったわね！[BR]
+if I lack talent! Hmph![BR]
+
+//　おぼえてなさいよっ！[WT][ED]
+You'll pay for this next time![WT][ED]
+
+
+//バド「なにがあったんだ、ミりア。　あんなに　らんぼうな[BR]
+Vado: What happened to you, Miria?[BR]
+
+//　いもうとじゃ　なかったのに。[WT][ED]
+You were such a nice girl...[WT][ED]
+
+
+//ルスラン「とりあえず　やどやで[BR]
+Luthran: For now, let's go to[BR]
+
+//　ひとやすみ　しよう。[WT][ED]
+the inn and get some rest.[WT][ED]
+
+
+//ビオ「まものを　たおして[BR]
+Bjor: You beat the monsters?[BR]
+
+//　きたって？　なかなかやるな。[WT][BR]
+You're pretty good.[WT][BR]
+
+//「おまえら、これからも　たびを[BR]
+You're going to keep[BR]
+
+//　つづけるのか？　だったら、[BR]
+traveling, right? Let me[BR]
+
+//　いいまほうを　おしえるよ！[WT][ED]
+teach you a useful spell![WT][ED]
+
+
+//ルスランが　ヒューイのまほうを[BR]
+Luthran has learned the[BR]
+
+//おそわった！[WT][ED]
+spell "Fewi"![WT][ED]
+
+
+//ビオ「おれも　わかいころ、[BR]
+Bjor: When I was younger,[BR]
+
+//　まほうの　しゅぎょうを　した[BR]
+I went through magic[BR]
+
+//　ことが　あった・・・[WT][BR]
+training.[WT][BR]
+
+//「けっきょく、おちこぼれ[BR]
+In the end it was too[BR]
+
+//　ちまって、まほうつかいにゃ[BR]
+tough for me. I couldn't[BR]
+
+//　なれなかったけどな。でも・・[WT][BR]
+become a real sorcerer.[WT][BR]
+
+//「むかし　おぼえた　じゅつが[BR]
+Still the little magic[BR]
+
+//　すこしは　やくに　たって、[BR]
+I learned proves useful[BR]
+
+//　よかったと　おもってるんだ！[WT][BR]
+from time to time.[WT][BR]
+
+//「おれみたいに　ならねえように、　おまえらは　キチンと　ワザを[BR]
+Keep up with your training. You don't want[BR]
+
+//　みがけよ！[WT][ED]
+to end up like me![WT][ED]
+
+
+//ビオ「おまえら、キチンと[BR]
+Bjor: Are you keeping up[BR]
+
+//　わざを　みがいてるか！？[WT]
+with your training?[WT]
+
+
+Block 68 -------------------------
+
+//かぎが　かかっている[WT]
+It's locked.[WT]
+
+
+Block 69 -------------------------
+
+//「・・おうさまを・・・たのむ！[WT][ED]
+Please save... the King...![WT][ED]
+
+
+//CD：ね７ュキ[ED]
+CD：ね７ュキ[ED]
+
+
+//シキ　「このさきは　きけんだ！[WT][ED]
+シキ　It's dangerous ahead![WT][ED]
+
+
+//「・・・ひとか、けものか？[BR]
+...A weird being, neither[BR]
+
+//　へンな　いきものが　ケガの[BR]
+human nor animal,[BR]
+
+//　てあてを　してくれたんだ。[WT][ED]
+treated my wounds.[WT][ED]
+
+
+//CDD9ぬ「・・・うえの　かいに　いる[BR]
+CDD9ぬ...That guy upstairs[BR]
+
+//　ヤツは　つよいぞ・・・[WT][BR]
+is strong...[WT][BR]
+
+//　じゅうぶん、きを　つけて[BR]
+Be extremely[BR]
+
+//　かかれよ・・・[WT]
+careful...[WT]
+
+
+Block 70 -------------------------
+
+//バド「おうさま！ごぶじですか？[WT][ED]
+Vado: Your Highness! Are you unharmed?[WT][ED]
+
+
+//おうさま「おお、バド。ほかの[BR]
+King: Oh, Vado![BR]
+
+//　ものたちも　よくきてくれた。[BR]
+You and your comrades[BR]
+
+//　れいを　いうぞ。[WT][BR]
+have my gratitude.[WT][BR]
+
+//「とりあえず、[BR]
+Let us make our way[BR]
+
+//　しろへ　もどると　しようか。[WT][ED]
+back to the castle.[WT][ED]
+
+
+//おうさま「そうか、タりフむらも[BR]
+King: So even Taliph has[BR]
+
+//　まものに　おそわれたか・・・[BR]
+been raided by monsters...[BR]
+
+//　ごくろう、さがってよいぞ。[WT][ED]
+Thank you for your report. You may leave.[WT][ED]
+
+
+//テスコ「はい！[BR]
+Tesko: Yes, Your Highness![BR]
+
+//　わたしは　むらに　かえります。　おうさまも　おげんきで！[WT][ED]
+I'm going back to the village. Many blessings to you, Sire![WT][ED]
+
+
+//「92、バド、きみたちも[BR]
+You take care as well,[BR]
+
+//　げんきで　やれよ！[WT][ED]
+92, Vado![WT][ED]
+
+
+//おうさま「・・・して　バド、[BR]
+King: ...I'm told your sister[BR]
+
+//　そなたの　いもうとも　まものに　さらわれたとな。[WT][BR]
+has been kidnapped by a monster, Vado.[WT][BR]
+
+//「よし、92と　いっしょに[BR]
+I grant you permission[BR]
+
+//　いもうとさがしに[BR]
+to travel with 92[BR]
+
+//　たびだつが　よいぞ。[WT][ED]
+and look for her.[WT][ED]
+
+
+//バド「はっ！[BR]
+Vado: Thank you,[BR]
+
+//　ありがとうございます！[WT][ED]
+Your Highness![WT][ED]
+
+
+//おうさま「まものとは　そのむかし　まぞくに　あやつられていた[BR]
+King: It is said that the Magi used to be able to[BR]
+
+//　まどうの　いきものだという。[WT][BR]
+control monsters through their magical powers.[WT][BR]
+
+//「まずは　モルドりアのにしのはて　やまのなかにある　まどうしの[BR]
+There is a village inhabited by sorcerers inside[BR]
+
+//　むらを　たずねればよかろう。[WT][BR]
+the mountains in the westernmost regions of Moldoria.[WT][BR]
+
+//「なんぞ　てがかりが[BR]
+I suggest you head there.[BR]
+
+//　あるやもしれん。[WT]
+You might discover important clues.[WT]
+
+
+Block 71 -------------------------
+
+//「おうを　とりかえしに　きたか？　グフ、グフフ・・・！[WT][ED]
+Are you here for the King? Geheh... Geheheh![WT][ED]
+
+
+//？？？「いまだ！[WT][ED]
+???: Now![WT][ED]
+
+
+//？？？「・・・だいじょうぶか？[WT][ED]
+???: ...Are you alright?[WT][ED]
+
+
+//バド「あんたは　なにものだ？[BR]
+Vado: Who are you?[BR]
+
+//　なぜ、おれたちを　たすけた？[WT][ED]
+Why did you help us?[WT][ED]
+
+
+//？？？「・・・いずれ　わかる[BR]
+???: ...You will find[BR]
+
+//　ときも　くるだろう・・・[WT]
+out someday...[WT]
+
+
+Block 72 -------------------------
+
+//ぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 73 -------------------------
+
+//93を　つかった。[WT]
+Used 93.[WT]
+
+
+Block 74 -------------------------
+
+//「ここは　エキム。[BR]
+This is Euquim, where[BR]
+
+//　まほうを　まなび、まほうの[BR]
+we study and train in[BR]
+
+//　しゅぎょうを　するところ。[WT][ED]
+the use of magic.[WT][ED]
+
+
+//CD：ねＧェタ19ヌタこェタ[ED]
+CD：ねＧェタ19ヌタこェタ[ED]
+
+
+//A5タ　「・・・ちょうろうは[BR]
+A5タ　...The elder is in the[BR]
+
+//　ひがしの　ほこらにいる・・・[WT][ED]
+shrine to the east...[WT][ED]
+
+
+//「オキムの　むらは[BR]
+Is Auquim going to be alright?[BR]
+
+//　だいじょうぶかな。まものに[BR]
+They won't be attacked by[BR]
+
+//　おそわれて　いないだろうか？[WT][ED]
+monsters, will they?[WT][ED]
+
+
+//「しばらくまえ、やまみちで[BR]
+We saved a young man[BR]
+
+//　まよっていたわかものを[BR]
+who got lost in the[BR]
+
+//　たすけたんだが、[WT][BR]
+mountains, recently,[WT][BR]
+
+//「そのまま、ここでしゅぎょう[BR]
+and he decided to stay[BR]
+
+//　することになったよ。[WT][BR]
+here to train.[WT][BR]
+
+//「いまは　ちょうろうのところに[BR]
+He's currently visiting[BR]
+
+//　いってるはずだ。[WT][ED]
+the elder.[WT][ED]
+
+
+//CD：ねＧＰチ19やチE1トチ　「ルスランは　じょうきゅう[BR]
+CD：ねＧＰチ19やチE1トチ　Luthran has left to receive[BR]
+
+//　まどうしのあかしを　もらいに[BR]
+the senior sorcerer's proof[BR]
+
+//　ちょうろうの　とこへいった。[WT][ED]
+from the elder.[WT][ED]
+
+
+//「ワープゾーンをつかって、[BR]
+Use the warp zone and go to the[BR]
+
+//　やまむこうの　むらまで[BR]
+village on the other side of[BR]
+
+//　いくんだ！　はやく！[WT][ED]
+the mountains! Hurry![WT][ED]
+
+
+//「ルスラン！きみらがまものを[BR]
+Luthran! You drove[BR]
+
+//　おいはらったって！[BR]
+the monsters away, right?[BR]
+
+//　やるじゃないか。[WT]
+You're pretty good![WT]
+
+
+Block 75 -------------------------
+
+//「このむらは　ワープゾーンで[BR]
+We are connected to the village[BR]
+
+//　やまの　むこうの　むら、[BR]
+of Auquim beyond the mountains[BR]
+
+//　オキムに　つながっている。[WT][ED]
+through a warp zone.[WT][ED]
+
+
+//「やまむこうの　オキムから、[BR]
+We've received terrible[BR]
+
+//　たいへんな　しらせが[BR]
+news from Auquim, on the[BR]
+
+//　とどいたんだ！[WT][BR]
+other side of the mountains![WT][BR]
+
+//「まものが　ちかくのまちを[BR]
+Monsters are attacking[BR]
+
+//　おそってるって　いうんだよ！[WT][ED]
+nearby villages![WT][ED]
+
+
+//CDD9ぬ「ワープゾーンの　むこうも、[BR]
+CDD9ぬAcross the warp zone there is[BR]
+
+//　やはり　まどうしのむらだ。[WT]
+a village inhabited by sorcerers.[WT]
+
+
+Block 76 -------------------------
+
+//「ここはワープゾーンさ。[BR]
+This is the warp zone.[BR]
+
+//　93が　なければ[BR]
+However, you may not enter[BR]
+
+//　はいれないんだ。[WT][ED]
+without the 93.[WT][ED]
+
+
+//「つえは　もってきたな？[BR]
+You have the Wand? Good![BR]
+
+//　よし。ワープゾーンをつかって[BR]
+Then you can use the warp zone[BR]
+
+//　むこうのむらへ　いっていいぞ[WT]
+and reach the other village.[WT]
+
+
+Block 77 -------------------------
+
+//「おお、ルスランか！[BR]
+Oh, Luthran![BR]
+
+//　まっておったぞ！さあ、この[BR]
+I've been waiting for you.[BR]
+
+//　つえを　うけとるがよい。[WT][ED]
+You may have this.[WT][ED]
+
+
+//93を　うけとった[WT][ED]
+93 received.[WT][ED]
+
+
+//ルスラン「ありがとうございます。[WT]「じつは　ちょうろうの[BR]
+Luthran: Thank you.[WT]Actually, there is something[BR]
+
+//　おはなしを　うかがいたいと[BR]
+else we must discuss. I have[BR]
+
+//　わたしの　ともだちが・・・[WT][ED]
+brought some friends--[WT][ED]
+
+
+//バド「ちょうろう！[WT][ED]
+Vado: Sir![WT][ED]
+
+
+//バド「わたくし、エマロイじょうの　ナイト、バドと　もうします。[WT][BR]
+Vado: My name is Vado. I'm a knight from Castle Emaroy.[WT][BR]
+
+//「ぜひとも　ちょうろうに[BR]
+There is a matter we[BR]
+
+//　おしえて　いただきたいことが[BR]
+need to discuss with[BR]
+
+//　ございます。[WT][ED]
+you...[WT][ED]
+
+
+//「・・・ふむ、まものとな。[BR]
+...Hmm, monsters...[BR]
+
+//　・・・たしかに　まものとは[BR]
+Indeed, they are certainly[BR]
+
+//　まほうの　いきもの・・・。[WT][BR]
+magical creatures.[WT][BR]
+
+//「この　モルドりアのみなみに[BR]
+The so-called monsters were created by[BR]
+
+//　うかぶ　しま、ハイランディアの　ひとびと・・・、[WT][BR]
+those living in the southernmost[WT][BR]
+
+//「おまえたちが　いっぱんにいう[BR]
+island of Moldoria, Highlandia, to be[BR]
+
+//　まぞくの　ものたちが　じぶんの　てあしとして　つかうために[WT][BR]
+their servants. They are[WT][BR]
+
+//「うみだしたもの。[WT][BR]
+generally referred to as "Magi".[WT][BR]
+
+//「いのち　なきものに　いのちを[BR]
+There are many kinds of monsters.[BR]
+
+//　あたえたり、ちがう　しゅるいの　けものを　かけあわせて[WT][BR]
+Lifeless objects given life, different[WT][BR]
+
+//「あらたな　いきものをつくったり　また、なかには　まぞくじしんが　まものに　へんしんしたまま、[WT][BR]
+animals magically mixed together, or[WT][BR]
+
+//「じぶんが　にんげんであることを　わすれ、そのままでいることも[BR]
+even Magi themselves who have turned[BR]
+
+//　あったという・・・。[WT][BR]
+into monsters and forsook their humanity...[WT][BR]
+
+//「そのまものに　おうや、おまえの　いもうとが　さらわれたとなれば　まぞくが　かかわっているのは[WT][BR]
+If monsters have kidnapped the King and your[WT][BR]
+
+//「ほぼ　まちがいないだろう。[WT][BR]
+sister, the Magi must be somehow involved.[WT][BR]
+
+//「まぞくとは　ほんらい[BR]
+The Magi were never[BR]
+
+//　あらそいごとは[BR]
+a belligerent race.[BR]
+
+//　このまぬしゅぞく。[WT][BR]
+They disliked conflict.[WT][BR]
+
+//「したしく　まじわることは[BR]
+They never once[BR]
+
+//　なくとも　むこうからおそって[BR]
+had reason to[BR]
+
+//　くることはなかったはず・・・[WT][BR]
+attack us...[WT][BR]
+
+//「もっとも　あれだけのちからが[BR]
+Of course, they possess great powers.[BR]
+
+//　あるのだから、なかにはよからぬ　かんがえを　もつものも[WT][BR]
+It would only take one Magus with evil[WT][BR]
+
+//「いるやもしれぬ。・・・しかし[BR]
+intent to cause us great trouble...[BR]
+
+//　おうはともかく　なぜ　おまえの　いもうとが　さらわれたのか[WT][BR]
+With that said, I couldn't imagine a reason[WT][BR]
+
+//「それはわからぬ。[WT][ED]
+for kidnapping the King or your sister.[WT][ED]
+
+
+//バド「・・・それでは　まぞくの[BR]
+Vado: ...Could you tell us how[BR]
+
+//　しま、ハイランディアへわたる[BR]
+to reach this place where the[BR]
+
+//　ほうほうをおしえてください。[WT][ED]
+Magi live, the one called Highlandia?[WT][ED]
+
+
+//「うーむ。・・・いぜんはここから　ほくとうにある　オオトじまを[BR]
+Hmm... Long ago, it could be reached by[BR]
+
+//　とおって　いくことが[WT][BR]
+crossing Haute Island, northeast of here,[WT][BR]
+
+//「できたのだが、それもいまでは[BR]
+but I fear that path has long[BR]
+
+//　とざされているはず・・・[WT][ED]
+since been sealed...[WT][ED]
+
+
+//バド「わかりました。とりあえず[BR]
+Vado: It's a start. We'll go[BR]
+
+//　そこへ　いってみます。[WT][ED]
+there and see what we can find.[WT][ED]
+
+
+//「まあ、まちなさい。なにやら[BR]
+Please hold on.[BR]
+
+//　むらで　さわぎがおこっている[BR]
+There seems to be a[BR]
+
+//　ようす。[WT][BR]
+commotion in the village.[WT][BR]
+
+//「それも　まぞくにかんけい[BR]
+This may also be related[BR]
+
+//　することが。[WT][ED]
+to the Magi.[WT][ED]
+
+
+//バド「ホントですか！[BR]
+Vado: Are you sure?![BR]
+
+//　よし！いそいでかえろう！[WT][ED]
+Okay, I'm hurrying back![WT][ED]
+
+
+//「しつれいします！[WT][ED]
+Thanks for everything![WT][ED]
+
+
+//「ルスランよ、しゅぎょうを[BR]
+You must keep training[BR]
+
+//　たゆまぬようにな。[WT][ED]
+diligently, Luthran.[WT][ED]
+
+
+//「なにごとも　まいにちが[BR]
+Always keep up[BR]
+
+//　しゅぎょうじゃ。[WT][ED]
+with your training.[WT][ED]
+
+
+//！。[ED]
+！。[ED]
+
+
+//CDD9ぬ「ここ　まどうしのむらとは[BR]
+CDD9ぬThis village was[BR]
+
+//　もとは　まぞくのひとびとが[BR]
+originally founded by[BR]
+
+//　つくったという。[WT][BR]
+Magi.[WT][BR]
+
+//「モルドりアのにんげんとの[BR]
+Its original purpose was to establish[BR]
+
+//　こうりゅうが　もくてきだったの　だろうが、やがてまほうの[WT][BR]
+a cultural exchange with the people of Moldoria, but it became a place to learn magic.[WT][BR]
+
+//「しゅぎょうのばしょとなった。[BR]
+We have long since[BR]
+
+//　いまはまぞくとの　つながりは[BR]
+lost the original[BR]
+
+//　なくなってしまったが[WT][BR]
+connection with the Magi,[WT][BR]
+
+//「どくじの　まほうのけんきゅうが　なされている。もちろん、[BR]
+but we have continued researching magic.[BR]
+
+//　まぞくについてもな。[WT][ED]
+Of course, we also have information on the Magi.[WT][ED]
+
+
+//CDD9ぬ「なに、まぞくにオーラを[BR]
+CDD9ぬWhat happens when a Magus[BR]
+
+//　すいとられたとな？それを[BR]
+absorbs someone's aura?[BR]
+
+//　ほっておけば　いずれ[WT][BR]
+If nothing is done...[WT][BR]
+
+//「しんでしまうだろう。[BR]
+That person will die.[BR]
+
+//　たすけるには　すいとったヤツを　たおすしかあるまい。[WT]
+The only way to save them is to defeat the one who absorbed their aura.[WT]
+
+
+Block 78 -------------------------
+
+//ランド「あ、92、ルスラン[BR]
+Rand: Ah! 92, Luthran![BR]
+
+//　それにミりアじゃないか！[BR]
+You saved Miria![BR]
+
+//　ぶじだったんだね！[WT][BR]
+I'm so glad you're alright![WT][BR]
+
+//「・・・え、ちがう？[BR]
+...What do you mean, am I wrong?[BR]
+
+//　うそつけよ！[BR]
+What a stupid joke,[BR]
+
+//　どうみたってミりア・・・[WT][BR]
+you're obviously--[WT][BR]
+
+//「・・・そんな、ミりアが[BR]
+...So our Miria was brought[BR]
+
+//　まぞくのしまへ・・・[WT][BR]
+to the island of the Magi...[WT][BR]
+
+//「・・・このアクアマりンが[BR]
+You may need this[BR]
+
+//　ひつようなのか。[BR]
+aquamarine.[BR]
+
+//　よし、もってってくれ。[WT][ED]
+Take it.[WT][ED]
+
+
+//アクアマりンをうけとった[WT][ED]
+Received Aquamarine.[WT][ED]
+
+
+//ランド「・・・それにしても[BR]
+Rand: You really look[BR]
+
+//　よくにている・・・[WT][ED]
+a lot like her.[WT][ED]
+
+
+//ランド「おまえをおいかけて[BR]
+Rand: I left the village[BR]
+
+//　むらをでたのはいいが　ここまで　くるのに　しぬおもいをしたよ[WT][BR]
+to follow you and made it this far. I thought I'd die multiple times.[WT][BR]
+
+//「とてもじゃないが　さきへは[BR]
+I can't go any farther[BR]
+
+//　すすめないから、ここで[BR]
+until I get stronger, so[BR]
+
+//　しゅぎょうすることにしたんだ[WT][BR]
+I stopped here to train.[WT][BR]
+
+//「・・・ミりアのことは[BR]
+...You have to save Miria.[BR]
+
+//　たのんだよ・・・[WT]
+I'm counting on you.[WT]
+
+
+Block 79 -------------------------
+
+//このへんは　あんぜんそうだ。[WT][BR]
+This place looks safe.[WT][BR]
+
+//やすみますか？
+Rest?
+
+
+Block 80 -------------------------
+
+//たからばこは　からっぽだった。[WT][ED]
+The treasure chest was empty.[WT][ED]
+
+
+//93を　みつけた！[WT]
+Found 93![WT]
+
+
+Block 81 -------------------------
+
+//んな　ようけんだい？[ED]
+What's up?[ED]
+
+
+//ぜんぶで[ED]
+In total, that's [ED]
+
+
+//になるけど　いいかな？[ED]
+. That okay?[ED]
+
+
+//それは　かいとれないな。[WT][ED]
+Can't buy that.[WT][ED]
+
+
+//なにを　うってくれるんだ？[ED]
+Selling anything good?[ED]
+
+
+//どれに　する？[ED]
+What will it be?[ED]
+
+
+//おかねが　たりないようだな。[WT][ED]
+That's not enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//ほかに　ようは？[ED]
+Anything else?[ED]
+
+
+//どうもありがとう。[WT][ED]
+Thanks a bunch.[WT][ED]
+
+
+//またな。[WT][ED]
+See you again.[WT][ED]
+
+
+//また　あおう。[WT][ED]
+See you soon.[WT][ED]
+
+
+//もう、もちきれないみたいだな。[WT][ED]
+You're kinda full there.[WT][ED]
+
+
+//いくつだい？[ED]
+How many?[ED]
+
+
+//これでいいかい？[ED]
+You sure?[ED]
+
+
+//それなら
+Then, 
+
+
+Block 82 -------------------------
+
+//ダメージを　うけた！[WT]
+ received damage![WT]
+//this should be preceded by the name of the character. Example: in the second town go upstairs in a house and fall down the hole in the wall.*test*
+
+
+Block 83 -------------------------
+
+//テスコ「ここは　タりフむらだ。[BR]
+Tesko: This is the village of Taliph.[BR]
+
+//　きみは　おしろへ　いくのか？[WT][BR]
+Are you going to the castle?[WT][BR]
+
+//「このさき　ひとりではあぶない！　おれが　いっしょにいってやろう[ED]
+It's too dangerous to go alone! Let me come with you.[ED]
+
+
+//テスコ「なーに、れいには[BR]
+Tesko: No need to[BR]
+
+//　およばん。[WT]
+thank me.[WT]
+
+//「おれも　おしろへ　ほうこくに[BR]
+I was heading for the[BR]
+
+//　いかねば　ならんのだ。[WT][ED]
+castle myself.[WT][ED]
+
+
+//テスコ「なにを　いうやら。[WT][BR]
+Tesko: No need to be shy.[WT][BR]
+
+//「ふたりで　いけば[BR]
+We'll both be safer[BR]
+
+//　あんしん、あんしん。[WT][ED]
+if we travel together.[WT][ED]
+
+
+//テスコが　なかまになった！[WT]
+Tesko joined you![WT]
+
+
+Block 84 -------------------------
+
+//「テスコ！おまえ、まだおしろへ[BR]
+Tesko! What are you still[BR]
+
+//　ほうこくに　いって[BR]
+doing here?! You're supposed[BR]
+
+//　いなかったのか！？[WT]
+to report back at the castle![WT]
+
+//「このよわむしめ！[WT][ED]
+Get to it already, you weakling![WT][ED]
+
+
+//「・・・・・・[WT][ED]
+......[WT][ED]
+
+
+//「テスコのヤツ、じぶんが[BR]
+Tch... Tesko's so[BR]
+
+//　おうさまをたすけた、なんて[BR]
+full of himself after[BR]
+
+//　ホラふきやがって。[WT][ED]
+he saved the King...[WT][ED]
+
+
+//／（ゃミみCDＰふC9テスコ「やあ、92！[BR]
+／（ゃミみCDＰふC9Tesko: Hi, 92![BR]
+
+//　ひさしぶりだな！[WT][ED]
+It's been a while![WT][ED]
+
+
+//CDD9ぬ「・・・まものが　あばれて[BR]
+CDD9ぬ...We've been raided[BR]
+
+//　このざまさ・・・[WT][ED]
+by monsters...[WT][ED]
+
+
+//CDD9ぬ「おしろへ　いくには[BR]
+CDD9ぬThe only way to reach[BR]
+
+//　きたのどうくつを　とおるしか[BR]
+the castle is through[BR]
+
+//　みちは　ないな。[WT][ED]
+the caves north from here.[WT][ED]
+
+
+//CDD9ぬ「どうくつには　ときどき[BR]
+CDD9ぬSometimes dwarves show up[BR]
+
+//　ドワーフが　あらわれて[BR]
+at the cave and make fun[BR]
+
+//　とおるひとを　からかうのよ。[WT][ED]
+of travelers.[WT][ED]
+
+
+//CD：ね６1Bむ[ED]
+CD：ね６1Bむ[ED]
+//no idea what this is, I just copied it.*test*
+
+
+//、む　「どうくつが　おおいわで[BR]
+、む　They say the cave is[BR]
+
+//　ふさがれたってはなしよ。[WT][BR]
+blocked by boulders.[WT][BR]
+
+//　これで　おしろから[BR]
+I hope the castle is[BR]
+
+//　たすけが　くるのかしら？[WT][ED]
+sending help soon...[WT][ED]
+//another weird code at the beginning.*test*
+
+
+//「どうくつが　つながって[BR]
+The cave has been unblocked.[BR]
+
+//　よかった　よかった。[WT][ED]
+That's a relief.[WT][ED]
+
+
+//CDD9ぬ「ドワーフを　たすけてあげると[BR]
+CDD9ぬThey say something good happens[BR]
+
+//　いいことが　あるんだって！[WT][ED]
+to those who save a dwarf![WT][ED]
+//this is a random npc with no name tag shown in game, but here in the dump it shows a weird code. I don't know if simply copying it will work properly, so this'll need to be tested.*test*
+
+
+//CDD9ぬ「ハンネス？　ああ、こないだ[BR]
+CDD9ぬHannes? Oh yes, he[BR]
+
+//　きた　おとこか。おしろへ[BR]
+passed by the other day.[BR]
+
+//　むかうと　いっていたぞ。[WT][ED]
+He was going to the castle.[WT][ED]
+
+
+//CDD9ぬ「どうくつには、ドワーフがつかう　かくれた　ぬけみちが[BR]
+CDD9ぬApparently, there is a secret path inside the caves[BR]
+
+//　あるらしい。[WT][BR]
+made by the dwarves.[WT][BR]
+
+//「しかし　ひとの　めでは[BR]
+However, it cannot be seen[BR]
+
+//　みつけることが　できないのだ。[WT]
+by human eyes.[WT]
+
+
+Block 85 -------------------------
+
+//かぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 86 -------------------------
+
+//トルル「ここ　あたしのまちなの[BR]
+Torle: This is where I'm from.[BR]
+
+//　ちょっと　うちによって[BR]
+Do you mind if I go[BR]
+
+//　いいでしょ？[WT][ED]
+home for a bit?[WT][ED]
+
+
+//トルル「こっち　こっち！[WT][ED]
+Torle: Over here![WT][ED]
+
+
+//トルル「ただいま！[WT][ED]
+Torle: I'm home![WT][ED]
+
+
+//「・・・・[WT][ED]
+......[WT][ED]
+
+
+//トルル「とーさん！　かーさん！[WT][ED]
+Torle: Dad, mom! I'm home![WT][ED]
+
+
+//トルル「みんな[BR]
+Torle: That's weird.[BR]
+
+//　どこいったのかしら・・・[WT]
+Maybe they're out....[WT]
+
+
+Block 87 -------------------------
+
+//を　つかいますか？
+ will be used. Confirm?
+//without being able to move the variable, this can't be written in a proper way.*test*
+
+
+Block 88 -------------------------
+
+//「あれ？　トルル、ひっこしの[BR]
+Huh? Torle, did you forget[BR]
+
+//　わすれものでも　とりにきたの？[WT][ED]
+something when you moved out?[WT][ED]
+
+
+//トルル「えー！ひっこしー？[BR]
+Torle: What do you mean, moved out?[BR]
+
+//　きいてないわ　そんなの！[WT][ED]
+Nobody told me we left Luto![WT][ED]
+
+
+//（（[ED]
+（（[ED]
+
+
+//。（[ED]
+。（[ED]
+
+
+//C9CDD9ぬ「ここは　ルトのまちよ。[WT][ED]
+C9CDD9ぬThis is Luto.[WT][ED]
+
+
+//CDD9ぬ「おしろの　まほうつかいに[BR]
+CDD9ぬTorle made this town proud[BR]
+
+//　なった　トルルは、まちの[BR]
+ever since she went to the[BR]
+
+//　めいよちょうみん　なのじゃ。[WT][ED]
+castle to become a sorceress.[WT][ED]
+
+
+//CD：ねＥ1Bら1Aぬら[ED]
+CD：ねＥ1Bら1Aぬら[ED]
+
+
+よら　「あら　トルル　ひさしぶりね[BR]
+よら　Hello Torle, it's been a while![BR]
+
+　ヨーグのまちは　どう？[WT][ED]
+How's life in Jorgue?[WT][ED]
+
+
+//「トルル　げんきかしら？[WT][ED]
+How's Torle doing?[WT][ED]
+
+
+//「トルルなら　まえにすんでいた[BR]
+Torle? She went back[BR]
+
+//　いえにいるわよ。[WT][ED]
+to her old home.[WT][ED]
+
+
+//CDD9ぬ「トルルの　おやじと[BR]
+CDD9ぬTorle's parents never[BR]
+
+//　おふくろは、こまっているひとを　ほっとけない　タチなんだ。[WT][ED]
+ignored someone in need of help.[WT][ED]
+
+
+//CDD9ぬ「ハンネス？[BR]
+CDD9ぬHannes?[BR]
+
+//　・・・うーん　そういうひとは[BR]
+Hmm... No, I don't think[BR]
+
+//　みかけないねえ・・・[WT]
+I've seen someone like him.[WT]
+
+
+Block 89 -------------------------
+
+//「よお、トルル。[BR]
+Hey there, Torle.[BR]
+
+//　イトコの　おんなのこは[BR]
+How's your cousin?[BR]
+
+//　げんきに　なったかい？[WT][ED]
+She was pretty cute.[WT][ED]
+
+
+//トルル「なに　いってんの？[BR]
+Torle: What are you[BR]
+
+//　あたしには　イトコなんて[BR]
+talking about?[BR]
+
+//　いないわよ！[WT][ED]
+I don't have cousins![WT][ED]
+
+
+//「トルルの　イトコの[BR]
+How's Torle's cousin[BR]
+
+//　おんなのこは[BR]
+doing? I hope she's[BR]
+
+//　げんきに　なったかい？[WT][ED]
+doing well.[WT][ED]
+
+
+//CDD9ぬ「トルルの　おとうさんたちは[BR]
+CDD9ぬTorle's family moved[BR]
+
+//　となりの　ヨーグのまちへ[BR]
+to the neighboring[BR]
+
+//　ひっこしたんだっけね。[WT][ED]
+town, Jorgue.[WT][ED]
+//I'll stop reporting all these weird codes, they're all over the script.
+
+
+//C9は４C3ァへ／×ゃレりCDＰふC9トルル「やっぱり　ここのほうが[BR]
+C9は４C3ァへ／×ゃレりCDＰふC9Torle: This is the only place[BR]
+
+//　おちつくな。[WT]
+that really feels like "home" to me.[WT]
+
+
+Block 90 -------------------------
+
+//「ぐるるるー[WT][ED]
+Grrrr![WT][ED]
+
+
+//マジカル・キーを　みつけた！[WT][ED]
+Magical Key found![WT][ED]
+
+
+//「やったー！　いとしいひと！[WT][ED]
+Thank you, kind strangers![WT][ED]
+
+
+//「こっち　こっち！[WT][ED]
+This way![WT][ED]
+
+
+//「やあ　たいぎであった　おれいに　これからのこと　うらなったげる[WT]「うーん・・・・・・・・[WT][BR]
+You've done me a solid. Let me read your future![WT]Ohmmm...[WT][BR]
+
+//「・・おしろで、92を[BR]
+...There is a man at the[BR]
+
+//　にくんでいる　おとこが[BR]
+castle who hates 92,[BR]
+
+//　なかまに　なるみたい・・[WT][BR]
+but will become your comrade...[WT][BR]
+
+//「・・・・そんなとこ[WT][BR]
+...Or something like that.[WT][BR]
+
+//「ほんじゃまたねー[WT]
+Bye bye![WT]
+
+
+Block 91 -------------------------
+
+//「おう、トルルか！[BR]
+Hey there, Torle![BR]
+
+//　いいだろ、このウチ！[BR]
+How do you like this house?[BR]
+
+//　ほりだしものを　みつけてな。[WT][ED]
+What a bargain it was![WT][ED]
+
+
+//「なに？　ひっこしたのを[BR]
+Hm? What do you mean, you[BR]
+
+//　しらなかった？　てやんでい、[BR]
+didn't know we moved? I'm[BR]
+
+//　ちゃんと　てがみを・・・[WT][BR]
+sure I wrote you a let--[WT][BR]
+
+//「・・・あっ！　だしわすれてた！　すまねえな。ま、あまり[BR]
+Ah! I forgot to mail it! Sorry![BR]
+
+//　きにすんな！よくあるこった。[WT][ED]
+C'mon, it's no big deal![WT][ED]
+
+
+//「あのこは　おめえの[BR]
+We told everyone the[BR]
+
+//　イトコってことに　してんだ。[BR]
+girl was your cousin[BR]
+
+//　まちのやつら、うるせえんでな[WT][BR]
+since they kept asking.[WT][BR]
+
+//「しんぱいは　いらねえから、[BR]
+Don't you worry about a thing[BR]
+
+//　おめえらは　さっさと[BR]
+and take your friends to the[BR]
+
+//　まほうつかいのむらに　いきな[WT][ED]
+sorcerers' village.[WT][ED]
+
+
+//「おっ　おまえら[BR]
+How are you[BR]
+
+//　げんきにやってるか？[WT][ED]
+guys doing?[WT][ED]
+
+
+//「よ、にいさん　おとこだねえ。[WT][ED]
+You're a real man, pal.[WT][ED]
+
+
+//「にいさん、あのこを[BR]
+Do your best to cheer[BR]
+
+//　げんきづけてやってくれよ。[WT][ED]
+that girl up, pal.[WT][ED]
+
+
+//「さいきん、あのこも[BR]
+She's been feeling[BR]
+
+//　げんきになってきたよ。[WT][ED]
+better, lately.[WT][ED]
+
+
+//「よのなか、ままならねえなあ。[WT][BR]
+Sometimes the world can be cruel.[WT][BR]
+
+//「あんなにかわいいこが・・・[WT][ED]
+That girl is so cute, and yet...[WT][ED]
+
+
+//「あのおんなのこ、なにもいわずに　とびだしてっちまったよ。[WT]
+That girl just left without saying a word.[WT]
+
+
+Block 92 -------------------------
+
+//「いきだおれてた[BR]
+Your father found this[BR]
+
+//　このこを、とーちゃんが[BR]
+girl collapsed and[BR]
+
+//　ひろってきたのさ。[WT][BR]
+brought her in.[WT][BR]
+
+//「かわいそうに、[BR]
+The poor thing won't[BR]
+
+//　いしきが　もどらないんだよ。[WT][BR]
+recover consciousness.[WT][BR]
+
+//　なにか　いいくすりは[BR]
+I wonder if there's any good[BR]
+
+//　ないもんかねえ・・・[WT][ED]
+medicine that could help her...[WT][ED]
+
+
+//「おや、あのこ、きが[BR]
+Oh, she's awake![BR]
+
+//　ついたんだね！　じゃ、ごはん[BR]
+Then I must prepare[BR]
+
+//　でも　つくってやるかね！[WT][ED]
+lunch for everyone![WT][ED]
+
+
+//「そう・・・[WT][BR]
+That is sad news...[WT][BR]
+
+//「それじゃ、げんきづけに[BR]
+I'm going to make[BR]
+
+//　おいしいものでも[BR]
+a healthy lunch to[BR]
+
+//　つくってやるかねえ。[WT][ED]
+cheer us all up.[WT][ED]
+
+
+//「もうひとり、むすめが[BR]
+It's like we have[BR]
+
+//　できたみたいだって[BR]
+a second daughter.[BR]
+
+//　とうちゃん、よろこんでるよ。[WT][ED]
+My husband is thrilled![WT][ED]
+
+
+//「かわいそうに、あのこ[BR]
+The poor girl never[BR]
+
+//　いしきがもどらずに[BR]
+recovered consciousness,[BR]
+
+//　しんじゃったんだよ。[WT][ED]
+and passed away...[WT][ED]
+
+
+//「あのこ　あんたたちを[BR]
+The girl couldn't[BR]
+
+//　まってられなく[BR]
+wait for you any[BR]
+
+//　なったんだろうねえ、[WT][BR]
+longer, and left.[WT][BR]
+
+//「ぶじでいるといいけど・・・[WT][ED]
+I hope she's alright...[WT][ED]
+
+
+//CDD9ぬ「ここは　ヨーグのまち　だよ。[WT][ED]
+CDD9ぬWelcome to Jorgue.[WT][ED]
+
+
+//CDD9ぬ「まちを　でて　にしへ　いくと[BR]
+CDD9ぬThere is a steep[BR]
+
+//　きりたった　がけに[BR]
+cliff west of[BR]
+
+//　つきあたるわよ。[WT][ED]
+our town.[WT][ED]
+
+
+//CDD9ぬ「まほうつかいのむらへは[BR]
+CDD9ぬThe only way to reach the[BR]
+
+//　がけの　なかの　めいろを[BR]
+sorcerers' village is through[BR]
+
+//　のぼって　いくんじゃ。[WT][ED]
+the labyrinth inside the cliff.[WT][ED]
+
+
+//CDD9ぬ「さいきん、すごく　げんきな[BR]
+CDD9ぬA very lively couple[BR]
+
+//　ふうふが　ひっこして[BR]
+moved to our town[BR]
+
+//　きたんだよ。[WT]
+recently.[WT]
+
+
+Block 93 -------------------------
+
+//「うーん・・・[WT][BR]
+*groan*[WT][BR]
+
+//　クりス・・・[WT][ED]
+Chris...[WT][ED]
+
+
+//なにか　あたえますか？[ED]
+Give something?[ED]
+
+
+//これでは　こうかは　なさそうだ。[WT][ED]
+It had no effect.[WT][ED]
+
+
+//「・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「・・・うーん・・・[WT][BR]
+...Oooh...[WT][BR]
+
+//「・・・・・・？！[WT][ED]
+...Ah?![WT][ED]
+
+
+//「ここはどこ？　あなたたちは？[WT][ED]
+Where am I? Who are you?[WT][ED]
+
+
+//トルル「ここはヨーグのまち。[BR]
+Torle: This is Jorgue.[BR]
+
+//　ウチのオヤジがね、あんたを[BR]
+My dad found you collapsed[BR]
+
+//　ひろってきたのよ。[WT][ED]
+and brought you in.[WT][ED]
+
+
+//バド「ここはヨーグのまち。[BR]
+Vado: This is Jorgue. Torle's[BR]
+
+//　トルルのオヤジがね、きみを[BR]
+dad found you collapsed[BR]
+
+//　ひろってきたそうだよ。[WT][ED]
+and brought you in.[WT][ED]
+
+
+//トルル「あんた、なまえは？[BR]
+Torle: What's your name?[BR]
+
+//　いったい　なにがあったの？[WT][ED]
+What happened to you?[WT][ED]
+
+
+//バド「きみ、なまえは？[BR]
+Vado: Do you remember your name?[BR]
+
+//　いったい　なにがあったの？[WT][ED]
+And what happened, for that matter?[WT][ED]
+
+
+//「わたしはアンナ・・・[WT][BR]
+My name is... Anna.[WT][BR]
+
+//「・・あたしのほかに、もうひとり　いませんでしたか？[WT][ED]
+Was there someone else with me?[WT][ED]
+
+
+//「いや、あんたひとりだったよ。[WT][ED]
+No, you were alone.[WT][ED]
+
+
+//アンナ「そうでしたか・・・[WT][BR]
+Anna: I see...[WT][BR]
+
+//「じつは、ルトのまちのきたにある　どうくつに　おとうとと[BR]
+My brother and I were captured by monsters[BR]
+
+//　いっしょに[WT][BR]
+and brought to a cave north of Luto.[WT][BR]
+
+//「まものに　つかまっていたのを[BR]
+We managed to run away, but[BR]
+
+//　すきをみて　にげだしたのですが　まものにみつかって・・・[WT][ED]
+they caught up to us...[WT][ED]
+
+
+//トルル「・・・おとうとさんはまた　つかまってしまったのね・・・[WT][ED]
+Torle: I fear they must have captured your brother again...[WT][ED]
+
+
+//バド「・・・おとうとさんはまた　つかまってしまったんだね・・・[WT][ED]
+Vado: They must have captured your brother again...[WT][ED]
+
+
+//アンナ「・・・わかりません、もう　ころされているかも・・・[WT][ED]
+Anna: ...I don't know. He might even be dead by now...[WT][ED]
+
+
+//バド「よし！92、おれたちが　たすけにいってやろう！[WT][ED]
+Vado: What are we waiting for, 92? We have to go save him![WT][ED]
+
+
+//アンナ「ありがとうございます。[BR]
+Anna: Thank you.[BR]
+
+//　よろしくおねがいます。[WT][ED]
+This means a lot to me.[WT][ED]
+
+
+//トルル「だけどあんただって[BR]
+Torle: But what about your[BR]
+
+//　いもうとさんが・・・[WT][ED]
+sister, Vado?[WT][ED]
+
+
+//バド「なんの！こまっているひとを　みすてては、きしのなおれ。[BR]
+Vado: A true knight cannot ignore someone in[BR]
+
+//　ミりアもわかってくれるさ。[WT][BR]
+need of help. Miria would understand.[WT][BR]
+
+//「なあ、92[WT][ED]
+Right, 92?[WT][ED]
+
+
+//トルル「・・・・・あんた、[BR]
+Torle: ...I assume the fact she's a cute[BR]
+
+//　こういうタイプによわいのね。[WT][ED]
+girl played no role in your decision.[WT][ED]
+
+
+//バド「・・・・・・・・・・・・[WT][ED]
+Vado: ......[WT][ED]
+
+
+//アンナ「ああ　クりス、[BR]
+Anna: Oh, Chris...[BR]
+
+//　ぶじでいて・・・[WT][ED]
+Please be well...[WT][ED]
+
+
+//アンナ「ああ、そのやりは・・・[WT][ED]
+Anna: T-That spear...![WT][ED]
+
+
+//93をてわたした。[WT][ED]
+93 handed over.[WT][ED]
+
+
+//アンナ「・・・やはり[BR]
+Anna: Yes, this was[BR]
+
+//　おとうとのものです・・・[WT][ED]
+my brother's...[WT][ED]
+
+
+//バド「・・・そうだったのか・・・[WT]「きみのおとうとは[BR]
+Vado: I feared as much...[WT]I'm sorry for[BR]
+
+//　ざんねんながら・・・[WT][ED]
+your loss...[WT][ED]
+
+
+//アンナ「わかっています・・・[BR]
+Anna: It's not your fault.[BR]
+
+//　・・・ありがとうございました。[WT][ED]
+I appreciate your concern...[WT][ED]
+
+
+//バド「・・・・・[WT][ED]
+Vado: ......[WT][ED]
+
+
+//アンナ「・・・バドさん、[BR]
+Anna: Vado, I would[BR]
+
+//　よろしければ　これをつかって[BR]
+like you to have[BR]
+
+//　ください。[WT][ED]
+this.[WT][ED]
+
+
+//アンナ「それと、これも・・・[WT][ED]
+Anna: And this as well.[WT][ED]
+
+
+//93をもらった。[WT][ED]
+93 received.[WT][ED]
+
+
+//バド「しかしこれは・・・[WT][ED]
+Vado: But isn't this...?[WT][ED]
+
+
+//アンナ「わたしがもっているより[BR]
+Anna: I cannot use this.[BR]
+
+//　バドさんに　つかってもらった[BR]
+It would be more useful[BR]
+
+//　ほうが、[WT][BR]
+in your hands, Vado.[WT][BR]
+
+//「おとうとも　よろこぶとおもいま　す。[WT][ED]
+I'm sure my brother would agree.[WT][ED]
+
+
+//バド「・・・わかった、ありがたく　つかわせてもらうよ。[WT][ED]
+Vado: ...Very well. I'll make good use of it.[WT][ED]
+
+
+//アンナ「いもうとさんのぶじを[BR]
+Anna: I'll pray for your[BR]
+
+//　いのってます。[WT][ED]
+sister's safety.[WT][ED]
+
+
+//バド「・・・ありがとう。[WT][ED]
+Vado: Thank you.[WT][ED]
+
+
+//アンナ「いもうとさん、[BR]
+Anna: I hope your sister[BR]
+
+//　ぶじだといいですね。[WT][ED]
+is okay.[WT][ED]
+
+
+//アンナ「バドさんは[BR]
+Anna: How's Vado[BR]
+
+//　おげんきですか？[WT]
+doing?[WT]
+
+
+Block 94 -------------------------
+
+//「おや？どこかで　あったかな。[BR]
+Hm? Have we met? Sorry, I[BR]
+
+//　いやあ　おれみたいに　あちこち　たびを　していると、[WT][BR]
+travel all over the world.[WT][BR]
+
+//「にたような　かおに　あったり[BR]
+After a while, all faces[BR]
+
+//　するからね、いちいち　おぼえて　いられないのさ。[WT][BR]
+tend to blend together.[WT][BR]
+
+//「それより　なにか[BR]
+With that said, take a[BR]
+
+//　かっていかないか？[WT]
+look at my wares![WT]
+
+
+Block 95 -------------------------
+
+//を　つかった。[WT]
+ used.[WT]
+
+
+Block 96 -------------------------
+
+//「ここオキムもまた、まどうしの[BR]
+Auquim is a sorcerer village.[BR]
+
+//　むらだ。ワープゾーンで、[BR]
+We are connected to Euquim[BR]
+
+//　エキムと　つながれている。[WT][ED]
+through a warp zone.[WT][ED]
+
+
+//CD：ねＸA9ア[ED]
+CD：ねＸA9ア[ED]
+
+
+//D1ア　「まものの　ぐんだんは[BR]
+D1ア　An army of monsters[BR]
+
+//　となりの　まちまで[BR]
+is attacking the[BR]
+
+//　きているそうだぞ！[WT][ED]
+neighboring town![WT][ED]
+
+
+//「となりのまちの　まものは[BR]
+The monsters attacking[BR]
+
+//　たいじされたそうだ。[BR]
+the neighboring town were[BR]
+
+//　めでたし　めでたし！[WT][ED]
+defeated. What a relief![WT][ED]
+
+
+//ゃＥイCDD8ぬは０CDサたFE[ED]
+ゃＥイCDD8ぬは０CDサたFE[ED]
+
+
+//C8／０ゃクイCDＰふC9「まものたちを　ひきいているのは　まぞくの　おんなのこだそうだ。[WT]「だけど、その　おんなのこ、[BR]
+C8／０ゃクイCDＰふC9Rumor is, the monsters are being led by a Magus woman.[WT]However, it seems that she[BR]
+
+//　うわさによると、まほうは[BR]
+herself is not particularly[BR]
+
+//　あまり　うまくないらしいぞ。[WT][ED]
+skilled with magic.[WT][ED]
+
+
+//セりア「・・・・・[WT][ED]
+Ceria: ......[WT][ED]
+
+
+//CDD9ぬ「まぞくの　やつらなんかより[BR]
+CDD9ぬHah! I'm a better sorcerer[BR]
+
+//　おれのほうが、まほうの[BR]
+than any of those[BR]
+
+//　つかいかたは　うまいぞ！[WT][ED]
+Magi guys![WT][ED]
+
+
+//CD：ねＸAEイ[ED]
+CD：ねＸAEイ[ED]
+
+
+//D6イ　「まものぐんだんは、おれたちが[BR]
+D6イ　We'll defeat that[BR]
+
+//　やっつけるぞ！[WT][BR]
+army of monsters![WT][BR]
+
+//　エイエイオー！[WT][ED]
+Huzzah![WT][ED]
+
+
+//「まものぐんだんを、やっつけたぞ　（おれたちじゃ　ないけど・・。[WT]　エイエイオー！[WT][ED]
+The army of monsters has been defeated! (Though not by us...)[WT]Huzzah![WT][ED]
+
+
+//CD：ね19９ウ[ED]
+CD：ね19９ウ[ED]
+
+
+//オウ　「きみたちも　まものと[BR]
+オウ　Are you going to fight against[BR]
+
+//　たたかうのなら、いいことを[BR]
+the monsters? In that case,[BR]
+
+//　おしえて　あげよう。[WT][BR]
+let me give you a tip.[WT][BR]
+
+//「ひがしにある、デルレイのまちに　いって、ビオという　おとこに[BR]
+Go east to the town of Daelray[BR]
+
+//　あいなさい。[WT][ED]
+and talk to a man called Bjor.[WT][ED]
+
+
+//「ビオは　げんきだったかな？[WT][ED]
+How's Bjor doing?[WT][ED]
+
+
+//ゃ[BR]
+ゃ[BR]
+
+//ウCDD8ぬゃAAウCDE8ぬD8CDセへは　／（CDさねC9「このへやは[BR]
+ウCDD8ぬゃAAウCDE8ぬD8CDセへは　／（CDさねC9Feel free to[BR]
+
+//　じゆうに　つかってください。[WT][ED]
+use this room.[WT][ED]
+
+
+//やすみますか？[ED]
+Rest?[ED]
+
+
+//C9は２C3ァへCDD9ぬ「エイエイオー！[WT]
+C9は２C3ァへCDD9ぬHuzzah![WT]
+
+
+Block 97 -------------------------
+
+//「よう、またあったな。[WT][BR]
+Hey there. We meet again.[WT][BR]
+
+//「ん？ふーいん？[BR]
+Hm? A seal?[BR]
+
+//　・・・ああ、オオトじまね。[BR]
+Ah, you mean the one on Haute Island?[BR]
+
+//　たしかに　いったことあるよ。[WT][BR]
+Yeah, I know about it.[WT][BR]
+
+//「おれにしょうばいのこと、[BR]
+It was my mentor[BR]
+
+//　おしえてくれた　ひとに[BR]
+who told me how[BR]
+
+//　ついてってね。[WT][BR]
+it works.[WT][BR]
+
+//「あのとびらを　あけるには[BR]
+You need an[BR]
+
+//　アクアマりンていうほうせきが[BR]
+aquamarine to[BR]
+
+//　ひつようなのさ。あ、おれ？[WT][BR]
+open that door.[WT][BR]
+
+//「いや、おれはもってないよ。[BR]
+No sorry, I don't have one.[BR]
+
+//　そういえば　あのひとにも[BR]
+I haven't seen my mentor[BR]
+
+//　あってないなあ。どっかで[WT][BR]
+in a long time, either.[WT][BR]
+
+//「くたばってるんじゃないかなあ。　おたからが　あるってきくと[BR]
+Last time I heard from him, he was looking[BR]
+
+//　きけんなダンジョンでも[WT][BR]
+for treasures[WT][BR]
+
+//「みさかいなく　はいっていく[BR]
+in all sorts of dangerous[BR]
+
+//　ひとだったから。[WT][BR]
+dungeons.[WT][BR]
+
+//「トルイヌってひとなんだけどね。[WT]「ところで、なんかかって[BR]
+He's probably dead by now.[WT]Oh well.[BR]
+
+//　いきなよ。[WT][ED]
+Why don't you buy something?[WT][ED]
+
+
+//「とびらをあけるのに　ひつよう[BR]
+You'll need an aquamarine[BR]
+
+//　なのは、アクアマりンだよ。[WT]
+to open that door.[WT]
+
+
+Block 98 -------------------------
+
+//おかみ「おつれさんのことは[BR]
+Madam: We'll take care[BR]
+
+//　まかせてください。[WT][ED]
+of your friend.[WT][ED]
+
+
+//ルスラン「バドのこと[BR]
+Luthran: Thank you.[BR]
+
+//　よろしくおねがいします。[WT]
+We leave Vado to you.[WT]
+
+
+Block 99 -------------------------
+
+//バド「あっ！　ミりア！？[WT][ED]
+Vado: Ah! Miria?![WT][ED]
+
+
+//ミりア？「こないだは　よくも[BR]
+Miria?: You're going to pay[BR]
+
+//　バカにして　くれたわね！[BR]
+for the way you humiliated[BR]
+
+//　きょうは　やっつけてやるから[WT][ED]
+me the other time![WT][ED]
+
+
+//バド「ミりア！　どうしたんだよ？　こっちに　くるんだ。[BR]
+Vado: Stop this, Miria![BR]
+
+//　いっしょに　かえろう！[WT][ED]
+Come on, let's go home together![WT][ED]
+
+
+//ミりア？「あたし、いったわよね？　あんたなんか　しらないって！[WT][ED]
+Miria?: I told you to stop talking to me as if you knew me![WT][ED]
+
+
+//バド「ミりア！[WT][ED]
+Vado: Miria![WT][ED]
+
+
+//バド「ミりア！！[WT][ED]
+Vado: Miria!![WT][ED]
+
+
+//バド「ミりアっ！！！[WT][ED]
+Vado: Miria!!![WT][ED]
+
+
+//ミりア？「・・・なによ、あんた。　はんげきも　しないで、どっか[BR]
+Miria: ...What's wrong with you?[BR]
+
+//　おかしいんじゃないの！？[WT][ED]
+Why won't you fight back?![WT][ED]
+
+
+//ブカり「だいぶ、てこずっている[BR]
+Bucalli: You seem to be in quite[BR]
+
+//　ようですな、ひめさま。[WT][ED]
+the pickle, Princess.[WT][ED]
+
+
+//ミりア？「うるさいわよ、ブカり！　いいから、この　おとこを[BR]
+Miria?: Enough of your sass, Bucalli![BR]
+
+//　やっつけて　ちょうだい！[WT][ED]
+Just get it over with![WT][ED]
+
+
+//ブカり「しょうち　しました・・・[WT][ED]
+Bucalli: Indeed, I shall do so...[WT][ED]
+
+
+//バド「・・・このやろう。ミりアを　たぶらかしてんのは[BR]
+Vado: ...It's you, isn't it?[BR]
+
+//　おまえだな・・・[WT][ED]
+You're the reason Miria's like this...[WT][ED]
+
+
+//ブカり「・・・なんのことやら。[WT][ED]
+Bucalli: I'm afraid I do not follow.[WT][ED]
+
+
+//ブカり「さて、ひめさま。かくごは　よろしいですか？[WT][ED]
+Bucalli: Now Princess, are you ready?[WT][ED]
+
+
+//ミりア？「なに？　ブカり、[BR]
+Miria?: What are you talking about?[BR]
+
+//　あんた　いま、なんていったの？[WT][ED]
+Am I ready for what?[WT][ED]
+
+
+//ブカり「しぬ　かくごは　できて[BR]
+Bucalli: I'm asking if you're ready...[BR]
+
+//　いますかと　きいたんですよ！[WT][ED]
+to die![WT][ED]
+
+
+//ブカり「とどめ！[WT][ED]
+Bucalli: It's over![WT][ED]
+
+
+//ブカり「はっ！まとめて[BR]
+Bucalli: Hmph! I'll kill both of you[BR]
+
+//　あのよへ　おくってやる！[WT][ED]
+at once, if that's what you want![WT][ED]
+
+
+//ブカり「クッ　クソ・・・！[BR]
+Bucalli: D-Darn it...![BR]
+
+//　しっぱいか・・・！[WT][ED]
+I failed...![WT][ED]
+
+
+//？？？「・・・グ・・・グガ・・・[WT]「・・・ヨ・ヨルナ・・・[BR]
+???: ...St... Stay...[WT]...a-away...[BR]
+
+//　チ・カヨル・ナ・・・[WT][ED]
+Stay... away...[WT][ED]
+
+
+//ルスラン「あれはいったい[BR]
+Luthran: Who was[BR]
+
+//　なにものだ？[WT][ED]
+that?[WT][ED]
+
+
+//ルスラン「・・・それにこのこは、　ホントにミりアじゃないのか？[WT]
+Luthran: ...Furthermore, could she really be Miria?[WT]
+
+
+Block 100 -------------------------
+
+//「ここは　プりストルのまちよ。[BR]
+Welcome to Pristol.[BR]
+
+//　ついこのあいだまでは、まものに　せんりょうされて　いたの。[WT]
+Our town was occupied by monsters until very recently.[WT]
+
+
+Block 101 -------------------------
+
+//「コルラという　まどうしが[BR]
+A sorcerer called Corla[BR]
+
+//　やってきて、まものを[BR]
+came by and chased all[BR]
+
+//　おいはらって　くれたんだ。[WT][ED]
+the monsters away.[WT][ED]
+
+
+//バド「まどうしコルラ！？[BR]
+Vado: The sorcerer Corla?![BR]
+
+//　そりゃ、おじさんの　ことだ！[BR]
+He's my uncle![BR]
+
+//　いま　どこに　いるんだろう？[WT][ED]
+Where is he now?![WT][ED]
+
+
+//「オオトじまに　いきたいだって？　ふーむ・・・いぜんは、ここから　かいがんぞいの　ひがしにある[WT][BR]
+You want to go to Haute Island? Hmm... Long ago, you could[WT][BR]
+
+//「ほこらから　いけたんだが[BR]
+reach it from the shrine along the east coast,[BR]
+
+//　だいぶまえに、まぞくのやつらが　とびらを　ふさいじまってねえ[WT][ED]
+but the Magi have sealed the path.[WT][ED]
+
+
+//CD：ねけよタ[ED]
+CD：ねけよタ[ED]
+
+
+//ノタ　「まちの　ほくとうには[BR]
+ノタ　There is a large tower[BR]
+
+//　おおきな　とうが　たってるわ。　おつげのとう、って　いうのよ[WT][ED]
+northeast of our town. It's called the Oracle's Tower.[WT][ED]
+
+
+//「オオトじまには　ちいさなむらが　あったけど、いまはどうなって[BR]
+There's a small village on Haute Island.[BR]
+
+//　いるのかしら。[WT][BR]
+I wonder how they're doing?[WT][BR]
+
+//「まものは　オオトじまのほうから　きたみたいだから・・・[WT][ED]
+The monsters came from that direction, so...[WT][ED]
+
+
+//CD：ねけD1タ[ED]
+CD：ねけD1タ[ED]
+
+
+//Ｍチ　「まものを　しきしていたのは[BR]
+Ｍチ　The monsters were[BR]
+
+//　まぞくの　おんなのこ[BR]
+being led by[BR]
+
+//　だったよ。[WT][BR]
+a woman.[WT][BR]
+
+//「かわいい　かおをして、[BR]
+She was very cute, too.[BR]
+
+//　やることは　ざんこくだよな。[WT][ED]
+What a waste.[WT][ED]
+
+
+//「あれ？[BR]
+Hey, it's the cute[BR]
+
+//　かわいいこを　つれているな！[BR]
+girl from before![BR]
+
+//　しょうかいしてくれない？[WT]
+So, you gonna introduce us or what?[WT]
+
+
+Block 102 -------------------------
+
+//「まどうしコルラは、まものを[BR]
+After driving all monsters[BR]
+
+//　おって、おつげのとうへ[BR]
+away, the sorcerer Corla[BR]
+
+//　むかったそうじゃ。[WT][ED]
+headed for the Oracle's Tower.[WT][ED]
+
+
+//「オーラを　すいとられた[BR]
+It's said that those who have[BR]
+
+//　ものは、ねむりこんでしまって[BR]
+their aura absorbed fall into[BR]
+
+//　にどと　めざめないそうだ・・[WT]
+a never-ending slumber...[WT]
+
+
+Block 103 -------------------------
+
+//ド「うーん・・・[BR]
+Vado: *groan*[BR]
+
+//　ミりア・・・[WT][ED]
+Miria...[WT][ED]
+
+
+//ルスラン「うなされてる・・・[BR]
+Luthran: He's having a nightmare...[BR]
+
+//　はやく　よくなってくれよ・・・[WT][ED]
+Please be well soon.[WT][ED]
+
+
+//バド「・・・いくな、ミりア・・・　・・・いかないでくれ・・・[WT]
+Vado: No... Don't go, Miria...[WT]
+
+
+Block 104 -------------------------
+
+//ルスラン「・・・[WT][ED]
+Luthran: ......[WT][ED]
+
+
+//コルラ「バドはだいじょうぶ。[BR]
+Corla: Vado is doing well.[BR]
+
+//　ミりアのことはたのんだよ。[WT][ED]
+Do what you can to save Miria.[WT][ED]
+
+
+//コルラ「ふーむ、[BR]
+Corla: A sealed door you say?[BR]
+
+//　とびらのふういんか・・・[WT][BR]
+Hmm...[WT][BR]
+
+//「いぜんは、しょうにんなどの[BR]
+If I remember correctly,[BR]
+
+//　かぎられた　にんげんではあるが　とおることができたはず。[WT][BR]
+human merchants were able to cross through that door, long ago.[WT][BR]
+
+//「まぞくに　つうこうしょうの[BR]
+I imagine they were given[BR]
+
+//　ようなものを　もらっていたので　は　ないだろうか。[WT]
+some sort of special pass by the Magi.[WT]
+
+
+Block 105 -------------------------
+
+//ミりア？「・・・うーん。[BR]
+Miria?: *groan*[BR]
+
+//　・・・・・・・・・・・・[BR]
+......[BR]
+
+//　・・・・・・はっ！？[WT][ED]
+...Ah?![WT][ED]
+
+
+//ルスラン「きが　ついたね！[BR]
+Luthran: You finally woke up![BR]
+
+//　だいじょうぶかい、ミりア？[WT][ED]
+How do you feel, Miria?[WT][ED]
+
+
+//ミりア？「・・・あたしのなまえは　セりア。まぞくのおう、[BR]
+Miria?: ...My name is Ceria.[BR]
+
+//　ピニオンのむすめ・・・[WT][BR]
+I'm the daughter of the Magus King, Pinion.[WT][BR]
+
+//「ミりアなんて　しらないわ。[BR]
+I have no idea who this "Miria" is.[BR]
+
+//　あんたたち、だれかと[BR]
+You clearly have me mistaken[BR]
+
+//　かんちがい　してんのよ・・・[WT][ED]
+for someone else.[WT][ED]
+
+
+//セりア「あたしは　いくわ。[BR]
+Ceria: I'm leaving.[BR]
+
+//　いつまでも、てきの　せわに[BR]
+I can't stay in the enemy's[BR]
+
+//　なってられないからね。[WT][ED]
+care forever.[WT][ED]
+
+
+//ルスラン「まってくれ！[BR]
+Luthran: Please wait![BR]
+
+//　ちょっと、みぎうでを　みせて[BR]
+Could you show me[BR]
+
+//　くれないか？[WT][ED]
+your right arm?[WT][ED]
+
+
+//セりア「・・・なぜ？[WT][ED]
+Ceria: ...Why?[WT][ED]
+
+
+//ルスラン「ほんものの　ミりアには　こどものときに　できた[BR]
+Luthran: Miria injured herself as a child[BR]
+
+//　きずが　あるんだ。[WT][ED]
+and still bears the scar.[WT][ED]
+
+
+//セりア「あんたも　しつこいわね。　ほら！[WT][ED]
+Ceria: You really are persistent. Here, look for yourself![WT][ED]
+
+
+//セりア「・・・まんぞくした？[BR]
+Ceria: No scars anywhere.[BR]
+
+//　きずなんて、どこにも[BR]
+Happy now?[BR]
+
+//　ないでしょ？　・・じゃあね。[WT][ED]
+...See you.[WT][ED]
+
+
+//ルスラン「まてよ！　まてってば！[WT][ED]
+Luthran: Wait! Please, wait![WT][ED]
+
+
+//セりア「なによ！　うるさいわね！[WT][ED]
+Ceria: What is it now?![WT][ED]
+
+
+//ルスラン「きみを　ころそうとした　ブカりとか　いうヤツが[BR]
+Luthran: How could you return[BR]
+
+//　いるんだぜ！[WT][BR]
+back to them?[WT][BR]
+
+//「かえらないほうが[BR]
+Have you forgotten that[BR]
+
+//　いいんじゃないか？[WT][ED]
+Bucalli tried to kill you?[WT][ED]
+
+
+//セりア「だからよ！　あたしに[BR]
+Ceria: That's exactly[BR]
+
+//　けんを　むけるなんて！[BR]
+why I must go back![BR]
+
+//　ぜったいに　ゆるさないから！[WT][ED]
+He must pay for what he did![WT][ED]
+
+
+//ルスラン「きみの　まりょくじゃ[BR]
+Luthran: You'll never defeat him with[BR]
+
+//　ぎゃくに　やられるのがオチだ。　ムりだよ！[WT][ED]
+the little magic you know! You'll die![WT][ED]
+
+
+//セりア「ほんっとに　しつれいな[BR]
+Ceria: How rude![BR]
+
+//　ヤツね！　あんたたちには[BR]
+Besides, this has nothing[BR]
+
+//　かんけい　ないでしょ！[WT][ED]
+to do with you![WT][ED]
+
+
+//セりア「・・・そうだ。そのひとに　つたえて。たすけてくれて[BR]
+Ceria: ...Oh, one last thing. Once he wakes[BR]
+
+//　ありがとう、って。それから。[WT][BR]
+up, give that man a message from me:[WT][BR]
+
+//「ミりアは、あたしが　みつけて[BR]
+"Thank you for saving me.[BR]
+
+//　あげる。[BR]
+In return, I'll find this[BR]
+
+//　それが　おれいだから、って！[WT][ED]
+Miria person for you".[WT][ED]
+
+
+//ルスラン「・・・しかたがない。[BR]
+Luthran: ...Our only lead[BR]
+
+//　ぼくらは、おつげのとうへ[BR]
+for now is the Oracle's[BR]
+
+//　いってみよう・・・[WT][BR]
+Tower.[WT][BR]
+
+//「まどうしコルラに　あえるかも[BR]
+Let's go. We might find[BR]
+
+//　しれないからね。[WT][ED]
+the sorcerer Corla there.[WT][ED]
+
+
+//セりア「とにかく、あたしは[BR]
+Ceria: Anyway, I'm[BR]
+
+//　いくからね！[WT]
+leaving![WT]
+
+
+Block 106 -------------------------
+
+//を　みつけた！[WT][ED]
+ found![WT][ED]
+
+
+//きのみが　なっている。[WT][ED]
+It's bearing fruit.[WT][ED]
+
+
+//テスコ「これは　うまそうだな！[BR]
+Tesko: Oh, they look delicious![BR]
+
+//　もぐもぐもぐ・・・[WT]
+*munch*[WT]
+
+
+Block 107 -------------------------
+
+//はかぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 108 -------------------------
+
+//コルラ「どれ、わたしがあけよう。[WT]
+Corla: I'll open it.[WT]
+
+
+Block 109 -------------------------
+
+//んな　ようけんだい？[ED]
+What do you need?[ED]
+
+
+//ぜんぶで[ED]
+In total, that's [ED]
+
+
+//になるけど　いいかな？[ED]
+. Is that okay?[ED]
+
+
+//それは　かいとれないな。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//なにを　うってくれるんだ？[ED]
+What are you selling?[ED]
+
+
+//どれに　する？[ED]
+What will it be?[ED]
+
+
+//おかねが　たりないようだな。[WT][ED]
+You're short on cash.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//ほかに　ようは？[ED]
+Need anything else?[ED]
+
+
+//どうもありがとう。[WT][ED]
+Thank you.[WT][ED]
+
+
+//またな。[WT][ED]
+See you again.[WT][ED]
+
+
+//また　あおう。[WT][ED]
+Until next time.[WT][ED]
+
+
+//もう、もちきれないみたいだな。[WT][ED]
+That's all you can carry.[WT][ED]
+
+
+//いくつだい？[ED]
+How many?[ED]
+
+
+//これでいいかい？[ED]
+Is this okay?[ED]
+
+
+//それなら
+Then, 
+
+
+Block 110 -------------------------
+
+//ルスラン「あそこに　いるのは[BR]
+Luthran: Is that Miria?[BR]
+
+//　ミりアか？　それともセりア？[WT][ED]
+Or is it Ceria?[WT][ED]
+
+
+//ミりア「92！　ルスラン！[BR]
+Miria: 92! Luthran![BR]
+
+//　コルラおじさん！　たすけて！[WT][ED]
+Uncle Corla! Help![WT][ED]
+
+
+//コルラ「ミりア！[BR]
+Corla: Miria![BR]
+
+//　だいじょうぶ、[BR]
+Don't worry, we're[BR]
+
+//　いま　たすけるぞ！[WT][ED]
+going to save you![WT][ED]
+
+
+//ブカり「ハハ、しょうこりもなく、　やってきたな！　いまから[BR]
+Bucalli: You shouldn't make promises[BR]
+
+//　おもしろいものをみせてやろう[WT][ED]
+you cannot keep. Have a look at this![WT][ED]
+
+
+//ミりア「キャアーッ[WT][ED]
+Miria: AAAHHH![WT][ED]
+
+
+//ルスラン「ミりア！　ミりア！[BR]
+Luthran: Miria! MIRIA![BR]
+
+//　きさま、ミりアに　なにをした！[WT][ED]
+What have you done to her?![WT][ED]
+
+
+//コルラ「それは　まぞくのオーラ。　まぞくは　なかまの　オーラを[BR]
+Corla: That was a Magus Aura! A Magus can[BR]
+
+//　すいとって、よりつよくなる。[WT][BR]
+absorb the aura from their peers to become stronger.[WT][BR]
+
+//「しかし、なぜ、にんげんの[BR]
+But Miria is a human.[BR]
+
+//　ミりアから　そんなものが？[WT][ED]
+She's not supposed to have such a thing.[WT][ED]
+
+
+//ブカり「フッ。この　むすめが[BR]
+Bucalli: A human, you say?[BR]
+
+//　にんげんでは、ないとしたら？[BR]
+Oh, how wrong[BR]
+
+//　このミりアこそ・・・[WT][BR]
+you are.[WT][BR]
+
+//「まぞくの　おう、ピニオンの[BR]
+What if I told you this girl is[BR]
+
+//　ほんとうの　むすめだとしたら[BR]
+none other than the true daughter[BR]
+
+//　どうする？[WT][ED]
+of the Magus King Pinion?[WT][ED]
+
+
+//ルスラン「なに　いってんだ！[BR]
+Luthran: We wouldn't[BR]
+
+//　そんなの、デタラメに[BR]
+believe such[BR]
+
+//　きまってるじゃ　ないか！！[WT][ED]
+nonsense![WT][ED]
+
+
+//コルラ「たとえ、そうだとしても、　ミりアは　おまえの[BR]
+Corla: Even if that were true, that would[BR]
+
+//　しゅじんの　むすめ・・・[WT][BR]
+make her the daughter of your master.[WT][BR]
+
+//「それこそ、おまえが　ミりアを[BR]
+You would have no[BR]
+
+//　いためつける　りゆうが、[BR]
+reason to treat[BR]
+
+//　なくなるでは　ないか！[WT][ED]
+her this way![WT][ED]
+
+
+//ブカり「りゆうが　ないだと？[BR]
+Bucalli: My "master"?[BR]
+
+//　フン。わたしは、ピニオンを[BR]
+Hmph. I don't acknowledge[BR]
+
+//　みとめていないのだ。[WT][BR]
+Pinion's authority.[WT][BR]
+
+//「やつめ、にんげんどもと[BR]
+That coward wants to[BR]
+
+//　なかよく　やっていこうなどと[BR]
+get along with you[BR]
+
+//　いいだしおって・・・！[WT][BR]
+feeble humans...[WT][BR]
+
+//「ミりアは、ピニオンを　たおす[BR]
+Miria will be the weapon[BR]
+
+//　きりふだ！　わたしこそ[BR]
+I need to defeat him.[BR]
+
+//　まぞくの　おうに　ふさわしい[WT][ED]
+Only I am fit to rule the Magi![WT][ED]
+
+
+//「そういう　ことだったの！？[WT][ED]
+Is that so?[WT][ED]
+
+
+//セりア「ブカり！　うらぎりもの！　よくも　いままで　だまして[BR]
+Ceria: Bucalli, you traitor![BR]
+
+//　くれたわね！[WT][ED]
+How dare you deceive us?![WT][ED]
+
+
+//ブカり「ひめさま、あなたは[BR]
+Bucalli: Ah, the "Princess".[BR]
+
+//　うまれたとき、どうじに[BR]
+You see, you were born at[BR]
+
+//　うまれていたミりアと[WT][BR]
+the same time as Miria.[WT][BR]
+
+//「すりかえられたのだ！[BR]
+So I swapped the two of you![BR]
+
+//　ほかでもない、このわたしの[BR]
+Nobody but me could pull off[BR]
+
+//　てによってな！[WT][BR]
+such a dastardly trick![WT][BR]
+
+//「これからは　にんげんらしく[BR]
+Now it's time you returned to your humble origins[BR]
+
+//　ひっそりと　いきて[BR]
+and lived out the rest of your short life[BR]
+
+//　いかれますように。ひめさま！[WT][ED]
+as the puny human you are, "Princess"![WT][ED]
+
+
+//ブカり「わたしを　たおそうなど、　つまらぬ　かんがえは[BR]
+Bucalli: Forget about defeating me.[BR]
+
+//　おこさぬ　ことだぞ！[WT][BR]
+It's a hopeless dream.[WT][BR]
+
+//「しょせん、おまえたちには[BR]
+There is simply nothing[BR]
+
+//　なにも　できんのだからな。[BR]
+you can do. And now,[BR]
+
+//　では、さらばだ！[WT][ED]
+I bid you adieu![WT][ED]
+
+
+//コルラ「やつめ・・。むごいことを　したものだ。こどもを[BR]
+Corla: D-Darn him... How could he do something[BR]
+
+//　すりかえるなんて・・・[WT]
+as treacherous as swapping two babies...?[WT]
+
+
+Block 111 -------------------------
+
+//「・・・うう・・・。[BR]
+*groan*[BR]
+
+//　・・・きみたちは、だれだ？[WT][ED]
+...Who are you?[WT][ED]
+
+
+//ルスラン「たびの　ものです。[BR]
+Luthran: We're travelers.[BR]
+
+//　まどうしコルラを　さがして[BR]
+We entered this tower in search[BR]
+
+//　このとうに　やってきました。[WT][ED]
+of a sorcerer named Corla.[WT][ED]
+
+
+//「・・・それは[BR]
+...Well, you just[BR]
+
+//　わたしの　ことだ・・・[WT][ED]
+found him...[WT][ED]
+
+
+//ルスラン「え？　じゃ、あなたが[BR]
+Luthran: Huh? Then you must[BR]
+
+//　バドの　おじさん！？[WT][ED]
+be Vado's uncle![WT][ED]
+
+
+//コルラ「きを　つけるんだ・・・[BR]
+Corla: Be careful...[BR]
+
+　このとうは、まものに[BR]
+This tower is teeming[BR]
+
+　せんりょう　されている・・・[WT][ED]
+with monsters...[WT][ED]
+
+
+//ルスラン「そうだ、ミりアを[BR]
+Luthran: Have you[BR]
+
+//　みませんでしたか？[BR]
+seen Miria?[BR]
+
+//　あなたの　めいの・・・[WT][ED]
+Your niece?[WT][ED]
+
+
+//コルラ「とうの　てっぺんに[BR]
+Corla: Yes, I saw her... She was at the top of the tower,[BR]
+
+//　まぞくと、ミりアが　いた・・・　たすけようと　したのだが・・[WT][BR]
+alongside a Magus. I was unable to save her...[WT][BR]
+
+//「ふたりだけで　とうへ[BR]
+You'll never reach the[BR]
+
+//　のぼるのは　むりだ・・・。[WT][BR]
+top on your own.[WT][BR]
+
+//「たいりょくが　かいふくしたら、　わたしも　いっしょに[BR]
+I've had enough time to rest.[BR]
+
+//　たたかえるんだが・・・。[WT][ED]
+I'm coming with you.[WT][ED]
+
+
+//コルラが　なかまになった！[WT][ED]
+Corla joined you![WT][ED]
+
+
+//コルラ「じょうほうを　せいり[BR]
+Corla: Let's sort what[BR]
+
+//　してみよう。まず・・・[WT][BR]
+we know. First...[WT][BR]
+
+//「ブカりは、ピニオンをたおし、[BR]
+Bucalli wants to kill Pinion.[BR]
+
+//　つぎに、にんげんたちを[BR]
+After that, I assume he intends[BR]
+
+//　しはいする　つもりらしい。[WT][ED]
+to rule over humans.[WT][ED]
+
+
+//コルラ「ミりアとセりアは、[BR]
+Corla: Bucalli swapped[BR]
+
+//　ブカりの　やぼうのために[BR]
+Miria and Ceria to fulfill[BR]
+
+//　すりかえられたらしいな・・・[WT][ED]
+his ambitions...[WT][ED]
+
+
+//コルラ「ミりアは、ほんとうは[BR]
+Corla: Miria must possess an[BR]
+
+//　すごい　まりょくのもちぬし[BR]
+extraordinary amount of magical[BR]
+
+//　なのだろうが・・・[WT][BR]
+power due to her lineage.[WT][BR]
+
+//「にんげんとして　そだてられた[BR]
+However, having been raised[BR]
+
+//　から、まりょくの[BR]
+as a human, she has never[BR]
+
+//　つかいかたをしらない。[WT][BR]
+learned how to access it.[WT][BR]
+
+//「ルスランのように、[BR]
+She has never received[BR]
+
+//　まほうつかいの　しゅぎょうも[BR]
+any sort of training[BR]
+
+//　していないし・・・[WT][BR]
+like you did.[WT][BR]
+
+//「だから、ブカりはおそれるに[BR]
+That must be why Bucalli did it.[BR]
+
+//　たりない、というわけだ・・・[WT][ED]
+He has nothing to fear from her now.[WT][ED]
+
+
+//コルラ「ミりアは・・・[WT][BR]
+Corla: Miria...[WT][BR]
+
+//「おまえたちの　おさななじみは[BR]
+Your childhood friend is[BR]
+
+//　まぞくの　むすめ・・・[WT][BR]
+actually a Magus.[WT][BR]
+
+//「それでも　おまえたちは、[BR]
+Are you still willing[BR]
+
+//　ミりアを　たすけに　いくか？[ED]
+to save her?[ED]
+
+
+//コルラ「そうか、よくいった！[BR]
+Corla: Well said![BR]
+
+//　それなら、わたしもちからを[BR]
+In that case, I shall[BR]
+
+//　かそう。[WT][ED]
+lend you my powers.[WT][ED]
+
+
+//コルラ「ばかもん！！[BR]
+Corla: You fool![BR]
+
+//　おまえたちが　ミりアを[BR]
+Who's going to save[BR]
+
+//　たすけないで　どうするのだ！[WT][ED]
+Miria if you won't?![WT][ED]
+
+
+//セりア「ちょっとまって！[WT][ED]
+Ceria: Hold it![WT][ED]
+
+
+//セりア「あたしも　いっしょに[BR]
+Ceria: I want to come[BR]
+
+//　つれてって！　このままじゃ、[BR]
+with you as well![BR]
+
+//　あたし、くやしい！[WT][BR]
+I HAVE to do something!![WT][BR]
+
+//「とうさんが、ブカりに[BR]
+If I won't, Bucalli[BR]
+
+//　やられて　しまうかも[BR]
+may kill my father.[BR]
+
+//　しれないし、それに・・・[WT][BR]
+Also...[WT][BR]
+
+//「バドと　やくそくしたもの！[BR]
+I promised Vado[BR]
+
+//　ミりアは　あたしがたすけて[BR]
+that I'd save[BR]
+
+//　あげるって！[WT][ED]
+Miria![WT][ED]
+
+
+//コルラ「そうか。セりアがその[BR]
+Corla: If she's so serious[BR]
+
+　つもりなら、わたしのやくは[BR]
+about this, then I'll gladly[BR]
+
+　セりアにゆずろう。[WT][ED]
+let her take over for me.[WT][ED]
+
+
+セりアが　なかまになった！[WT][ED]
+Ceria joined you![WT][ED]
+
+
+//コルラ「わたしはバドのところに[BR]
+Corla: I'll stay by Vado's[BR]
+
+//　いるから、なにかあったら[BR]
+side and watch over him.[BR]
+
+//　そうだんにきなさい。[WT]
+Come see me if you ever need advice.[WT]
+
+
+Block 112 -------------------------
+
+//セりア「あたし、おうさまが・・・　とうさんが　にんげんたちを[BR]
+Ceria: I thought I was following the King's -[BR]
+
+//　こうげき　させてるとばかり・[WT][BR]
+my father's - orders, by attacking humans.[WT][BR]
+
+//「まさか、ブカりのかってな[BR]
+I had no idea I was unwittingly[BR]
+
+//　めいれい　だったなんて・・・[WT][ED]
+doing Bucalli's bidding...[WT][ED]
+
+
+セりア「あたしの　まほうが[BR]
+Ceria: So my lack of magical[BR]
+
+　へタなのは、もともとが[BR]
+talent was because I was never[BR]
+
+　にんげんだから、なのね・・・[WT][BR]
+a Magus in the first place...[WT][BR]
+
+「でも、そんなことって・・・[BR]
+I hate having to live[BR]
+
+　なんか、くやしいな・・・[WT][ED]
+this lie...[WT][ED]
+
+
+//セりア「ミりアの、オーラを[BR]
+Ceria: Bucalli has become[BR]
+
+//　すいとることで、ブカりは[BR]
+even stronger after absorbing[BR]
+
+//　パワーアップできるしね。[WT][ED]
+Miria's aura.[WT][ED]
+
+
+//セりア「ミりアも　いまごろ、[BR]
+Ceria: Miria must be[BR]
+
+//　なやんでるでしょうね・・・[WT][ED]
+terrified...[WT][ED]
+
+
+//セりア「さっきの　ブカりの[BR]
+Ceria: Bucalli's attack[BR]
+
+//　こうげきは、このぺンダントを[BR]
+was aimed at this[BR]
+
+//　ねらったのよ。[WT][BR]
+pendant.[WT][BR]
+
+//「このぺンダントのちからで[BR]
+It has the power of[BR]
+
+//　わたし、しろのでいりは[BR]
+letting me go in and[BR]
+
+//　じゆうだったの。[WT][BR]
+out of the castle.[WT][BR]
+
+//「これを　こわされてしまっては[BR]
+Now that it's broken, we can[BR]
+
+//　あるいて　いくしかないわ。[WT][BR]
+only reach it by walking.[WT][BR]
+
+//「オオトじまから[BR]
+There should be a way from[BR]
+
+//　いけるはずなんだけど・・・[WT]
+Haute Island.[WT]
+
+
+Block 113 -------------------------
+
+//ルスラン「でも、ふたりを[BR]
+Luthran: What did Bucalli[BR]
+
+//　いれかえて、ブカりになんの[BR]
+have to gain from[BR]
+
+//　とくが　あるっていうんだ？[WT][ED]
+swapping Miria and Ceria?[WT][ED]
+
+
+//ルスラン「なんてこった・・・[WT][ED]
+Luthran: This is terrible...[WT][ED]
+
+
+//ルスラン「どうしたらいいんだ？[WT][ED]
+Luthran: What should we do?[WT][ED]
+
+
+//ルスラン「ミりアは　ぶじで[BR]
+Luthran: I hope Miria[BR]
+
+//　いるだろうか・・・[WT]
+is still okay...[WT]
+
+
+Block 114 -------------------------
+
+//「クッ　クッ　クッ・・・[WT]
+Keh keh keh...[WT]
+
+
+Block 115 -------------------------
+
+//はつるりとした　ひょうめんの[BR]
+You notice a cavity in the[BR]
+
+//まんなかあたりに　くぼみがある。[WT][ED]
+middle of the smooth surface.[WT][ED]
+
+
+//「ほら、このくぼみ。[BR]
+Look, there's a cavity in here.[BR]
+
+//　ここになにかを　はめこめば[BR]
+It should open if we[BR]
+
+//　あくはずだけど・・・[WT][ED]
+insert the right thing.[WT][ED]
+
+
+//92は、とびらのくぼみに[BR]
+92 inserted the[BR]
+
+//93を　いれた。[WT][ED]
+93 in the cavity.[WT][ED]
+
+
+//とびらの　ふういんが　とけた！[WT]
+The door was unsealed![WT]
+
+
+Block 116 -------------------------
+
+//はかくしかいだんを　みつけた！[WT]
+Found a secret staircase![WT]
+
+
+Block 117 -------------------------
+
+//「ふっ　ふっ　ふっ・・・[WT][ED]
+Hee hee hee...[WT][ED]
+
+
+//「ここまで　やってくるとは[BR]
+I'm impressed you've[BR]
+
+//　たいした　ものだ・・・[WT][ED]
+managed to come this far.[WT][ED]
+
+
+//ルスラン「あっ！　ミりア！[WT][ED]
+Luthran: Ah! Miria![WT][ED]
+
+
+//ブカり「ミりアのオーラは[BR]
+Bucalli: I've absorbed[BR]
+
+//　すべて　すいとった。おかげで[BR]
+all of her aura.[BR]
+
+//　わたしは　つよくなれたぞ！[WT][BR]
+I have gained great power![WT][BR]
+
+//「もうミりアは、しんだも[BR]
+Miria is as good as dead.[BR]
+
+//　どうぜんだ。たすけられなくて[BR]
+I'm terribly sorry you[BR]
+
+//　ざんねんだったな！[WT][BR]
+couldn't save her![WT][BR]
+
+//ブカり「いまごろ、ハイランディア　では、わが　しもべどもが[BR]
+Bucalli: My minions are spreading[BR]
+
+//　はんらんを　おこしている。[WT][BR]
+havoc and confusion across Highlandia as we speak.[WT][BR]
+
+//「ピニオンも　おまえたちも、[BR]
+Pinion will be dead soon,[BR]
+
+//　これで　おわりだ！[BR]
+just like you![BR]
+
+//　かくごは　いいか！？[WT][ED]
+Are you ready to die?[WT][ED]
+
+
+//ブカり「ム！また　おまえか！[BR]
+Bucalli: You again?![BR]
+
+//　きさま、なにものだ？[BR]
+Who are you supposed to be?[BR]
+
+//　どうやら、そのすがたは・・・[WT][BR]
+Judging by your appearance...[WT][BR]
+
+//「われら、まぞくのまりょくで、[BR]
+You must be a human[BR]
+
+//　まものにされた[BR]
+turned into a monster[BR]
+
+//　にんげんらしいが。[WT][ED]
+by our magic.[WT][ED]
+
+
+//？？？「ガルルル・・・！[WT][ED]
+???: Grrrr...![WT][ED]
+
+
+//ブカり「ふっ　ことばをうしなって　いるようだな。[WT][BR]
+Bucalli: Hmph. It seems you have lost the ability to speak.[WT][BR]
+
+//「いずれは　ひとのこころも[BR]
+Before long, you will lose[BR]
+
+//　なくしてしまい[BR]
+your humanity altogether,[BR]
+
+//　まもの　そのものになるだろう[WT][BR]
+and become a true monster.[WT][BR]
+
+//「わざわざ、このわたしがあいてに　するまでもない。[WT][ED]
+I don't need to waste time on you. Your fate is sealed.[WT][ED]
+
+
+//ブカり「だが、おまえが[BR]
+Bucalli: But I WILL deal with[BR]
+
+//　たすけようとしたものたち[WT][BR]
+these interlopers.[WT][BR]
+
+//「そいつらには　きえてもらうしか　ないな。めざわりだ。[WT][ED]
+I can stand their presence no further.[WT][ED]
+
+
+//ブカり「ハッハッハッ！[BR]
+Bucalli: Hahahah![BR]
+
+//　これでもう、にどと[BR]
+We won't meet again,[BR]
+
+//　あうことも　ないだろう！[WT][ED]
+you weaklings![WT][ED]
+
+
+//ルスラン「・・・どうやら、[BR]
+Luthran: It seems we survived,[BR]
+
+//　たすかったみたいだけど・・・[WT][ED]
+somehow...[WT][ED]
+
+
+//セりア「ここは、いったい[BR]
+Ceria: What is[BR]
+
+//　どこ・・・？[WT][ED]
+this place?[WT][ED]
+
+
+//「ヤッ　きがついたようだね。[BR]
+Yo! You woke up![BR]
+
+//　よかった、よかった。[WT][ED]
+Good, good.[WT][ED]
+
+
+//ルスラン「たすけてくれて[BR]
+Luthran: We owe you our[BR]
+
+//　ありがとう。ところでここは[BR]
+lives. Thank you.[BR]
+
+//　なんていうところかな？[WT][ED]
+Where are we?[WT][ED]
+
+
+//「ここはドワーフのむら[BR]
+This is the Dwarven village.[BR]
+
+//　オオトじまの　ずっとずっと[BR]
+It's waaaay below[BR]
+
+//　ちかにあるよ。[WT][BR]
+Haute Island.[WT][BR]
+
+//「あんたたち、むらのそとに[BR]
+We found you collapsed[BR]
+
+//　たおれてたのよ。[WT][BR]
+right outside the village.[WT][BR]
+
+//「ものすごーい　じしんのあとでね[WT][ED]
+That earthquake must've sent you all the way here.[WT][ED]
+
+
+//セりア「わたしたちのほかに[BR]
+Ceria: Was there anyone[BR]
+
+//　だれかいなかった？[WT][ED]
+else excluding us?[WT][ED]
+
+
+//「ほか？・・・・・！[WT][ED]
+Anyone else? ...![WT][ED]
+
+
+//「わたしたちがいるよ。[WT][ED]
+Just us dwarves.[WT][ED]
+
+
+//セりア「・・・そういういみじゃ[BR]
+Ceria: That's not[BR]
+
+//　ないんだけど・・・[WT]
+what I meant...[WT]
+
+
+Block 118 -------------------------
+
+//やすみますか？
+Rest?
+
+
+Block 119 -------------------------
+
+//かぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 120 -------------------------
+
+//「ここは　ドワーフのむら、[BR]
+This is Dwarin,[BR]
+
+//　ドワーりン。[WT][ED]
+the Dwarven village.[WT][ED]
+
+
+//／７ゃ1DアCDＰふは（／（CDさねC9「ぼくらは、まものがおそって[BR]
+／７ゃ1DアCDＰふは（／（CDさねC9We're on lookout,[BR]
+
+//　こないか、みはってるよ。[WT][ED]
+making sure monsters don't attack.[WT][ED]
+
+
+//／７ゃめアCDＰふC9「つかれたら　べッドで[BR]
+／７ゃめアCDＰふC9Feel free to use that[BR]
+
+//　やすんでくといいよ。[WT][ED]
+bed if you're tired.[WT][ED]
+
+
+//／７ゃシアCDＰふC9「なんにんもの　なかまが[BR]
+／７ゃシアCDＰふC9The monsters have[BR]
+
+//　まものに　やられたよ・・・[WT][BR]
+killed many of us...[WT][BR]
+
+//「まものたちは、さいきん、[BR]
+It's like they've[BR]
+
+//　てにおえないほど[BR]
+become more violent[BR]
+
+//　きょうぼうに　なってるね。[WT]
+recently.[WT]
+
+
+Block 121 -------------------------
+
+//「ホー！まぞくのしろへいく？[WT][BR]
+Hoh! Going to the Magi's castle?[WT][BR]
+
+//「ホホー！[WT][ED]
+Hoh hoh![WT][ED]
+
+
+//「じゃあ、いいものかしたげる。[WT][ED]
+I'll lend you something cool.[WT][ED]
+
+
+//「ほらこれ！ドワーフのたから！[WT][ED]
+Here you go! This is our treasure![WT][ED]
+
+
+//マジカルキーを　かしてもらった[WT][ED]
+Magical Key borrowed.[WT][ED]
+
+
+//「これはねえ、どんなとびらでも[BR]
+This can open any door.[BR]
+
+//　あくのだよ。でも、わるいことに　つかったら　だめだよ！[WT][ED]
+Any! But you can't use it for anything bad![WT][ED]
+
+
+//「ちゃんとかえしてね！[WT][ED]
+Be sure to give it back![WT][ED]
+
+
+//／７ゃFDイCDＰふC9「ここは　オオトじまの　ちか。[BR]
+／７ゃFDイCDＰふC9We're under Haute Island.[BR]
+
+//　ちじょうは　もっと、ずっと[BR]
+The surface is[BR]
+
+//　うえだよ。[WT]
+a long way up![WT]
+
+
+Block 122 -------------------------
+
+//「・・・おれは　かじやだよ。[BR]
+I'm a blacksmith.[BR]
+
+//　でも　きがむいたときしか[BR]
+But I only work[BR]
+
+//　しごとしないのだ・・・[WT][ED]
+when I feel like it.[WT][ED]
+
+
+//「・・・きょうはたいへん[BR]
+Today I feel[BR]
+
+//　きぶんがよいので　しごとを[BR]
+like working,[BR]
+
+//　してみようかとおもう。[WT][BR]
+for once.[WT][BR]
+
+//「よいかな？[ED]
+You'd like me to work for you, right?[ED]
+
+
+//「・・・じゃあやめだ。[WT][ED]
+I changed my mind.[WT][ED]
+
+
+//「なんだと！おまえはなにさまの[BR]
+What?! Who do you[BR]
+
+//　つもりだ！こうなったら[BR]
+think you are, huh?![BR]
+
+//　しかたがない。[WT][BR]
+Oh, I'll show you.[WT][BR]
+
+//「おまえのもっている　ぶきを[BR]
+I'm going to improve[BR]
+
+//　きたえなおしてやる！[WT][ED]
+one of your weapons![WT][ED]
+
+
+//「だめだ！だめだ！こんなもの！[BR]
+No, no, no![BR]
+
+//　もっとマシなものをよこせ！[WT][ED]
+I need something better![WT][ED]
+
+
+//「むーん！これだ！[BR]
+Hmmm... Yes! This is good![BR]
+
+//　ちょっとまってなさい！[WT][ED]
+Wait here![WT][ED]
+
+
+//トン！　テン！　カン！[WT][BR]
+*clang* *clung* *clang*[WT][BR]
+
+//　　トン！　テン！　カン！[WT][BR]
+*clung* *clang* *clung*[WT][BR]
+
+//トン！・・・・・・・・・・[WT][BR]
+*thud*[WT][BR]
+
+//・・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//・・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「いっっっってーーーーーー！[WT][BR]
+OOOWWW!!![WT][BR]
+
+//・・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//・・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//トン！　テン！　カン！[WT][BR]
+*clang* *clung* *clang*[WT][BR]
+
+//　　トン！　テン！　カン！[WT][BR]
+*clung* *clang* *clung*[WT][BR]
+
+//トン！　テン！　カン！[WT][ED]
+*clang* *clung* *clang*[WT][ED]
+
+
+//「これだ！みよ、このかがやき！[BR]
+It's done! Look at this masterpiece![BR]
+
+//　さあ、もってくがよい。[WT][ED]
+Here, take it.[WT][ED]
+
+
+//きぼうのつるぎを　てにいれた！[WT][ED]
+Received Sword of Hope![WT][ED]
+
+
+//。。　　[ED]
+。。　　[ED]
+
+
+//！（（（[ED]
+！（（（[ED]
+
+
+//／７ゃD1オCDＰふC9「こいつは　むらのたからを[BR]
+／７ゃD1オCDＰふC9He's being punished[BR]
+
+//　だまって　もちだしたから[BR]
+because he took the[BR]
+
+//　おしおきちゅうなのだ。[WT]
+village's treasure without permission.[WT]
+
+
+Block 123 -------------------------
+
+//を　つかいますか？
+ will be used. Confirm?
+
+
+Block 124 -------------------------
+
+//ルスラン「ミりア、ミりアだ！[BR]
+Luthran: It's Miria![BR]
+
+//　ぶじだったんだね・・・！[WT][ED]
+We finally found her...[WT][ED]
+
+
+//ルスラン「・・・ミりアの[BR]
+Luthran: ...Do you[BR]
+
+//　ところへは　きみだけで[BR]
+mind going on[BR]
+
+//　いってくれ。[WT][BR]
+ahead by yourself?[WT][BR]
+
+//「ぼくは、セりアが[BR]
+I'm worried about[BR]
+
+//　しんぱいだから・・・[WT][ED]
+Ceria...[WT][ED]
+
+
+//！（（[ED]
+！（（[ED]
+
+
+//はら：「　CD9DのC9CD：ねて95ソ[ED]
+はら：「　CD9DのC9CD：ねて95ソ[ED]
+
+
+//CBソ　「きみら、どこからきたんだ？[BR]
+CBソ　Where did you guys come from?[BR]
+
+//　こないだのじしんで　どうくつは　ふさがったはずだが。[WT][BR]
+The cave was blocked by that big earthquake.[WT][BR]
+
+//「ここは　りスゴー。[BR]
+This is Lisgow.[BR]
+
+//　しまで　ひとがすんでるのは[BR]
+This is the only town inhabited[BR]
+
+//　ここだけさ。[WT][ED]
+by humans on the entire island.[WT][ED]
+
+
+//CD：ねて　タにンタ[ED]
+CD：ねて　タにンタ[ED]
+
+
+//B2タ　「ここはいぜん、モルドりアと[BR]
+B2タ　Long ago, merchants[BR]
+
+//　ハイランディアとの[BR]
+from Moldoria and[BR]
+
+//　しょうばいの　とりひきが[WT][BR]
+Highlandia would[WT][BR]
+
+//　おこなわれていた　とこなの。[WT][BR]
+come here to trade.[WT][BR]
+
+//「ここにすむ　わたしたちには[BR]
+The people of our town[BR]
+
+//　りょうほうの　ちが、ながれて[BR]
+are of mixed blood,[BR]
+
+//　いるのよ。[WT][BR]
+both human and Magi.[WT][BR]
+
+//「まものは　まぞくのちをかんじて　ここを　おそってこないのよ。[WT][ED]
+Monsters won't attack us because they can sense Magi blood flowing in our veins.[WT][ED]
+
+
+//「おなじ　にんげんどうしが[BR]
+It's sad that[BR]
+
+//　きずつけあうって[BR]
+fellow men must[BR]
+
+//　かなしいわね。[WT][ED]
+fight among themselves.[WT][ED]
+
+
+//「このむらが、むかしのように[BR]
+It would be nice if the town[BR]
+
+//　にぎわうといいわ。[WT][ED]
+bustled with people like in the past.[WT][ED]
+
+
+//CD：ねてD9タ[ED]
+CD：ねてD9タ[ED]
+
+
+//３チ　「みんながいる　むらのなかは[BR]
+３チ　I know it's safer inside[BR]
+
+//　あんぜんだけど、[BR]
+the village, but I want[BR]
+
+//　やっぱ、そとであそびたいな。[WT][ED]
+to play outside.[WT][ED]
+
+
+//「とつぜん、まものが[BR]
+The monsters are[BR]
+
+//　いなくなったから　そとで[BR]
+gone, so I can[BR]
+
+//　あそんでいいってさ。[WT][BR]
+play outside now.[WT][BR]
+
+//「でも、ざんねんだな[BR]
+It's kind of a shame, though.[BR]
+
+//　せっかく　なついたまものが[BR]
+Some of the monsters[BR]
+
+//　いたのに・・・[WT][ED]
+were cute...[WT][ED]
+
+
+//CD：ねてカチ[ED]
+CD：ねてカチ[ED]
+
+
+//B3チ　「まものが、おねえちゃん[BR]
+B3チ　The monsters brought[BR]
+
+//　そっくりのひとを[BR]
+someone who looks just[BR]
+
+//　つれてきたのよ。[WT][BR]
+like you.[WT][BR]
+
+//「でも、しんじゃってたみたい。[BR]
+But it's like she's dead.[BR]
+
+//「だって、ダラーンって[BR]
+She won't move[BR]
+
+//　なってたもん。[WT][ED]
+at all.[WT][ED]
+
+
+//「あのおねえちゃん　そっくりの[BR]
+The girl that looks like[BR]
+
+//　おねえちゃんが、おきたのよ。[WT][BR]
+that other girl woke up.[WT][BR]
+
+//「でも、ねぼけてるみたい。[WT][BR]
+But it's like she's half asleep.[WT][BR]
+
+//「だって、ボーっと[BR]
+She's just lying in bed,[BR]
+
+//　してるんだもん。[WT][ED]
+spacing out.[WT][ED]
+
+
+//CDFBぬしゃツすＧツてゅツとおツなしツ[ED]
+CDFBぬしゃツすＧツてゅツとおツなしツ[ED]
+
+
+//とツ　は　CDA6１を０ゃひツCDD8ぬC9ゃモツCDD8ぬC9ゃD9ツCDD8ぬC9はなせみCCCDタ１ゃ　テCDD8ぬC9「こんげつは　おきゃくが[BR]
+とツ　は　CDA6１を０ゃひツCDD8ぬC9ゃモツCDD8ぬC9ゃD9ツCDD8ぬC9はなせみCCCDタ１ゃ　テCDD8ぬC9We're having many[BR]
+
+//　おおいのう。[WT][BR]
+visitors this month.[WT][BR]
+
+//「つい　このまえも、[BR]
+The other day we[BR]
+
+//　いきだおれの　おんなのこを[BR]
+found a woman collapsed,[BR]
+
+//　ひろったばかりじゃよ。[WT][ED]
+and brought her in.[WT][ED]
+
+
+//「たしかに　まものどもは[BR]
+Indeed, the monsters came[BR]
+
+//　ひがしのほこらから[BR]
+from the shrine east[BR]
+
+//　やってくるようじゃ。[WT][BR]
+of here.[WT][BR]
+
+//「なに？まぞくの　わるものを[BR]
+What? You want to go there[BR]
+
+//　たおしに　いくとな！？[BR]
+and defeat an evil Magus?[BR]
+
+//　うむ、がんばってきなされ！[WT][ED]
+Then I wish you luck![WT][ED]
+
+
+//「おお、かえってきたか！[BR]
+Oh, you're back![BR]
+
+//　おともだちのぐあいを[BR]
+Are you here to[BR]
+
+//　みていっておくれ。[WT][ED]
+visit your friend?[WT][ED]
+
+
+//「きっと、とてもつらいめに[BR]
+It must have been[BR]
+
+//　あって、ミりアさんは[BR]
+so hard for Miria.[BR]
+
+//　ああなって　しまったんじゃ。[WT][BR]
+That's why she's like this now...[WT][BR]
+
+//「なにか、むかしの[BR]
+If only you could make[BR]
+
+//　たのしかった　できごとでも[BR]
+her remember a happy[BR]
+
+//　おもいださせてやれたら・・・[WT][BR]
+memory from her past...[WT][BR]
+
+//「ひょっとしたら、[BR]
+I think that might be enough[BR]
+
+//　なおるかもしれん・・・[WT]
+to break her free from her trauma.[WT]
+
+
+Block 125 -------------------------
+
+//「あら、このおんなのこ、[BR]
+Is she a friend[BR]
+
+//　あなたたちの　しりあいなの？[WT][BR]
+of yours?[WT][BR]
+
+//「でも・・・、ずっと[BR]
+You should know...[BR]
+
+//　しんだように　ねむったまま、[BR]
+She has been sleeping[BR]
+
+//　めを　さまさないの。[WT][BR]
+ever since we've found her.[WT][BR]
+
+//「なんだか、どんどん　からだが[BR]
+She must be too weak[BR]
+
+//　よわっている　ようだし・・・[BR]
+to wake up...[BR]
+
+//　しんぱいだわ・・・[WT][ED]
+I'm worried.[WT][ED]
+
+
+//「ミりアさんは　わたしが[BR]
+I'll take care of your[BR]
+
+//　みてますから、あんしんして[BR]
+friend Miria while you[BR]
+
+//　たびを　つづけてね。[WT][ED]
+continue your journey.[WT][ED]
+
+
+//「ついさっき、きれいなひかりの[BR]
+I saw a pretty orb[BR]
+
+//　たまが　とびこんできて[BR]
+of light earlier.[BR]
+
+//　ミりアさんにすいこまれたの。[WT][BR]
+It touched Miria and fused with her.[WT][BR]
+
+//「そうしたら、いしきがもどった[BR]
+For a while, I thought she[BR]
+
+//　ようなんだけど・・・[WT][BR]
+had regained consciousness...[WT][BR]
+
+//「はなしかけても　なんの[BR]
+But she still shows no[BR]
+
+//　はんのうもないのよ。[WT][ED]
+real signs of life.[WT][ED]
+
+
+//「・・・かわいそうに[BR]
+She must have shut[BR]
+
+//　じぶんのなかにとじこもって[BR]
+herself off from the[BR]
+
+//　しまったのね・・・[WT][ED]
+rest of the world...[WT][ED]
+
+
+//「なにか　いいほうほうが[BR]
+Did you find a way[BR]
+
+//　みつかったの？[WT]
+to bring her back?[WT]
+
+
+Block 126 -------------------------
+
+//ミりア「・・・・・・・・・・・・[WT][ED]
+Miria: ......[WT][ED]
+
+
+//セりア「かわいそうに・・・[BR]
+Ceria: Poor girl...[BR]
+
+//　ブカりに、オーラを[BR]
+This is all because[BR]
+
+//　すいとられたから・・・[WT][ED]
+Bucalli absorbed her aura.[WT][ED]
+
+
+//ブローチを　ミりアにてわたした。[WT][ED]
+You show Miria the brooch.[WT][ED]
+
+
+//ミりア「・・・・・・・・・・・・[WT]「・・・・・・・・・・・・・・・[WT]「・・・92・・・？[WT][ED]
+Miria: ......[WT]......[WT]...92?[WT][ED]
+
+
+//「・・・ここ、どこかしら？[WT][BR]
+...Where am I?[WT][BR]
+
+//「・・・どうしたの？92。[WT][BR]
+What's wrong, 92?[WT][BR]
+
+//「ルスランも・・・[WT][BR]
+Luthran, you too?[WT][BR]
+
+//「・・・・・・・・・、[WT][BR]
+......[WT][BR]
+
+//「やだなあ、ふたりとも・・・[WT][BR]
+Oh, stop it...[WT][BR]
+
+//「そんなふうにみられたら、[BR]
+Don't look at me like that,[BR]
+
+//　はずかしいじゃない。[WT]
+it's embarrassing![WT]
+
+
+Block 127 -------------------------
+
+//テバルヤ「ごぶさたしてます、[BR]
+Tabaliah: It's been a long time,[BR]
+
+//　ひめさま。こどものときに[BR]
+Princess. I still remember how[BR]
+
+//　あそんでいらい、ですね。[WT][ED]
+we used to play together, in our youth.[WT][ED]
+
+
+//セりア「そうね。ほんとうに[BR]
+Ceria: I remember too.[BR]
+
+//　ひさしぶり。げんきそうで[BR]
+It HAS been a long time.[BR]
+
+//　なによりだわ。[WT][BR]
+I'm glad to see you well.[WT][BR]
+
+//「ところで、テバルヤ。あたし、[BR]
+Could you let us through?[BR]
+
+//　とうさまを　たすけにいくの。[BR]
+I must go to my father's[BR]
+
+//　ここを、とおしてくれる？[WT][ED]
+place.[WT][ED]
+
+
+//テバルヤ「それは　できません。[BR]
+Tabaliah: I'm afraid not.[BR]
+
+//　わたしは、ブカりさまに[BR]
+I'm fighting on[BR]
+
+//　ついて　いるんです。[WT][BR]
+Lord Bucalli's side.[WT][BR]
+
+//「どうしても、というのなら・・・　わたしを　たおしてからに[BR]
+If you really wish to pass...[BR]
+
+//　してください。[WT][ED]
+You'll have to go through me.[WT][ED]
+
+
+//セりア「・・・・・・・・・・[WT][BR]
+Ceria: ......[WT][BR]
+
+//「あんたが　そういうの、[BR]
+Somehow, I knew you'd[BR]
+
+//　わかってたんだけどね。[WT][ED]
+say that.[WT][ED]
+
+
+//テバルヤ「ひめさま、もういちど　こどもの、ころに、もどって・・　ふたりで・・・[WT][ED]
+Tabaliah: Princess... I wish we could go back to those times... When we played together, without a care in the world......[WT][ED]
+
+
+//セりア「テバルヤ！！[WT][ED]
+Ceria: Tabaliah!![WT][ED]
+
+
+//セりア「・・・・・・なによ。[BR]
+Ceria: ...What?[BR]
+
+//　なにか　いいたいことでも[BR]
+If you have something[BR]
+
+//　あるの！？[WT][ED]
+to say, just say it![WT][ED]
+
+
+//ルスラン「セりア、げんきだせよ。　ブカりがみんなわるいんだ。[BR]
+Luthran: Don't feel bad, Ceria. This wasn't your fault.[BR]
+
+//　あいつをたおせば・・・[WT][ED]
+It's all because of Bucalli. Once we defeat him...[WT][ED]
+
+
+//セりア「・・・そうね。きっと、[BR]
+Ceria: ...Yes, I know.[BR]
+
+//　あんたの　いうとおりよね。[BR]
+Like you say, this is[BR]
+
+//　でも・・・[WT][BR]
+all his fault. However...[WT][BR]
+
+//「それまでに・・・、[BR]
+Am I supposed to keep feeling like[BR]
+
+//　あたしはなんど、こんなおもいを　すればいいの？[WT][BR]
+this until we finally get him?[WT][BR]
+
+//「どうじょうしてる　つもり？[BR]
+Why are you telling me this, anyway?[BR]
+
+//　わかったようなコトいわないで！[WT][ED]
+I don't need your pity! Don't talk to me as if you knew how I feel![WT][ED]
+
+
+//ルスラン「ごめんよ・・・[WT]
+Luthran: Sorry...[WT]
+
+
+Block 128 -------------------------
+
+//「えっ？　ひめさま！[WT][BR]
+P-Princess![WT][BR]
+
+//「・・・とうとう、ここまで[BR]
+So you've made it[BR]
+
+//　こられたのですか・・[WT][BR]
+this far...[WT][BR]
+
+//「わたしは　ブカりさまがわ[BR]
+I'm on Lord Bucalli's[BR]
+
+//　なんですが、ひめさまとは[BR]
+side, but I don't want[BR]
+
+//　たたかいたくない・・・[WT][BR]
+to fight you...[WT][BR]
+
+//「ここを　とおってください。[BR]
+You may pass.[BR]
+
+//　ブカりさまに　バレたとしても、　じぶんで　せきにんをとります[WT][ED]
+If Lord Bucalli finds out, I'll take responsibility.[WT][ED]
+
+
+//「ブカりさまについた[BR]
+There are many followers[BR]
+
+//　へいしにも、ひめさまを[BR]
+of Lord Bucalli who still[BR]
+
+//　したっているものは、[WT][BR]
+hold you in high regard.[WT][BR]
+
+//「まだ、たくさん　おります。[BR]
+Commander Kurdia[BR]
+
+//　たいちょうの　クルジアなども、　そのひとりですが・・・[WT][ED]
+should be among them.[WT][ED]
+
+
+//ルスラン「クルジア？[BR]
+Luthran: Kurdia?[BR]
+
+//　だれなの、そいつ？[WT][ED]
+Who's that?[WT][ED]
+
+
+//セりア「あたしの　けんの[BR]
+Ceria: He was my sword[BR]
+
+//　せんせい　だったのよ。でも、[BR]
+teacher. Will I have[BR]
+
+//　クルジアまでが　てきだなんて[WT][ED]
+to face him as well...?[WT][ED]
+
+
+//「・・・クルジアも、ひめさまの[BR]
+...I think Kurdia was[BR]
+
+//　てにかかることが　できて[BR]
+happy to be defeated[BR]
+
+//　よろこんで　いますよ。[WT]
+by you, Princess.[WT]
+
+
+Block 129 -------------------------
+
+//ルスラン「・・・セりア・・・[WT][ED]
+Luthran: Ceria...[WT][ED]
+
+
+//ルスラン「ミりアもしんぱいだけど　セりアも・・・[WT][BR]
+Luthran: Of course I'm worried about Miria, but I'm also worried about Ceria...[WT][BR]
+
+//「ミりアには　きみがついていて[BR]
+I know I can leave[BR]
+
+//　あげてくれ。[WT][ED]
+Miria in your care.[WT][ED]
+
+
+//ルスラン「ブローチ？・・・、[BR]
+Luthran: A brooch?[BR]
+
+//　そんなことがあったのか、[WT][BR]
+I didn't know about that.[WT][BR]
+
+//「よし、コイズンむらへ[BR]
+Alright, let's go[BR]
+
+//　もどろう。[WT][ED]
+back to Keuzon.[WT][ED]
+
+
+//ルスラン「・・・ぼくらだけで。[WT][ED]
+Luthran: ...Just the two of us.[WT][ED]
+
+
+//ルスラン「さあ、いそいで[BR]
+Luthran: No time to waste.[BR]
+
+//　ブローチをとってきてくれ。[WT][ED]
+Go get that brooch.[WT][ED]
+
+
+//ルスラン「さあ、そのブローチを[BR]
+Luthran: Show her that[BR]
+
+//　ミりアに・・・[WT][ED]
+brooch...[WT][ED]
+
+
+//／０ゃBAマCDＰふC9セりア「・・・すこし[BR]
+／０ゃBAマCDＰふC9Ceria: ...I'd like to[BR]
+
+//　ひとりに　しておいて・・・[WT]
+be alone for a while.[WT]
+
+
+Block 130 -------------------------
+
+//んな　ようけんだい？[ED]
+What do you need?[ED]
+
+
+//ぜんぶで[ED]
+In total, that will be [ED]
+
+
+//になるけど　いいかな？[ED]
+. Is that fine?[ED]
+
+
+//それは　かいとれないな。[WT][ED]
+I can't buy that.[WT][ED]
+
+
+//なにを　うってくれるんだ？[ED]
+What are you selling?[ED]
+
+
+//どれに　する？[ED]
+What will it be?[ED]
+
+
+//おかねが　たりないようだな。[WT][ED]
+You don't have enough money.[WT][ED]
+
+
+//[ED]
+[ED]
+
+
+//ほかに　ようは？[ED]
+Need anything else?[ED]
+
+
+//どうもありがとう。[WT][ED]
+Thank you.[WT][ED]
+
+
+//またな。[WT][ED]
+See you again.[WT][ED]
+
+
+//また　あおう。[WT][ED]
+See you soon.[WT][ED]
+
+
+//もう、もちきれないみたいだな。[WT][ED]
+You're carrying too much.[WT][ED]
+
+
+//いくつだい？[ED]
+How many?[ED]
+
+
+//これでいいかい？[ED]
+Is this okay?[ED]
+
+
+//それなら
+Then, 
+
+
+Block 131 -------------------------
+
+//「こっちがわには、ブカりさまの[BR]
+Followers of[BR]
+
+//　みかたを　しているものが[BR]
+Lord Bucalli[BR]
+
+//　いるんだ。[WT][ED]
+are on this side.[WT][ED]
+
+
+//CDD9ぬ「ひめさま、もう　おとうさまの[BR]
+CDD9ぬI'm sorry Princess,[BR]
+
+//　じだいじゃ　ないんですよ！[BR]
+but your father's era[BR]
+
+//　にんげんのとちを　うばって、[WT][BR]
+is over![WT][BR]
+
+//「にんげんを　しはいして、[BR]
+We must conquer the human[BR]
+
+//　まぞくも　どんどん　おおきく[BR]
+world, and rule over them![BR]
+
+//　なって　いかなくちゃ！[WT][ED]
+We Magi are superior![WT][ED]
+
+
+//CDD9ぬ「ひめさま！　にんげんのみかた[BR]
+CDD9ぬPrincess! You have[BR]
+
+//　なんかしても、[BR]
+nothing to gain by[BR]
+
+//　いいコトありませんよ！[WT][ED]
+allying with humans![WT][ED]
+
+
+//CDD9ぬ「ひめさま、ひがしのほこらを[BR]
+CDD9ぬPrincess, are you heading[BR]
+
+//　とおって、おしろに[BR]
+to the eastern shrine,[BR]
+
+//　いかれるのですな？[WT][BR]
+towards the castle?[WT][BR]
+
+//「ならば、おうさまを[BR]
+Then please, you must[BR]
+
+//　せっとくして　くだされ。[WT][BR]
+speak to the King.[WT][BR]
+
+//「ブカりさまの　いけんのほうが[BR]
+Tell him that Lord Bucalli[BR]
+
+//　これからの　まぞくのため[BR]
+is merely doing what is[BR]
+
+//　ですぞ、と・・・[WT][ED]
+best for the Magi...[WT][ED]
+
+
+//CDD9ぬ「わかいものは　みんな、[BR]
+CDD9ぬThose young enough to[BR]
+
+//　おしろでの　たたかいに[BR]
+fight went to the castle[BR]
+
+//　かりだされて　しまったのです[WT][ED]
+for the battle.[WT][ED]
+
+
+//CDD9ぬ「こちらがわは、ピニオンおうの[BR]
+CDD9ぬFollowers of King Pinion[BR]
+
+//　みかたのものたちじゃ。[WT][ED]
+are on this side.[WT][ED]
+
+
+//CDD9ぬ「ブカりは　まちがってるわよ！[BR]
+CDD9ぬBucalli is wrong![BR]
+
+//　にんげんとだって　なかよく[BR]
+We should get along well[BR]
+
+//　すればいいじゃない！　ねえ？[WT][ED]
+with the humans! Right?[WT][ED]
+
+
+//CDD9ぬ「おしろの　なかではもう、[BR]
+CDD9ぬThe two sides are[BR]
+
+//　ブカりがわと　おうさまがわ[BR]
+already fighting at[BR]
+
+//　との　たたかいが[WT][BR]
+the castle.[WT][BR]
+
+//「はじまっているそうです。[BR]
+Unfortunately, it[BR]
+
+//　ざんねんながら　ブカりがわが[BR]
+seems that Bucalli's[BR]
+
+//　ゆうせいだそうで・・・[WT][ED]
+side is winning...[WT][ED]
+
+
+//ゃスみCDD8ぬにみCCFEすC0は　CDA6１C0／０ゃCBみCDＰふは　CDモ１C9「ひめさま！　ひがしのほこらは[BR]
+ゃスみCDD8ぬにみCCFEすC0は　CDA6１C0／０ゃCBみCDＰふは　CDモ１C9Princess! Did you know[BR]
+
+//　テバルヤが　まもってるんです。　しってましたか？[WT][BR]
+that the eastern shrine is guarded by Tabaliah?[WT][BR]
+
+//「なかの　よかった　おふたりが[BR]
+You were so close,[BR]
+
+//　てき、みかたにわかれる[BR]
+but now you are enemies...[BR]
+
+//　なんて。わたし、かなしくて。[WT][ED]
+It's so sad.[WT][ED]
+
+
+//セりア「テバルヤ！[BR]
+Ceria: Tabaliah?![BR]
+
+//　あのこが　ブカりがわに[BR]
+I can't believe he'd[BR]
+
+//　ついてるなんて・・・[WT][ED]
+follow Bucalli...[WT][ED]
+
+
+//CDD9ぬ「ここはシモアっていうむらだよ。[WT]「・・・おとうさんたちは[BR]
+CDD9ぬThis is Cimore.[WT]...For some reason,[BR]
+
+//　なんで、けんかしてんだろ。[WT][ED]
+the adults are fighting.[WT][ED]
+
+
+//CDD9ぬ「バッカみたい。[WT][ED]
+CDD9ぬThey're all acting strange.[WT][ED]
+
+
+//は。CDEB１C2よむ／６ゃわむCDＰふは。CDC7１ゃ２めC3へふ「よう、おそかったな、どっかで[BR]
+は。CDEB１C2よむ／６ゃわむCDＰふは。CDC7１ゃ２めC3へふHowdy! What took you so long?[BR]
+
+//　くたっばったかとおもったよ。[WT][BR]
+I thought you got yourself killed.[WT][BR]
+
+//「・・・むらのようすをみたかい？　ひどいもんだ。これじゃ[BR]
+What a mess, huh? How am I supposed[BR]
+
+//　しょうばいに　なりゃしない。[WT][BR]
+to sell my wares like this?[WT][BR]
+
+//「それどころじゃないって？[BR]
+This isn't the time, you say?[BR]
+
+//　ハハ、そりゃそうだ。[WT][BR]
+Hahah, I guess so.[WT][BR]
+
+//「いや、じつのところ[BR]
+I'll be honest, I[BR]
+
+//　おまえさんたちを　おっかけて[BR]
+followed you all[BR]
+
+//　きたのさ。[WT][BR]
+the way here.[WT][BR]
+
+//「ホント、ホントだって。[WT][BR]
+Yeah, I'm serious![WT][BR]
+
+//「だからなんか　かってきなよ。[WT][ED]
+So you'd better buy something![WT][ED]
+
+
+//０８ほ「オカキヌゃすめCDE8ぬし０ゃよめCDD8ぬC9ゃなめCDD8ぬCDセへは　／！CDさねC9「とまってく？[ED]
+０８ほ「オカキヌゃすめCDE8ぬし０ゃよめCDD8ぬC9ゃなめCDD8ぬCDセへは　／！CDさねC9Are you staying?[ED]
+
+
+「３めいさま、ごあんなーい。[WT][ED]
+We have three guests.[WT][ED]
+
+
+「また、おこしくださーい。[WT]
+Please come again.[WT]
+
+
+Block 132 -------------------------
+
+//ふういんされている。[WT]
+It's sealed.[WT]
+
+
+Block 133 -------------------------
+
+//ピニオン「あぶないから、[BR]
+Pinion: Stand back![BR]
+
+//　さがって　いなさい！[WT][ED]
+It's too dangerous![WT][ED]
+
+
+//ブカり「きさまら、まだ[BR]
+Bucalli: You're still[BR]
+
+//　いきて　いたのか？[BR]
+alive?[BR]
+
+//　ふん、まあいい。[WT][BR]
+Hmph. That works for me.[WT][BR]
+
+//「ピニオンの　さいごを、[BR]
+You'll get to witness[BR]
+
+//　そのめで　よくみていろ！[WT][ED]
+Pinion's last breath![WT][ED]
+
+
+//ブカり「ハァ・ハァ・・・[BR]
+Bucalli: *huff* *huff*[BR]
+
+//　てこずらせおって・・・！[WT][BR]
+He was certainly strong...[WT][BR]
+
+//「とどめだ！[WT][ED]
+But it's over now![WT][ED]
+
+
+//セりア「まちなさい！[WT][ED]
+Ceria: Stop![WT][ED]
+
+
+//セりア「これいじょう、おうを、[BR]
+Ceria: I won't let you harm[BR]
+
+//　とうさまを　きずつけるのは[BR]
+the King - my father[BR]
+
+//　ゆるさない！！[WT][ED]
+anymore![WT][ED]
+
+
+//ブカり「フン、そのきずでは[BR]
+Bucalli: ...No matter.[BR]
+
+//　ほうっておいても　そうながくは　もつまい。[WT][BR]
+He won't survive those injuries anyway.[WT][BR]
+
+//「だが、わたしもつかれた。[BR]
+I'd deal with you myself,[BR]
+
+//　おまえたちの　あいては[BR]
+but I am somewhat tired...[BR]
+
+//　このものに　させるとしよう。[WT][ED]
+So I'll have HIM take care of you.[WT][ED]
+
+
+//ブカり「このもののこころ、すでに　ひとにあらず。おまえたちのこと　も　おぼえては　いまい。[WT][BR]
+Bucalli: His human heart is no more. If he had any memories of you, he has long since lost them.[WT][BR]
+
+//「わたしをも、くるしめた[BR]
+He was strong enough[BR]
+
+//　このおとこを　おまえたちに[BR]
+to give ME trouble...[BR]
+
+//　たおせるかな？[WT][ED]
+How long can you survive against him?[WT][ED]
+
+
+//セりア「ダメ！あなたとは[BR]
+Ceria: No, stop![BR]
+
+//　たたかえないわ！[WT][ED]
+We don't want to fight you![WT][ED]
+
+
+//「！！！[WT][ED]
+!!![WT][ED]
+
+
+//ルスラン「ハ、ハンネス！[BR]
+Luthran: H-Hannes?![BR]
+
+//　なんてこった・・・！[WT][ED]
+How could this be...?![WT][ED]
+
+
+//セりア「え、このひと・・・[BR]
+Ceria: You mean...[BR]
+
+//　92のおとうさん！？[BR]
+He's 92's father?![BR]
+
+//　・・・ああ！！[WT][ED]
+...Ah![WT][ED]
+
+//ハンネス「・・・・・・・[WT][BR]
+Hannes: ......[WT][BR]
+
+//「92・・・つよくなったな、　・・・みちがえたぞ・・・[BR]
+You've become so strong, 92... I could hardly recognize you...[BR]
+
+//　なにを　なくことがある？[WT][BR]
+Why do you cry...?[WT][BR]
+
+//「・・・ルスランも・・・[BR]
+You too, Luthran...?[BR]
+
+//　おまえたちは　わたしをたおす[BR]
+Don't blame yourselves.[BR]
+
+//　しか　なかったのだ・・・[WT][BR]
+There was no other way...[WT][BR]
+
+//「・・・セりア、といったね・・・　これからはきみたちの　じだいだ　このこたちと　なかよく、な。[WT][BR]
+...Ceria, was it? Please, get along with them. You are the new generation...[WT][BR]
+
+//「・・・92・・・[WT][BR]
+...92...[WT][BR]
+
+//「ミりアのこと・・・[WT][BR]
+Please take care...[WT][BR]
+
+//「・・・それにかあさんたち・・[WT][BR]
+...of Miria...[WT][BR]
+
+//「・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「たのんだぞ・・・[WT][BR]
+...and our family...[WT][BR]
+
+//「・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「・・・・[WT][ED]
+...[WT][ED]
+
+
+//「！！！[WT][ED]
+!!![WT][ED]
+
+
+//ルスラン「ハンネス！・・・[WT][ED]
+Luthran: Hanness...![WT][ED]
+
+
+//セりア「・・・・！[WT][ED]
+Ceria: ...![WT][ED]
+
+
+//ピニオン「なんということだ・・・[WT]「こんなことになるとは・・・[WT][BR]
+Pinion: Such a tragedy...[WT]How could you be so cruel, Bucalli?[WT][BR]
+
+//「ブカりのやつめ・・・！[BR]
+He must pay for all he's done...[BR]
+
+//　・・・・ウッ・・・[WT][ED]
+...Urgh...[WT][ED]
+
+
+//セりア「とうさま！[WT][ED]
+Ceria: Father![WT][ED]
+
+
+//ピニオン「だいじょうぶ。[BR]
+Pinion: I'm fine.[BR]
+
+//　わしのことより　ブカりのヤツを　なんとかせねば・・・[WT][BR]
+We should focus on Bucalli for now.[WT][BR]
+
+//「ヤツめ、いぜんとはくらべものに　ならぬほどの　ちからを[BR]
+He was never this strong before.[BR]
+
+//　つけている・・・[WT][BR]
+He has accumulated great power...[WT][BR]
+
+//「いかにして　てにいれたものか、　だが、まだうまくコントロール[BR]
+However, I believe he hasn't fully[BR]
+
+//　できずにいる・・・[WT][BR]
+mastered it yet.[WT][BR]
+
+//「たおすなら　いましかない。[WT][ED]
+If he is to be stopped, it must be done now.[WT][ED]
+
+
+//ピニオン「92とやら・・・[BR]
+Pinion: 92.[BR]
+
+//　そなた、いってはくれぬか？[WT][ED]
+Will you undertake this task?[WT][ED]
+
+
+//ルスラン「・・・92・・・[WT][BR]
+Luthran: ...92...[WT][BR]
+
+
+//「アイツをたおさなければ[BR]
+We have to do this.[BR]
+
+//　ミりアは　もとに[BR]
+Miria will never go back to[BR]
+
+//　もどらないんだよ・・・[WT]
+normal unless we defeat him.[WT]
+
+
+Block 134 -------------------------
+
+//ブカり「フン、そのきずでは[BR]
+Bucalli: ...No matter.[BR]
+
+//　ほうっておいても　そうながくは　もつまい。[WT][BR]
+He won't survive those injuries anyway.[WT][BR]
+
+//「だが、おまえたちが　おうの[BR]
+But if you're fighting[BR]
+
+//　かわりというなら、こちらも[BR]
+in the King's place, then[BR]
+
+//　かわりのものを　だそうか。[WT][ED]
+I'll bring out my own champion.[WT][ED]
+
+
+//？？？「ウオォー！[WT][ED]
+???: ROAAAAR![WT][ED]
+
+
+//ピニオン「だいじょうぶ、[BR]
+Pinion: You won't have[BR]
+
+//　こうげきしたわけじゃない。[WT][BR]
+to fight him.[WT][BR]
+
+//「みよ！[WT][ED]
+Behold![WT][ED]
+
+
+//ハンネス「おお！　92！[WT][BR]
+Hannes: Ah, 92![WT][BR]
+
+//「・・・そうか、にんげんに[BR]
+I'm back to[BR]
+
+//　もどれたのか！[WT][ED]being 
+human![WT][ED]
+
+
+//「ピニオンおう、かんしゃします。[WT][ED]
+Thank you, King Pinion.[WT][ED]
+
+
+//「ブカりよ、わたしのもくてきは[BR]
+Bucalli! I only have[BR]
+
+//　ただひとつ、[WT][BR]
+one goal.[WT][BR]
+
+//「おまえを　たおすこと、[WT][BR]
+To defeat you![WT][BR]
+
+//「おまえを　たおして、[BR]
+Once you're dead,[BR]
+
+//　ミりアを　とりもどすことだ！[WT][BR]
+Miria will recover.[WT][BR]
+
+//「ゆくぞ！[WT][ED]
+Prepare yourself![WT][ED]
+
+
+//セりア「これいじょう、おまえの[BR]
+Ceria: You won't[BR]
+
+//　すきにはさせないわ！[WT][ED]
+get away with this![WT][ED]
+
+
+//ブカり「クソッ・・・！[WT][ED]
+Bucalli: Damn you...![WT][ED]
+
+
+//ハンネス「・・・92、[BR]
+Hannes: ...92...[BR]
+
+//　たくましくなったな・・・[BR]
+You're so strong now...[BR]
+
+//　みちがえるようだ・・・[WT][BR]
+I could hardly recognize you...[WT][BR]
+
+//「なくことはない・・・[BR]
+There's no need to cry...[BR]
+
+//　・・・ルスランも・・・よく[BR]
+Luthran... Thank you[BR]
+
+//　92を　たすけてきてくれた[WT][BR]
+for being there for 92...[WT][BR]
+
+//「・・・セりア、といったね・・・　これからはきみたちの　じだいだ　このこたちと　なかよくな・・[WT][BR]
+...Ceria, was it? Please, get along with them. You are the new generation...[WT][BR]
+
+//「・・・92・・・[WT][BR]
+...92...[WT][BR]
+
+//「ミりアのこと・・・[WT][BR]
+Please take care...[WT][BR]
+
+//「・・・それにかあさんたち・・[WT][BR]
+...of Miria...[WT][BR]
+
+//「・・・・・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「たのんだぞ・・・[WT][BR]
+...and our family...[WT][BR]
+
+//「・・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「・・・・[WT]
+...[WT]
+
+
+Block 135 -------------------------
+
+//ルスラン「まってくれよ！[WT][ED]
+Luthran: Please wait![WT][ED]
+
+
+//セりア「まってよ！[WT]
+Ceria: Wait![WT]
+
+
+Block 136 -------------------------
+
+//「ブカりに　とっぱされて[BR]
+Bucalli's forces made[BR]
+
+//　しまいました・・・[BR]
+it through...[BR]
+
+//　おうが　あぶない・・・[WT]
+The King is in danger...[WT]
+
+
+Block 137 -------------------------
+
+//「ひめさま、すいません。[BR]
+Forgive us, Princess...[BR]
+
+//　おしろを　まもりきることが[BR]
+We couldn't defend[BR]
+
+//　できませんでした・・・[WT][ED]
+the castle...[WT][ED]
+
+
+//ゃフ、CDD8ぬは６CDC7１は。C3（、「ブカりといっしょに　クルジアが　います。まさか、かれが[BR]
+ゃフ、CDD8ぬは６CDC7１は。C3（、Kurdia was with Bucalli...[BR]
+
+//　ブカりにつくとは・・・[WT][ED]
+I still can't believe it...[WT][ED]
+
+
+//ゃBC、CDD8ぬは７CDC7１は×C3（、「ひめさま・・・、クルジアを[BR]
+ゃBC、CDD8ぬは７CDC7１は×C3（、Princess... You're the[BR]
+
+//　せっとくできるのは[BR]
+only one who can persuade[BR]
+
+//　あなた　だけです・・・[WT][ED]
+Kurdia to stop...[WT][ED]
+
+
+//ゃF8、CDD8ぬは８CDC7１は−C3（、「ブカりが　おうのおへやに[BR]
+ゃF8、CDD8ぬは８CDC7１は−C3（、Bucalli is in the[BR]
+
+//　はいっていきました・・・[BR]
+throne room...[BR]
+
+//　・・・はやく　おへやへ・・・[WT]
+Please hurry...[WT]
+
+
+Block 138 -------------------------
+
+//クルジア「ひめさま、ここから[BR]
+Kurdia: I can't let[BR]
+
+//　さきは、とおす　わけには[BR]
+you go any further,[BR]
+
+//　まいりませんぞ！[WT][ED]
+Princess![WT][ED]
+
+
+//セりア「あなたまで、ジャマを[BR]
+Ceria: Are you going to[BR]
+
+//　しようっていうの！？[WT][BR]
+stand against me as well?![WT][BR]
+
+//「むかしは　とうさまに、よく[BR]
+You were always[BR]
+
+//　つかえて　くれていたじゃ[BR]
+loyal to my father[BR]
+
+//　ないの！[WT][ED]
+before![WT][ED]
+
+
+//クルジア「・・・・・わたしは[BR]
+Kurdia: ...I am a soldier.[BR]
+
+//　せんしです。たたかいこそが[BR]
+I only live to[BR]
+
+//　ほんぶん。[WT][BR]
+fight.[WT][BR]
+
+//「このダレきった　よのなかに[BR]
+I have no place[BR]
+
+//　わたしの　いきるばしょは[BR]
+in a world without[BR]
+
+//　ありません。[WT][BR]
+battle.[WT][BR]
+
+//「なれば、じぶんでつくるのみ！[WT][ED]
+Hence, I cannot abide by that![WT][ED]
+
+
+//セりア「そんなのおかしいわ！[BR]
+Ceria: No, that can't be right![BR]
+
+//　へいわにくらしたって[BR]
+There's nothing wrong with a peaceful world![BR]
+
+//　いいじゃない！まちがってる！[WT][ED]
+YOU are mistaken![WT][ED]
+
+
+//クルジア「・・・では　その[BR]
+Kurdia: ...In that case, let us settle[BR]
+
+//　まちがいを　ただしてください。[WT]「あなたの　そのけんで！[WT][ED]
+who is right and who is wrong...[WT]With our blades![WT][ED]
+
+
+//クルジア「ひめさま、おつよく[BR]
+Kurdia: You've grown[BR]
+
+//　なられましたな・・・[WT][ED]
+strong, Princess...[WT][ED]
+
+
+//セりア「・・・・・・・[WT][ED]
+Ceria: ......[WT][ED]
+
+
+//ルスラン「・・・、セりア・・・[WT][ED]
+Luthran: ...Ceria...[WT][ED]
+
+
+//セりア「・・・だまっててよ！[WT][BR]
+Ceria: SHUT UP! Not another word![WT][BR]
+
+//「また、なにかくだらない[BR]
+If I hear more of[BR]
+
+//　こといったら・・・[BR]
+your pity...[BR]
+
+//　ひっぱたくからね！[WT][ED]
+...I'll slap you![WT][ED]
+
+
+//ルスラン「・・・・・・[WT]
+Luthran: ......[WT]
+
+
+Block 139 -------------------------
+
+//ニオン「いってくれるな？[ED]
+Pinion: Will you go?[ED]
+
+
+//ピニオン「ありがとう・・・[WT][BR]
+Pinion: Thank you...[WT][BR]
+
+//「これを　もっていきなさい。[WT][ED]
+Take this.[WT][ED]
+
+
+//キングジュエルをうけとった[WT][ED]
+Received the King Jewel.[WT][ED]
+
+
+//ピニオン「ブカりとの[BR]
+Pinion: It will prove[BR]
+
+//　たたかいのときに[BR]
+useful in your battle[BR]
+
+//　きっと　やくにたつはず。[WT][ED]
+against Bucalli.[WT][ED]
+
+
+//ピニオン「・・・そなたしか[BR]
+Pinion: ...You're the only[BR]
+
+//　おらんのだ・・・[WT][ED]
+one who can do this.[WT][ED]
+
+
+//ピニオン「さあ、いそぐのだ。[WT]
+Pinion: You must hurry.[WT]
+
+
+Block 140 -------------------------
+
+//かたみのつるぎを　てにとった。[WT][ED]
+You take the Keepsake Sword.[WT][ED]
+
+
+//「・・・・[WT][ED]
+......[WT][ED]
+
+
+//にみCCFEちC0は！CDA6１を２／−ゃ１ャCDＥふC9／−ゃこャCDＥふは−CDチそは３Ｘつルスラン「あいつを[BR]
+にみCCFEちC0は！CDA6１を２／−ゃ１ャCDＥふC9／−ゃこャCDＥふは−CDチそは３ＸつLuthran: Miria will[BR]
+
+//　たおさなくちゃミりアは[BR]
+never recover[BR]
+
+//　もどらないんだぞ。[WT][ED]
+unless we defeat him.[WT][ED]
+
+
+//ルスラン「よし　いそごう！[WT]
+Luthran: Let's go![WT]
+
+
+Block 141 -------------------------
+
+//セりア「・・・あなたが[BR]
+Ceria: ...This wasn't[BR]
+
+//　わるいんじゃないわ・・・[WT][ED]
+your fault...[WT][ED]
+
+
+//セりア「さあ　いきましょう！[WT][ED]
+Ceria: Alright, let's go![WT][ED]
+
+
+//セりア「とうさま、いってきます。[WT][ED]
+Ceria: We're leaving, Father.[WT][ED]
+
+
+//ピニオン「・・・うむ、[BR]
+Pinion: Very well.[BR]
+
+//　きをつけてな・・・[WT][BR]
+Please be careful.[WT][BR]
+
+//「ふたりとも、むすめのこと[BR]
+I'm entrusting my daughter's[BR]
+
+//　よろしくたのむ・・・[WT][BR]
+life in your hands.[WT][BR]
+
+//「セりアよ・・・[WT][BR]
+Ceria...[WT][BR]
+
+//「ハイランディアのこと・・・[BR]
+The future of Highlandia...[BR]
+
+//　まぞくのたみのこと・・・[WT][BR]
+and the entire Magi race...[WT][BR]
+
+//「・・・たのんだぞ・・・！[WT][ED]
+...is in your hands...[WT][ED]
+
+
+//セりア「・・・！！・・・[WT][BR]
+Ceria: ...![WT][BR]
+
+//「・・・わかりました・・・[WT][BR]
+...I understand...[WT][BR]
+
+//「・・・・・・・・[WT][BR]
+......[WT][BR]
+
+//「・・・とうさま・・・[WT]
+...Father...[WT]
+
+
+Block 142 -------------------------
+
+//「いくぞ！[WT]
+Let's do this![WT]
+
+
+Block 143 -------------------------
+
+//ブカり「・・・！　ここまで[BR]
+Bucalli: You...[BR]
+
+//　やってきたか・・・[WT][BR]
+You actually made it.[WT][BR]
+
+//「・・・ここまで[BR]
+I have no idea how you've[BR]
+
+//　おいつめられようとは・・・[WT][BR]
+managed to survive this long.[WT][BR]
+
+//「だが、おまえたちのような[BR]
+But if you think I'm going to[BR]
+
+//　こどもごときに、まけるわけには　いかんぞ・・・！[WT][ED]
+let a bunch of brats like you defeat me, you'll be sorely mistaken...[WT][ED]
+
+
+//ブカり「むねんだ・・・[WT][BR]
+Bucalli: Damn it all...[WT][BR]
+
+//「・・・わたしは　どこかで・・・　まちがいをおかしたのだろうか・　・・・・・[WT][ED]
+My plan was supposed to be perfect... Where have I gone wrong...?[WT][ED]
+
+
+//セりア「・・・さあ、ミりアの[BR]
+Ceria: ...I'll stay here.[BR]
+
+//　ようすを　みてあげて・・・[WT]
+You go check on Miria.[WT]
+
+
+Block 144 -------------------------
+
+//かぎが　かかっている。[WT]
+It's locked.[WT]
+
+
+Block 145 -------------------------
+
+//ド「・・・ダメだ。[BR]
+Vado: ...We were too late.[BR]
+
+//　こときれている・・・[WT][ED]
+He has passed away...[WT][ED]
+
+
+//93を　みつけた。[WT][ED]
+93 found.[WT][ED]
+
+
+//バド「これをもってかえろう。[WT]
+Vado: Let's take this back with us.[WT]
+

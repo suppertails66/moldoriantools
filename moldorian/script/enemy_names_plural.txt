@@ -1,0 +1,1057 @@
+
+//=======================================
+// monsters
+//=======================================
+
+// substring 0
+#STARTMSG(0x4A195, 5, 1)
+
+// フレット[end]
+Frets
+[end]
+
+
+#ENDMSG()
+
+// substring 1
+#STARTMSG(0x4A19A, 8, 1)
+
+// ボムフレット[end]
+Bomb Frets
+[end]
+
+
+#ENDMSG()
+
+// substring 2
+#STARTMSG(0x4A1A2, 7, 1)
+
+// ウッドマン[end]
+Woodmen
+[end]
+
+
+#ENDMSG()
+
+// substring 3
+#STARTMSG(0x4A1A9, 6, 1)
+
+// タールマン[end]
+Tarmen
+[end]
+
+
+#ENDMSG()
+
+// substring 4
+#STARTMSG(0x4A1AF, 9, 1)
+
+// じゅじゅつし[end]
+Shamans
+[end]
+
+
+#ENDMSG()
+
+// substring 5
+#STARTMSG(0x4A1B8, 7, 1)
+
+// ウォーロック[end]
+Warlocks
+[end]
+
+
+#ENDMSG()
+
+// substring 6
+#STARTMSG(0x4A1BF, 9, 1)
+
+// マッドメイジ[end]
+Mad Mages
+[end]
+
+
+#ENDMSG()
+
+// substring 7
+#STARTMSG(0x4A1C8, 9, 1)
+
+// グレイメイジ[end]
+Gray Mages
+[end]
+
+
+#ENDMSG()
+
+// substring 8
+#STARTMSG(0x4A1D1, 6, 1)
+
+// スラッグ[end]
+Slugs
+[end]
+
+
+#ENDMSG()
+
+// substring 9
+#STARTMSG(0x4A1D7, 6, 1)
+
+// ブロブ[end]
+Blobs
+[end]
+
+
+#ENDMSG()
+
+// substring 10
+#STARTMSG(0x4A1DD, 7, 1)
+
+// おおこうもり[end]
+Giant Bats
+[end]
+
+
+#ENDMSG()
+
+// substring 11
+#STARTMSG(0x4A1E4, 7, 1)
+
+// バンピー[end]
+Vampire Bats
+[end]
+
+
+#ENDMSG()
+
+// substring 12
+#STARTMSG(0x4A1EB, 8, 1)
+
+// もぐねずみ[end]
+Molerats
+[end]
+
+
+#ENDMSG()
+
+// substring 13
+#STARTMSG(0x4A1F3, 8, 1)
+
+// ぺルシダー[end]
+Pellucidars
+[end]
+
+
+#ENDMSG()
+
+// substring 14
+#STARTMSG(0x4A1FB, 11, 1)
+
+// ランドダイバー[end]
+Land Divers
+[end]
+
+
+#ENDMSG()
+
+// substring 15
+#STARTMSG(0x4A206, 9, 1)
+
+// どくろバット[end]
+Skull Bats
+[end]
+
+
+#ENDMSG()
+
+// substring 16
+#STARTMSG(0x4A20F, 8, 1)
+
+// ケツアルカトル[end]
+Quetzalcoatls
+[end]
+
+
+#ENDMSG()
+
+// substring 17
+#STARTMSG(0x4A217, 6, 1)
+
+// おおぐも[end]
+Giant Spiders
+[end]
+
+
+#ENDMSG()
+
+// substring 18
+#STARTMSG(0x4A21D, 11, 1)
+
+// ポイズンバグ[end]
+Poison Bugs
+[end]
+
+
+#ENDMSG()
+
+// substring 19
+#STARTMSG(0x4A228, 7, 1)
+
+// ジャンパ[end]
+Jumpers
+[end]
+
+
+#ENDMSG()
+
+// substring 20
+#STARTMSG(0x4A22F, 8, 1)
+
+// イビルホーク[end]
+Evil Hawks
+[end]
+
+
+#ENDMSG()
+
+// substring 21
+#STARTMSG(0x4A237, 6, 1)
+
+// ハーピー[end]
+Harpies
+[end]
+
+
+#ENDMSG()
+
+// substring 22
+#STARTMSG(0x4A23D, 6, 1)
+
+// コカトりス[end]
+Cockatrices
+[end]
+
+
+#ENDMSG()
+
+// substring 23
+#STARTMSG(0x4A243, 4, 1)
+
+// ミスト[end]
+Mists
+[end]
+
+
+#ENDMSG()
+
+// substring 24
+#STARTMSG(0x4A247, 6, 1)
+
+// ハイダー[end]
+Hydres
+[end]
+
+
+#ENDMSG()
+
+// substring 25
+#STARTMSG(0x4A24D, 6, 1)
+
+// きりあくま[end]
+Fog Demons
+[end]
+
+
+#ENDMSG()
+
+// substring 26
+#STARTMSG(0x4A253, 10, 1)
+
+// ポイズンガス[end]
+Poison Gases
+[end]
+
+
+#ENDMSG()
+
+// substring 27
+#STARTMSG(0x4A25D, 7, 1)
+
+// ウォーアント[end]
+War Ants
+[end]
+
+
+#ENDMSG()
+
+// substring 28
+#STARTMSG(0x4A264, 6, 1)
+
+// アントラス[end]
+Antlases
+[end]
+
+
+#ENDMSG()
+
+// substring 29
+#STARTMSG(0x4A26A, 8, 1)
+
+// ゴールドン[end]
+Goldons
+[end]
+
+
+#ENDMSG()
+
+// substring 30
+#STARTMSG(0x4A272, 8, 1)
+
+// キングアント[end]
+King Ants
+[end]
+
+
+#ENDMSG()
+
+// substring 31
+#STARTMSG(0x4A27A, 8, 1)
+
+// マッドホース[end]
+Mad Horses
+[end]
+
+
+#ENDMSG()
+
+// substring 32
+#STARTMSG(0x4A282, 9, 1)
+
+// ブラックホース[end]
+Black Horses
+[end]
+
+
+#ENDMSG()
+
+// substring 33
+#STARTMSG(0x4A28B, 4, 1)
+
+// オーク[end]
+Orks
+[end]
+
+
+#ENDMSG()
+
+// substring 34
+#STARTMSG(0x4A28F, 8, 1)
+
+// ケーブオーク[end]
+Cave Orks
+[end]
+
+
+#ENDMSG()
+
+// substring 35
+#STARTMSG(0x4A297, 8, 1)
+
+// ピッグマン[end]
+Pigmen
+[end]
+
+
+#ENDMSG()
+
+// substring 36
+#STARTMSG(0x4A29F, 6, 1)
+
+// ゴースト[end]
+Ghosts
+[end]
+
+
+#ENDMSG()
+
+// substring 37
+#STARTMSG(0x4A2A5, 6, 1)
+
+// ファントム[end]
+Phantoms
+[end]
+
+
+#ENDMSG()
+
+// substring 38
+#STARTMSG(0x4A2AB, 6, 1)
+
+// しのつかい[end]
+Death Emissaries
+[end]
+
+
+#ENDMSG()
+
+// substring 39
+#STARTMSG(0x4A2B1, 6, 1)
+
+// ゾンビ[end]
+Zombies
+[end]
+
+
+#ENDMSG()
+
+// substring 40
+#STARTMSG(0x4A2B7, 5, 1)
+
+// グール[end]
+Ghouls
+[end]
+
+
+#ENDMSG()
+
+// substring 41
+#STARTMSG(0x4A2BC, 10, 1)
+
+// グールコマンド[end]
+Ghoul Commanders
+[end]
+
+
+#ENDMSG()
+
+// substring 42
+#STARTMSG(0x4A2C6, 8, 1)
+
+// ノスフェラトウ[end]
+Nosferatus
+[end]
+
+
+#ENDMSG()
+
+// substring 43
+#STARTMSG(0x4A2CE, 5, 1)
+
+// おにび[end]
+Will-o'-Wisps
+[end]
+
+
+#ENDMSG()
+
+// substring 44
+#STARTMSG(0x4A2D3, 7, 1)
+
+// エシシュロン[end]
+Asherons
+[end]
+
+
+#ENDMSG()
+
+// substring 45
+#STARTMSG(0x4A2DA, 9, 1)
+
+// デビルトーチ[end]
+Devil Torches
+[end]
+
+
+#ENDMSG()
+
+// substring 46
+#STARTMSG(0x4A2E3, 7, 1)
+
+// バイパー[end]
+Vipers
+[end]
+
+
+#ENDMSG()
+
+// substring 47
+#STARTMSG(0x4A2EA, 10, 1)
+
+// デビルロープ[end]
+Devil Ropes
+[end]
+
+
+#ENDMSG()
+
+// substring 48
+#STARTMSG(0x4A2F4, 6, 1)
+
+// ゴーレム[end]
+Golems
+[end]
+
+
+#ENDMSG()
+
+// substring 49
+#STARTMSG(0x4A2FA, 9, 1)
+
+// かせきぼうず[end]
+Ancient Statues
+[end]
+
+
+#ENDMSG()
+
+// substring 50
+#STARTMSG(0x4A303, 4, 1)
+
+// タロス[end]
+Taloses
+[end]
+
+
+#ENDMSG()
+
+// substring 51
+#STARTMSG(0x4A307, 7, 1)
+
+// マンイーター[end]
+Man Eaters
+[end]
+
+
+#ENDMSG()
+
+// substring 52
+#STARTMSG(0x4A30E, 9, 1)
+
+// デスタイガー[end]
+Death Tigers
+[end]
+
+
+#ENDMSG()
+
+// substring 53
+#STARTMSG(0x4A317, 7, 1)
+
+// オクトサタン[end]
+Octosatans
+[end]
+
+
+#ENDMSG()
+
+// substring 54
+#STARTMSG(0x4A31E, 11, 1)
+
+// スワンプデビル[end]
+Swamp Devils
+[end]
+
+
+#ENDMSG()
+
+// substring 55
+#STARTMSG(0x4A329, 9, 1)
+
+// マーダーべア[end]
+Murder Bears
+[end]
+
+
+#ENDMSG()
+
+// substring 56
+#STARTMSG(0x4A332, 11, 1)
+
+// デスグりズりー[end]
+Death Grizzlies
+[end]
+
+
+#ENDMSG()
+
+// substring 57
+#STARTMSG(0x4A33D, 8, 1)
+
+// モンスターマン[end]
+Monster Men
+[end]
+
+
+#ENDMSG()
+
+// substring 58
+#STARTMSG(0x4A345, 9, 1)
+
+// マッドシーカー[end]
+Mad Seekers
+[end]
+
+
+#ENDMSG()
+
+// substring 59
+#STARTMSG(0x4A34E, 11, 1)
+
+// デビルダンサー[end]
+Devil Dancers
+[end]
+
+
+#ENDMSG()
+
+// substring 60
+#STARTMSG(0x4A359, 8, 1)
+
+// あくまのてさき[end]
+Devil's Pawns
+[end]
+
+
+#ENDMSG()
+
+// substring 61
+#STARTMSG(0x4A361, 8, 1)
+
+// ソウルイーター[end]
+Soul Eaters
+[end]
+
+
+#ENDMSG()
+
+// substring 62
+#STARTMSG(0x4A369, 8, 1)
+
+// ガーゴイル[end]
+Gargoyles
+[end]
+
+
+#ENDMSG()
+
+// substring 63
+#STARTMSG(0x4A371, 8, 1)
+
+// モアファング[end]
+Morfangs
+[end]
+
+
+#ENDMSG()
+
+// substring 64
+#STARTMSG(0x4A379, 8, 1)
+
+// ウィングマン[end]
+Wingmen
+[end]
+
+
+#ENDMSG()
+
+// substring 65
+#STARTMSG(0x4A381, 6, 1)
+
+// デーモン[end]
+Demons
+[end]
+
+
+#ENDMSG()
+
+// substring 66
+#STARTMSG(0x4A387, 10, 1)
+
+// デーモンロード[end]
+Demon Lords
+[end]
+
+
+#ENDMSG()
+
+// substring 67
+#STARTMSG(0x4A391, 10, 1)
+
+// キングデーモン[end]
+Demon Kings
+[end]
+
+
+#ENDMSG()
+
+// substring 68
+#STARTMSG(0x4A39B, 6, 1)
+
+// べりアル[end]
+Belials
+[end]
+
+
+#ENDMSG()
+
+// substring 69
+#STARTMSG(0x4A3A1, 7, 1)
+
+// ドラゴン[end]
+Dragons
+[end]
+
+
+#ENDMSG()
+
+// substring 70
+#STARTMSG(0x4A3A8, 11, 1)
+
+// ダークドラゴン[end]
+Dark Dragons
+[end]
+
+
+#ENDMSG()
+
+// substring 71
+#STARTMSG(0x4A3B3, 7, 1)
+
+// カオスワーム[end]
+Chaos Worms
+[end]
+
+
+#ENDMSG()
+
+// substring 72
+#STARTMSG(0x4A3BA, 10, 1)
+
+// ドラゴナード[end]
+Dragonards
+[end]
+
+
+#ENDMSG()
+
+// substring 73
+#STARTMSG(0x4A3C4, 11, 1)
+
+// デビルライダー[end]
+Devil Riders
+[end]
+
+
+#ENDMSG()
+
+// substring 74
+#STARTMSG(0x4A3CF, 7, 1)
+
+// やみのつかい[end]
+//Messenger of Darkness
+Dark Messengers
+[end]
+
+
+#ENDMSG()
+
+// substring 75
+#STARTMSG(0x4A3D6, 4, 1)
+
+// キメラ[end]
+Chimeras
+[end]
+
+
+#ENDMSG()
+
+// substring 76
+#STARTMSG(0x4A3DA, 8, 1)
+
+// ロードキメラ[end]
+Chimera Lords
+[end]
+
+
+#ENDMSG()
+
+// substring 77
+#STARTMSG(0x4A3E2, 11, 1)
+
+// ゾンビタイガー[end]
+Zombie Tigers
+[end]
+
+
+#ENDMSG()
+
+// substring 78
+#STARTMSG(0x4A3ED, 10, 1)
+
+// グールタイガー[end]
+Ghoul Tigers
+[end]
+
+
+#ENDMSG()
+
+// substring 79
+#STARTMSG(0x4A3F7, 9, 1)
+
+// パパフレット[end]
+Daddy Frets
+[end]
+
+
+#ENDMSG()
+
+// substring 80
+#STARTMSG(0x4A400, 8, 1)
+
+// ボスフレット[end]
+Boss Frets
+[end]
+
+
+#ENDMSG()
+
+// substring 81
+#STARTMSG(0x4A408, 9, 1)
+
+// キラードッグ[end]
+Killer Dogs
+[end]
+
+
+#ENDMSG()
+
+// substring 82
+#STARTMSG(0x4A411, 7, 1)
+
+// ウルブりン[end]
+Wolverines
+[end]
+
+
+#ENDMSG()
+
+// substring 83
+#STARTMSG(0x4A418, 10, 1)
+
+// ハンタードッグ[end]
+Hunter Dogs
+[end]
+
+
+#ENDMSG()
+
+// substring 84
+#STARTMSG(0x4A422, 7, 1)
+
+// ケルべロス[end]
+Cerberuses
+[end]
+
+
+#ENDMSG()
+
+// substring 85
+#STARTMSG(0x4A429, 10, 1)
+
+// ブラッドフット[end]
+Bloodfoots
+[end]
+
+
+#ENDMSG()
+
+// substring 86
+#STARTMSG(0x4A433, 10, 1)
+
+// インターセプター[end]
+Interceptors
+[end]
+
+
+#ENDMSG()
+
+// substring 87
+#STARTMSG(0x4A43D, 9, 1)
+
+// カボスコング[end]
+Carbos Kongs
+[end]
+
+
+#ENDMSG()
+
+// substring 88
+#STARTMSG(0x4A446, 9, 1)
+
+// ハンマーフィスト[end]
+Hammer Fists
+[end]
+
+
+#ENDMSG()
+
+// substring 89
+#STARTMSG(0x4A44F, 7, 1)
+
+// まぞくへい[end]
+Magus Soldiers
+[end]
+
+
+#ENDMSG()
+
+// substring 90
+#STARTMSG(0x4A456, 7, 1)
+
+// ブカりへい[end]
+Bucalli Soldiers
+[end]
+
+
+#ENDMSG()
+
+// substring 91
+#STARTMSG(0x4A45D, 8, 1)
+
+// ブカりナイト[end]
+Bucalli Knights
+[end]
+
+
+#ENDMSG()
+
+// substring 92
+#STARTMSG(0x4A465, 6, 1)
+
+// クルジア[end]
+Kurdias
+[end]
+
+
+#ENDMSG()
+
+// substring 93
+#STARTMSG(0x4A46B, 6, 1)
+
+// ストーカー[end]
+Stalkers
+[end]
+
+
+#ENDMSG()
+
+// substring 94
+#STARTMSG(0x4A471, 7, 1)
+
+// デュラハン[end]
+Dullahans
+[end]
+
+
+#ENDMSG()
+
+// substring 95
+#STARTMSG(0x4A478, 6, 1)
+
+// へルナイト[end]
+Hell Knights
+[end]
+
+
+#ENDMSG()
+
+// substring 96
+#STARTMSG(0x4A47E, 8, 1)
+
+// しのしょうにん[end]
+Merchants of Death
+[end]
+
+
+#ENDMSG()
+
+// substring 97
+#STARTMSG(0x4A486, 6, 1)
+
+// ギりアム[end]
+Gilliams
+[end]
+
+
+#ENDMSG()
+
+// substring 98
+#STARTMSG(0x4A48C, 7, 1)
+
+// ランディス[end]
+Landises
+[end]
+
+
+#ENDMSG()
+
+// substring 99
+#STARTMSG(0x4A493, 6, 1)
+
+// テバルヤ[end]
+Tabaliahs
+[end]
+
+
+#ENDMSG()
+
+// substring 100
+#STARTMSG(0x4A499, 7, 1)
+
+// ウロボロス[end]
+Ouroboroses
+[end]
+
+
+#ENDMSG()
+
+// substring 101
+#STARTMSG(0x4A4A0, 8, 1)
+
+// りバイアサン[end]
+Leviathans
+[end]
+
+
+#ENDMSG()
+
+// substring 102
+#STARTMSG(0x4A4A8, 9, 1)
+
+// ウェアタイガー[end]
+Weretigers
+[end]
+
+
+#ENDMSG()
+
+// substring 103
+#STARTMSG(0x4A4B1, 5, 1)
+
+// ブカり[end]
+Bucallis
+[end]
+
+
+#ENDMSG()
+
+// substring 104
+#STARTMSG(0x4A4B6, 5, 1)
+
+// ブカり[end]
+Bucallis
+[end]
+
+
+#ENDMSG()
+
+

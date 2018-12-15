@@ -1,0 +1,192 @@
+
+routines
+  00DA: readControllerInput?
+  01B9: waitFrames
+        waits B frames before returning
+  0456: clearNametableArea
+        HL = x/y
+        DE = nametable data
+        BC = w/h
+  04B6: stringTableLookup
+        scans through string table in HL to find the Ath entry
+  075E: longjmp
+        A = target routine bank
+        HL = target routine pointer (slot 1)
+        $C335 = value of A for routine call
+        $C336-C337 = vaule of HL for routine call
+  0798: printExternalString?
+  0828: loadRawExternalTiles
+        A = bank num
+        BC = tile count
+        DE = src ptr
+        HL = dst tilenum
+  0858: externalTableLookup
+        B = bank
+        D = stringnum
+  0AF1: redrawMetaileArea
+        redraw metatiles in an area of the screen from current map's data
+        HL = metatile x/y (metatile coordinates, local to visible screen)
+        DE = w/h
+  0E66: mult
+        returns D*E in DE
+  0F4E: sendCharToNametable
+        DE = character tile index
+  0F64: sendTileToNametable
+        HL = screen-local dst
+        DE = nametable data
+  0F94: readTileFromNametable
+        HL = screen-local dst
+        returns result in DE
+  0FCE: setUpPrintParams
+        set up printing parameters by copying 5 bytes from (HL) to C4A9+
+  0FDD: drawWindowBase
+  10F0: saveStdTilemapToC000
+  10F9: saveStdTilemap
+  11A3: prepStdDialogue
+        saves tilemap area behind standard dialogue window and creates window
+  114E: writeStdTilemapFromC000
+  115A: writeStdTilemap
+  12B7: printStdChar
+  13AD: printString
+        prints a string (all contexts?)
+        HL = src
+        ??
+  1A5A: countStringGlyphs
+        counts number of glyphs in a string.
+        this is sometimes used to calculate the display width of text so it
+        can be auto-centered (e.g. intro, main menu)
+  1A77: countStringBytes
+  1AE9: numToStr
+        DE = num?
+        string written to C4B2
+  1B03: print8BitNum
+        A = number
+  1B30: printNum
+        B = number of digits, or 0 for "don't care"
+            (zero throws away leading zeroes)
+        DE = num?
+  21DD: copy a metatile to the VDP
+        HL = metatile x/y (VDP-absolute)
+        IX = metatile subtile pointer
+  2733: return pointer to metatile data for a position in the current map
+        in IX
+  296B: runMenu?
+  3BD8: print dialogue message?
+  3BD9: call here to print dialogue message at ret addr, then terminate
+  3C11: prints standard dialogue messages
+  8961: draw enemy-pointed(?) word balloon
+
+memory
+  C340: vblank flag (set to 01 by handler)
+  C345: button input
+  C34C-C37B: tile palette (1 byte per 4-bit color component, RGB)
+  C37C-C3AB: sprite palette (1 byte per 4-bit color component, RGB)
+  C435: metatile y-coordinate of top-left corner of visible screen area
+        (accounting for scroll)
+  C436: metatile x-coordinate of top-left corner of visible screen area
+        (accounting for scroll)
+  C43D: player metatile Y
+  C43E: player metatile X
+  C4A9: base print X (screen-local tile)
+  C4AA: base print Y (screen-local tile)
+  C4AB: width of current print area in tiles
+        (auto-wrapping is applied if exceeded)
+  C4AC: height of current print area in tiles
+  C4AD: text speed (0 = instant, otherwise frame delay between successive
+        characters)
+  C4AE: Y-offset of current print position from base
+  C4AF: X-offset of current print position from base
+  C4B2: buffer for printed numbers (max 5 digits + terminator?)
+  C504: if nonzero, printed characters have BG priority?
+        see sendCharToVdp
+  C833: player name
+  C9DD: 3-byte array of current party member IDs
+  C9E0: array of party character data structures, 0x3C bytes each
+        * 0x10-0x11: current HP
+  CBC0: gold count
+  CBC2-CC3A: array of held quantities for each item id
+
+rom
+  ~481C0: party member names?
+  ~48C00: items?
+  ~49200: spells?
+  ~4A180: monsters?
+  
+  48215: array of item properties?
+         * 0x15 bytes each?
+         * 
+  
+* game appears to have no scripting system; events and dialogue are set up
+  with native code
+* watch out for manual calls to printStdChar [$12B7]
+* intro will have to be adjusted (it reads data back as it prints to determine
+  where to end, and uses countStringGlyphs to auto-center the text)
+
+* for various reasons, it'll probably be simpler to copy our strings to RAM before
+  printing them
+  * D000~D400 looks pretty unused. or expansion ram?
+
+* deallocate VWF tiles in the areas affected by the following routines:
+  * redrawMetaileArea (AF1)
+  * drawWindowBase (FDD)
+  * writeStdTilemap (115A)
+    * may need to set up a separate entry point that doesn't do the deallocation
+      if there are cases where a window is overwritten and restored without
+      redrawing
+      * alternate solution: use the allocation array as a reference counter,
+        incrementing the counter of VWF tiles affected by a call to
+        saveStdTilemap and merely decrementing on deallocation?
+
+TODO:
+  * reduce frequency of garbage collection by adding VWF tile deallocation:
+    * when standard dialogue box is closed after calls to e.g. 3C11
+    * when lines are scrolled out of dialogue box
+  * optimize garbage collection (it's probably faster to just scan the entire
+    nametable sequentially rather than make looped calls to
+    readTileFromNametable)
+  * check that DI during VWF tile-to-VDP operation isn't going to cause
+    noticeable music stuttering
+    * why do tile transfers use DI but not nametable transfers, anyway?
+  * see if we can make some effort to prevent temp-hidden windows from having
+    their text deallocated during garbage collection
+    * set a flag when an area is saved with saveStdTilemapToC000, clear it
+      when writeStdTilemapFromC000 runs, and if flag is set, check that area
+      for allocation?
+      * finish implementing this
+  * flag for narrow font conversion?
+  * hero naming
+    * and naming screen
+  * fix intro
+  * deal with standalone calls to printStdChar
+  * see about blanking non-active dialogue windows as a last resort in
+    VWF garbage collection
+  * "miss" graphic (it's probably uncompressed)
+  * optimize VWF not to send buffers unless full when in instant
+    print mode (C4AD zero)
+  * prevent temp-hidden tile deallocation:
+    * "found X among enemy remains"
+    * "enemy appeared"
+  * stop VWF composition flickering by writing tiles, preparing VDP transfer
+    queue for nametable, then running queue after string end as appropriate
+    * but what about character-by-character printing?
+    * single-character prints done in code should be redirected so they
+      insta-print, our own calls go through the queue
+  * fix bad shadow on dash from original font
+  * "H" to "HP" in battle
+  * enemy plurality?
+  * shop messages actually have a width of 144 instead of 128
+  * sell message amount?
+  * "confusion"
+
+done:
+  * FIX GLYPH COUNTING
+  * fix printing from RAM
+    * hero name
+    * reset numbers before printing
+  * fix "hardcoded" string concatenations (e.g. "got [x] EXP")
+  * fix linebreaks
+  * add dialogue box line scrolling back in (currently commented out to make
+    room for new code -- offload some of the code out of bank 0)
+  * "tile break" op
+  * text wrapper
+

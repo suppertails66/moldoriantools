@@ -1,0 +1,23 @@
+in battle:
+
+クリティカルヒット
+Critical Hit
+
+------------------------------
+
+	at castle Emaroy:
+
+ここは　エマロイじょうだ。
+This is Castle Emaroy.
+
+あなたがたは　おうさまが
+もどってこられるまで　しろから
+だすなと　いわれています。
+We've been ordered to prevent you from leaving the castle until the King has returned.
+
+	In the dwarven village, in the prison (after you get the magical key and open the cell)
+	
+あーん、いとしいひとー
+Oh, kind stranger!
+
+------------------------------
