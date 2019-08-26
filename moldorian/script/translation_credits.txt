@@ -36,7 +36,9 @@ Translation Credits[end]
 #ENDMSG()
 
     Original Script Dump[br]
-       Filler
+       Filler[br]
+    Manual Scanslation[br]
+       Novyal
 
 [end]
 #ENDMSG()

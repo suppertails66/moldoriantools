@@ -1003,6 +1003,14 @@
       call writeStdTilemap
       ret
   .ends
+  
+  ; reduce width of yes/no prompt window (less space is needed for English
+  ; text)
+  .bank $00 slot 0
+  .org $1230
+  .section "yes/no prompt width" overwrite
+    .db $05-1,$04
+  .ends
 
 ;===============================================
 ; vwf font
@@ -3145,6 +3153,14 @@
   .bank $00 slot 0
   .org $32AE
   .section "fix name entry deletion" overwrite
+    ; vwf needs reset here because new-string detection
+    ; heuristic will fail if deleting the character did not
+    ; move past a tile boundary.
+    ; or something like that. this fixes it, anyway.
+    push hl
+    call resetVwf
+    pop hl
+    
     jp $32BC
   .ends
   
@@ -3313,6 +3329,51 @@
     .db $0D-1,$08
     ; window w/h
     .db $05+1,$05
+    ; text speed
+    .db $00
+  .ends
+
+  ;=====
+  ; item use/drop menu
+  ;=====
+
+  .bank $01 slot 1
+  .org $1BDE
+  .section "item use/drop menu" overwrite
+    ; base window x/y
+    .db $03,$05
+    ; window w/h
+    .db $06-1,$04
+    ; text speed
+    .db $00
+  .ends
+
+  ;=====
+  ; spell learn/enhance menu
+  ;=====
+
+  .bank $01 slot 1
+  .org $3661
+  .section "spell learn/enhance menu" overwrite
+    ; base window x/y
+    .db $0E+2,$07
+    ; window w/h
+    .db $09-2,$07
+    ; text speed
+    .db $00
+  .ends
+
+  ;=====
+  ; shop view/yes/no window
+  ;=====
+
+  .bank $01 slot 1
+  .org $2DBF
+  .section "shop view/yes/no window" overwrite
+    ; base window x/y
+    .db $12,$0B
+    ; window w/h
+    .db $05,$05
     ; text speed
     .db $00
   .ends
@@ -4712,4 +4773,40 @@
   .dw credits_producer
 .ends
 
+;===============================================
+; fix inconsistent window palette
+;===============================================
+
+; in most places, the window background color is RGB 00,02,08.
+; but the default color used when the overworld is loaded is
+; RGB 00,02,0A.
+; this color gets overwritten when e.g. a character portrait is
+; displayed, causing the background to darken noticeably.
+; this fix changes the color to always be 00,02,08.
+
+.bank $18 slot 1
+.org $0009
+.section "fix window background palette" overwrite
+  .db $00,$02,$08
+.ends
+
+;===============================================
+; fix lines on character status screen
+;===============================================
+
+.bank $01 slot 1
+.org $165D
+.section "fix character status lines 1" overwrite
+;  ld bc,$0B60
+  ; 6B = new index of horizontal line
+  ld bc,$0B00|vwfDividerIndex
+.ends
+
+.bank $01 slot 1
+.org $168D
+.section "fix character status lines 2" overwrite
+;  ld bc,$0B60
+  ; 6B = new index of horizontal line
+  ld bc,$0B00|vwfDividerIndex
+.ends
 

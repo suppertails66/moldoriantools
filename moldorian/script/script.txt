@@ -3848,7 +3848,8 @@ Slows down target.
 #STARTMSG(0xE96E, 17, 1)
 
 // あいての　まほうを　ふうじます[end]
-Seals target magic.
+//Seals target magic.
+Seals target's magic.
 [end]
 
 
@@ -3858,7 +3859,8 @@ Seals target magic.
 #STARTMSG(0xE97F, 15, 1)
 
 // あいての　ＭＰを　へらします[end]
-Reduces target MP.
+//Reduces target MP.
+Reduces target's MP.
 [end]
 
 
@@ -5602,7 +5604,7 @@ I guess I'll tag along.}
 
 // if you return to the first village with ceria in your party, she
 // leaves your party until you exit. this is what she asks when
-// your leave the village.
+// you leave the village.
 Ceria: {Are you finished here?}
 [end]
 
@@ -5615,6 +5617,9 @@ Ceria: {Are you finished here?}
 
 // substring 0
 #STARTMSG(0x10D6E, 20, 1)
+
+// i figured this was unused, but nope, try using the staircase
+// in the upper-right corner of keuzon during the ending
 
 // かいそうちゅう。[br]
 // たちいり　きんし！[wait]
@@ -6092,7 +6097,8 @@ Retrieved Miria's Brooch!
 
 // 「ひがしのもりにある　どうくつの　なかには　すごいおたからが[br]
 // 　ねむっている・・・[wait]
-{There's a fabulous treasure resting in the cave inside the eastern forest...
+//{There's a fabulous treasure resting in the cave inside the eastern forest...
+{A fabulous treasure rests in the cave inside the eastern forest...
 [wait][br]
 
 // [br]
@@ -6428,7 +6434,8 @@ Rand: {Miria's brooch? Hah! You'll never find that thing!}
 // ランド「[hero]が　ブローチを[br]
 // 　みつけた？　へッ、ホントは[br]
 // 　ミりアが　みつけたんだろう？[wait]
-Rand: {Huh? [hero] found the brooch? No way. It was probably Miria who found it.}
+//Rand: {Huh? [hero] found the brooch? No way. It was probably Miria who found it.}
+Rand: {Huh? [hero] found the brooch? No way. I bet you were the one who found it, Miria.}
 [wait][end]
 
 
@@ -7267,6 +7274,7 @@ But she's alive... That's what matters. Thank you, [hero].}
 // 「あっ、[hero]！[br]
 // 　さがしてたの！[br]
 // 　おねがいが　あるのよ。[wait]
+//{Oh, there you are, [hero]! I've been looking for you all over! I need a little favor.
 {Oh, there you are, [hero]! I've been looking for you all over! I need a little favor.
 [wait][br]
 
@@ -7291,6 +7299,7 @@ I wanted to go look for it. Would you come with me?}
 
 // 「ありがとう！　そういって[br]
 // 　くれると　おもってたんだ！[wait]
+//{Thanks! I knew I could count on you!}
 {Thanks! I knew I could count on you!}
 [wait][end]
 
@@ -7303,6 +7312,7 @@ I wanted to go look for it. Would you come with me?}
 // 「いじわるね。でも、ホントは[br]
 // 　ついてきて　くれるんでしょ？[br]
 // 　ちゃんと　わかってるんだから。[wait]
+//{Oh, you. I know you're just teasing me. Okay, let's go then!}
 {Oh, you. I know you're just teasing me. Okay, let's go then!}
 [wait][end]
 
@@ -7888,7 +7898,7 @@ Luthran: {We should ask you the same. You do understand that we may have to figh
 //Ceria: {Shut up![br]
 //Instead of worrying about me, worry about yourself!}
 Ceria: {Shut up![br]
-Don't worry about me, worry about yourself!}
+Don't worry about me -- worry about yourself!}
 [wait][end]
 
 
@@ -9222,7 +9232,11 @@ Queen: {Very well. Deploy at once!}
 #STARTMSG(0x1525E, 20, 1)
 
 // バド「はい、おまかせください！[wait]
-Vado: {Yes, Your Highness!}
+//Vado: {Yes, Your Highness!}
+
+// highness = prince/princess
+// majesty = king/queen
+Vado: {Yes, Your Majesty!}
 [wait][end]
 
 
@@ -10098,7 +10112,8 @@ Be extremely careful...}
 #STARTMSG(0x168C5, 23, 1)
 
 // バド「おうさま！ごぶじですか？[wait]
-Vado: {Your Highness! Are you unharmed?}
+//Vado: {Your Highness! Are you unharmed?}
+Vado: {Your Majesty! Are you unharmed?}
 [wait][end]
 
 
@@ -10139,7 +10154,8 @@ King: {So even Taliph has been raided by monsters... Thank you for your report. 
 
 // テスコ「はい！[br]
 // 　わたしは　むらに　かえります。　おうさまも　おげんきで！[wait]
-Tesko: {Yes, Your Highness! I'm going back to the village. Many blessings to you, Sire!}
+//Tesko: {Yes, Your Highness! I'm going back to the village. Many blessings to you, Sire!}
+Tesko: {Yes, Your Majesty! I'm going back to the village. Many blessings to you, Sire!}
 [wait][end]
 
 
@@ -10179,7 +10195,8 @@ I grant you permission to travel with [hero] and look for her.}
 
 // バド「はっ！[br]
 // 　ありがとうございます！[wait]
-Vado: {Thank you, Your Highness!}
+//Vado: {Thank you, Your Highness!}
+Vado: {Thank you, Your Majesty!}
 [wait][end]
 
 
@@ -10525,7 +10542,7 @@ Luthran: {Thank you.
 // 「じつは　ちょうろうの[br]
 // 　おはなしを　うかがいたいと[br]
 // 　わたしの　ともだちが・・・[wait]
-Actually, there is something else we must discuss. I have brought some friends --}
+Actually, there is something else we must discuss. I have brought some friends...}
 [wait][end]
 
 
@@ -11392,7 +11409,8 @@ It's locked.
 // トルル「ここ　あたしのまちなの[br]
 // 　ちょっと　うちによって[br]
 // 　いいでしょ？[wait]
-Torle: {This is where I'm from. Do you mind if I go home for a bit?}
+//Torle: {This is where I'm from. Do you mind if I go home for a bit?}
+Torle: {This is where I'm from. Do you mind if we swing by my house?}
 [wait][end]
 
 
@@ -11772,7 +11790,7 @@ Bye bye!}
 // 「なに？　ひっこしたのを[br]
 // 　しらなかった？　てやんでい、[br]
 // 　ちゃんと　てがみを・・・[wait]
-{Hm? What do you mean, you didn't know we moved? I'm sure I wrote you a let --
+{Hm? What do you mean, you didn't know we moved? I'm sure I wrote you a let--
 [wait][br]
 
 // [br]
@@ -12501,7 +12519,7 @@ Anna: {How's Vado doing?}
 // [br]
 // 「にたような　かおに　あったり[br]
 // 　するからね、いちいち　おぼえて　いられないのさ。[wait]
-After a while, all faces tend to blend together.
+After a while, all the faces tend to blend together.
 [wait][br]
 
 // [br]
@@ -12595,7 +12613,7 @@ With that said, take a look at my wares!}
 // 　うわさによると、まほうは[br]
 // 　あまり　うまくないらしいぞ。[wait]
 //However, it seems that she herself is not particularly skilled with magic.
-Apparently she isn't particularly skilled with magic, though.}
+Apparently, she isn't particularly skilled with magic, though.}
 [wait][end]
 
 
@@ -12852,7 +12870,8 @@ Vado: {Ah! Miria?!}
 // ミりア？「こないだは　よくも[br]
 // 　バカにして　くれたわね！[br]
 // 　きょうは　やっつけてやるから[wait]
-Miria?: {You're going to pay for the way you humiliated me the other time!}
+//Miria?: {You're going to pay for the way you humiliated me the other time!}
+Miria?: {You're going to pay for the way you humiliated me that time!}
 [wait][end]
 
 
@@ -13032,7 +13051,7 @@ Bucalli: {Hmph! I'll kill both of you at once, if that's what you want!}
 // ブカり「クッ　クソ・・・！[br]
 // 　しっぱいか・・・！[wait]
 //Bucalli: {D-Darn it...! I failed...!}
-Bucalli: {D-Darn it...! No good...!}
+Bucalli: {D-Darn it...! This is no good...!}
 [wait][end]
 
 
@@ -13252,8 +13271,10 @@ Vado: *groan*[br]
 
 // ルスラン「うなされてる・・・[br]
 // 　はやく　よくなってくれよ・・・[wait]
+//Luthran: {He's having a nightmare...[br]
+//Please be well soon.}
 Luthran: {He's having a nightmare...[br]
-Please be well soon.}
+Please get well soon...}
 [wait][end]
 
 
@@ -14861,7 +14882,8 @@ It's locked.
 
 // 「つかれたら　べッドで[br]
 // 　やすんでくといいよ。[wait]
-{Feel free to use that bed if you're tired.}
+//{Feel free to use that bed if you're tired.}
+{Feel free to use those beds if you're tired.}
 [wait][end]
 
 
@@ -15401,7 +15423,8 @@ She's just lying in bed, spacing out.}
 // 「つい　このまえも、[br]
 // 　いきだおれの　おんなのこを[br]
 // 　ひろったばかりじゃよ。[wait]
-The other day we found a woman collapsed and brought her in.}
+//The other day we found a woman collapsed and brought her in.}
+The other day, we found a woman collapsed and brought her in.}
 [wait][end]
 
 
@@ -15700,7 +15723,8 @@ Tabaliah: {I'm afraid not. I'm fighting on Lord Bucalli's side.
 // [br]
 // 「どうしても、というのなら・・・　わたしを　たおしてからに[br]
 // 　してください。[wait]
-If you really wish to pass... You'll have to go through me.}
+//If you really wish to pass... You'll have to go through me.}
+If you really wish to pass... you'll have to go through me.}
 [wait][end]
 
 
